@@ -1,0 +1,2629 @@
+{
+  "dataset": "sports",
+  "year": {
+	"1940": {
+      "sport": {
+        "nfl": {
+          "winner": "Chicago Bears",
+          "loser": "Washington Redskins",
+          "score": "73-0",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Cincinnati Reds",
+          "loser": "Detroit Tigers",
+          "score": "2-1",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "New York Rangers",
+          "loser": "Toronto Maple Leafs",
+          "score": "3-2",
+          "title": "Stanley Cup",
+          "series": "4-2"
+        },
+        "nba": {
+          "winner": "No Finals Held",
+          "loser": "",
+          "score": "",
+          "title": "",
+          "series": ""
+        }
+      }
+    },
+    "1941": {
+      "sport": {
+        "nfl": {
+          "winner": "Chicago Bears",
+          "loser": "New York Giants",
+          "score": "37-9",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "New York Yankees",
+          "loser": "Brooklyn Dodgers",
+          "score": "3-1",
+          "title": "World Series",
+          "series": "4-1"
+        },
+        "nhl": {
+          "winner": "Boston Bruins",
+          "loser": "Detroit Red Wings",
+          "score": "3-1",
+          "title": "Stanley Cup",
+          "series": "4-0"
+        },
+        "nba": {
+          "winner": "No Finals Held",
+          "loser": "",
+          "score": "",
+          "title": "",
+          "series": ""
+        }
+      }
+    },
+    "1942": {
+      "sport": {
+        "nfl": {
+          "winner": "Washington Redskins",
+          "loser": "Chicago Bears",
+          "score": "14-6",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "St. Louis Cardinals",
+          "loser": "New York Yankees",
+          "score": "4-2",
+          "title": "World Series",
+          "series": "4-1"
+        },
+        "nhl": {
+          "winner": "Toronto Maple Leafs",
+          "loser": "Detroit Red Wings",
+          "score": "3-1",
+          "title": "Stanley Cup",
+          "series": "4-3"
+        },
+        "nba": {
+          "winner": "No Finals Held",
+          "loser": "",
+          "score": "",
+          "title": "",
+          "series": ""
+        }
+      }
+    },
+    "1943": {
+      "sport": {
+        "nfl": {
+          "winner": "Chicago Bears",
+          "loser": "Washington Redskins",
+          "score": "41-21",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "New York Yankees",
+          "loser": "St. Louis Cardinals",
+          "score": "2-0",
+          "title": "World Series",
+          "series": "4-1"
+        },
+        "nhl": {
+          "winner": "Detroit Red Wings",
+          "loser": "Boston Bruins",
+          "score": "2-0",
+          "title": "Stanley Cup",
+          "series": "4-0"
+        },
+        "nba": {
+          "winner": "No Finals Held",
+          "loser": "",
+          "score": "",
+          "title": "",
+          "series": ""
+        }
+      }
+    },
+    "1944": {
+      "sport": {
+        "nfl": {
+          "winner": "Green Bay Packers",
+          "loser": "New York Giants",
+          "score": "14-7",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "St. Louis Cardinals",
+          "loser": "St. Louis Browns",
+          "score": "3-1",
+          "title": "World Series",
+          "series": "4-2"
+        },
+        "nhl": {
+          "winner": "Montreal Canadiens",
+          "loser": "Chicago Black Hawks",
+          "score": "5-4",
+          "title": "Stanley Cup",
+          "series": "4-0"
+        },
+        "nba": {
+          "winner": "No Finals Held",
+          "loser": "",
+          "score": "",
+          "title": "",
+          "series": ""
+        }
+      }
+    },
+    "1945": {
+      "sport": {
+        "nfl": {
+          "winner": "Cleveland Rams",
+          "loser": "Washington Redskins",
+          "score": "15-14",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Detroit Tigers",
+          "loser": "Chicago Cubs",
+          "score": "9-3",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Toronto Maple Leafs",
+          "loser": "Detroit Red Wings",
+          "score": "2-1",
+          "title": "Stanley Cup",
+          "series": "4-3"
+        },
+        "nba": {
+          "winner": "No Finals Held",
+          "loser": "",
+          "score": "",
+          "title": "",
+          "series": ""
+        }
+      }
+    },
+    "1946": {
+      "sport": {
+        "nfl": {
+          "winner": "Chicago Bears",
+          "loser": "New York Giants",
+          "score": "24-14",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "St. Louis Cardinals",
+          "loser": "Boston Red Sox",
+          "score": "4-3",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Montreal Canadiens",
+          "loser": "Boston Bruins",
+          "score": "6-3",
+          "title": "Stanley Cup",
+          "series": "4-1"
+        },
+        "nba": {
+          "winner": "No Finals Held",
+          "loser": "",
+          "score": "",
+          "title": "",
+          "series": ""
+        }
+      }
+    },
+    "1947": {
+      "sport": {
+        "nfl": {
+          "winner": "Chicago Cardinals",
+          "loser": "Philadelphia Eagles",
+          "score": "28-21",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "New York Yankees",
+          "loser": "Brooklyn Dodgers",
+          "score": "5-2",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Toronto Maple Leafs",
+          "loser": "Montreal Canadiens",
+          "score": "2-1",
+          "title": "Stanley Cup",
+          "series": "4-2"
+        },
+        "nba": {
+          "winner": "Philadelphia Warriors",
+          "loser": "Chicago Stags",
+          "score": "83-80",
+          "title": "BAA Championship",
+          "series": "4-1"
+        }
+      }
+    },
+    "1948": {
+      "sport": {
+        "nfl": {
+          "winner": "Philadelphia Eagles",
+          "loser": "Chicago Cardinals",
+          "score": "7-0",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Cleveland Indians",
+          "loser": "Boston Braves",
+          "score": "4-3",
+          "title": "World Series",
+          "series": "4-2"
+        },
+        "nhl": {
+          "winner": "Toronto Maple Leafs",
+          "loser": "Detroit Red Wings",
+          "score": "7-2",
+          "title": "Stanley Cup",
+          "series": "4-0"
+        },
+        "nba": {
+          "winner": "Baltimore Bullets",
+          "loser": "Philadelphia Warriors",
+          "score": "88-73",
+          "title": "BAA Finals",
+          "series": "4-2"
+        }
+      }
+    },
+    "1949": {
+      "sport": {
+        "nfl": {
+          "winner": "Philadelphia Eagles",
+          "loser": "Los Angeles Rams",
+          "score": "14-0",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "New York Yankees",
+          "loser": "Brooklyn Dodgers",
+          "score": "10-6",
+          "title": "World Series",
+          "series": "4-1"
+        },
+        "nhl": {
+          "winner": "Toronto Maple Leafs",
+          "loser": "Detroit Red Wings",
+          "score": "3-1",
+          "title": "Stanley Cup",
+          "series": "4-0"
+        },
+        "nba": {
+          "winner": "Minneapolis Lakers",
+          "loser": "Washington Capitols",
+          "score": "77-56",
+          "title": "BAA Finals",
+          "series": "4-2"
+        }
+      }
+    }
+	 "1950": {
+      "sport": {
+        "nfl": {
+          "winner": "Cleveland Browns",
+          "loser": "Los Angeles Rams",
+          "score": "30-28",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "New York Yankees",
+          "loser": "Philadelphia Phillies",
+          "score": "5-2",
+          "title": "World Series",
+          "series": "4-0"
+        },
+        "nhl": {
+          "winner": "Detroit Red Wings",
+          "loser": "New York Rangers",
+          "score": "4-3",
+          "title": "Stanley Cup",
+          "series": "4-3"
+        },
+        "nba": {
+          "winner": "Minneapolis Lakers",
+          "loser": "Syracuse Nationals",
+          "score": "110-95",
+          "title": "NBA Finals",
+          "series": "4-2"
+        }
+      }
+    },
+    "1951": {
+      "sport": {
+        "nfl": {
+          "winner": "Los Angeles Rams",
+          "loser": "Cleveland Browns",
+          "score": "24-17",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "New York Yankees",
+          "loser": "New York Giants",
+          "score": "4-3",
+          "title": "World Series",
+          "series": "4-2"
+        },
+        "nhl": {
+          "winner": "Toronto Maple Leafs",
+          "loser": "Montreal Canadiens",
+          "score": "3-2",
+          "title": "Stanley Cup",
+          "series": "4-1"
+        },
+        "nba": {
+          "winner": "Rochester Royals",
+          "loser": "New York Knicks",
+          "score": "79-75",
+          "title": "NBA Finals",
+          "series": "4-3"
+        }
+      }
+    },
+    "1952": {
+      "sport": {
+        "nfl": {
+          "winner": "Detroit Lions",
+          "loser": "Cleveland Browns",
+          "score": "17-7",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "New York Yankees",
+          "loser": "Brooklyn Dodgers",
+          "score": "4-2",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Detroit Red Wings",
+          "loser": "Montreal Canadiens",
+          "score": "3-0",
+          "title": "Stanley Cup",
+          "series": "4-0"
+        },
+        "nba": {
+          "winner": "Minneapolis Lakers",
+          "loser": "New York Knicks",
+          "score": "82-65",
+          "title": "NBA Finals",
+          "series": "4-3"
+        }
+      }
+    },
+    "1953": {
+      "sport": {
+        "nfl": {
+          "winner": "Detroit Lions",
+          "loser": "Cleveland Browns",
+          "score": "17-16",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "New York Yankees",
+          "loser": "Brooklyn Dodgers",
+          "score": "4-3",
+          "title": "World Series",
+          "series": "4-2"
+        },
+        "nhl": {
+          "winner": "Montreal Canadiens",
+          "loser": "Boston Bruins",
+          "score": "1-0",
+          "title": "Stanley Cup",
+          "series": "4-1"
+        },
+        "nba": {
+          "winner": "Minneapolis Lakers",
+          "loser": "New York Knicks",
+          "score": "91-84",
+          "title": "NBA Finals",
+          "series": "4-1"
+        }
+      }
+    },
+    "1954": {
+      "sport": {
+        "nfl": {
+          "winner": "Cleveland Browns",
+          "loser": "Detroit Lions",
+          "score": "56-10",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "New York Giants",
+          "loser": "Cleveland Indians",
+          "score": "7-4",
+          "title": "World Series",
+          "series": "4-0"
+        },
+        "nhl": {
+          "winner": "Detroit Red Wings",
+          "loser": "Montreal Canadiens",
+          "score": "2-1",
+          "title": "Stanley Cup",
+          "series": "4-3"
+        },
+        "nba": {
+          "winner": "Minneapolis Lakers",
+          "loser": "Syracuse Nationals",
+          "score": "87-80",
+          "title": "NBA Finals",
+          "series": "4-3"
+        }
+      }
+    },
+    "1955": {
+      "sport": {
+        "nfl": {
+          "winner": "Cleveland Browns",
+          "loser": "Los Angeles Rams",
+          "score": "38-14",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Brooklyn Dodgers",
+          "loser": "New York Yankees",
+          "score": "2-0",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Detroit Red Wings",
+          "loser": "Montreal Canadiens",
+          "score": "3-1",
+          "title": "Stanley Cup",
+          "series": "4-3"
+        },
+        "nba": {
+          "winner": "Syracuse Nationals",
+          "loser": "Fort Wayne Pistons",
+          "score": "92-91",
+          "title": "NBA Finals",
+          "series": "4-3"
+        }
+      }
+    },
+    "1956": {
+      "sport": {
+        "nfl": {
+          "winner": "New York Giants",
+          "loser": "Chicago Bears",
+          "score": "47-7",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "New York Yankees",
+          "loser": "Brooklyn Dodgers",
+          "score": "9-0",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Montreal Canadiens",
+          "loser": "Detroit Red Wings",
+          "score": "3-1",
+          "title": "Stanley Cup",
+          "series": "4-1"
+        },
+        "nba": {
+          "winner": "Philadelphia Warriors",
+          "loser": "Fort Wayne Pistons",
+          "score": "99-88",
+          "title": "NBA Finals",
+          "series": "4-1"
+        }
+      }
+    },
+    "1957": {
+      "sport": {
+        "nfl": {
+          "winner": "Detroit Lions",
+          "loser": "Cleveland Browns",
+          "score": "59-14",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Milwaukee Braves",
+          "loser": "New York Yankees",
+          "score": "5-0",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Montreal Canadiens",
+          "loser": "Boston Bruins",
+          "score": "3-1",
+          "title": "Stanley Cup",
+          "series": "4-1"
+        },
+        "nba": {
+          "winner": "Boston Celtics",
+          "loser": "St. Louis Hawks",
+          "score": "125-123",
+          "title": "NBA Finals",
+          "series": "4-3"
+        }
+      }
+    },
+    "1958": {
+      "sport": {
+        "nfl": {
+          "winner": "Baltimore Colts",
+          "loser": "New York Giants",
+          "score": "23-17",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "New York Yankees",
+          "loser": "Milwaukee Braves",
+          "score": "6-2",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Montreal Canadiens",
+          "loser": "Boston Bruins",
+          "score": "5-3",
+          "title": "Stanley Cup",
+          "series": "4-2"
+        },
+        "nba": {
+          "winner": "St. Louis Hawks",
+          "loser": "Boston Celtics",
+          "score": "110-109",
+          "title": "NBA Finals",
+          "series": "4-2"
+        }
+      }
+    },
+    "1959": {
+      "sport": {
+        "nfl": {
+          "winner": "Baltimore Colts",
+          "loser": "New York Giants",
+          "score": "31-16",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Los Angeles Dodgers",
+          "loser": "Chicago White Sox",
+          "score": "9-3",
+          "title": "World Series",
+          "series": "4-2"
+        },
+        "nhl": {
+          "winner": "Montreal Canadiens",
+          "loser": "Toronto Maple Leafs",
+          "score": "5-3",
+          "title": "Stanley Cup",
+          "series": "4-1"
+        },
+        "nba": {
+          "winner": "Boston Celtics",
+          "loser": "Minneapolis Lakers",
+          "score": "118-113",
+          "title": "NBA Finals",
+          "series": "4-0"
+        }
+      }
+    }
+	"1960": {
+      "sport": {
+        "nfl": {
+          "winner": "Philadelphia Eagles",
+          "loser": "Green Bay Packers",
+          "score": "17-13",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Pittsburgh Pirates",
+          "loser": "New York Yankees",
+          "score": "10-9",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Montreal Canadiens",
+          "loser": "Toronto Maple Leafs",
+          "score": "4-0",
+          "title": "Stanley Cup",
+          "series": "4-0"
+        },
+        "nba": {
+          "winner": "Boston Celtics",
+          "loser": "St. Louis Hawks",
+          "score": "122-103",
+          "title": "NBA Finals",
+          "series": "4-3"
+        }
+      }
+    },
+    "1961": {
+      "sport": {
+        "nfl": {
+          "winner": "Green Bay Packers",
+          "loser": "New York Giants",
+          "score": "37-0",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "New York Yankees",
+          "loser": "Cincinnati Reds",
+          "score": "13-5",
+          "title": "World Series",
+          "series": "4-1"
+        },
+        "nhl": {
+          "winner": "Chicago Blackhawks",
+          "loser": "Detroit Red Wings",
+          "score": "5-1",
+          "title": "Stanley Cup",
+          "series": "4-2"
+        },
+        "nba": {
+          "winner": "Boston Celtics",
+          "loser": "St. Louis Hawks",
+          "score": "121-112",
+          "title": "NBA Finals",
+          "series": "4-1"
+        }
+      }
+    },
+    "1962": {
+      "sport": {
+        "nfl": {
+          "winner": "Green Bay Packers",
+          "loser": "New York Giants",
+          "score": "16-7",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "New York Yankees",
+          "loser": "San Francisco Giants",
+          "score": "1-0",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Toronto Maple Leafs",
+          "loser": "Chicago Blackhawks",
+          "score": "2-1",
+          "title": "Stanley Cup",
+          "series": "4-2"
+        },
+        "nba": {
+          "winner": "Boston Celtics",
+          "loser": "Los Angeles Lakers",
+          "score": "110-107",
+          "title": "NBA Finals",
+          "series": "4-3"
+        }
+      }
+    },
+    "1963": {
+      "sport": {
+        "nfl": {
+          "winner": "Chicago Bears",
+          "loser": "New York Giants",
+          "score": "14-10",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Los Angeles Dodgers",
+          "loser": "New York Yankees",
+          "score": "2-1",
+          "title": "World Series",
+          "series": "4-0"
+        },
+        "nhl": {
+          "winner": "Toronto Maple Leafs",
+          "loser": "Detroit Red Wings",
+          "score": "3-1",
+          "title": "Stanley Cup",
+          "series": "4-1"
+        },
+        "nba": {
+          "winner": "Boston Celtics",
+          "loser": "Los Angeles Lakers",
+          "score": "112-109",
+          "title": "NBA Finals",
+          "series": "4-2"
+        }
+      }
+    },
+    "1964": {
+      "sport": {
+        "nfl": {
+          "winner": "Cleveland Browns",
+          "loser": "Baltimore Colts",
+          "score": "27-0",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "St. Louis Cardinals",
+          "loser": "New York Yankees",
+          "score": "4-3",
+          "title": "World Series",
+          "series": "7-5"
+        },
+        "nhl": {
+          "winner": "Toronto Maple Leafs",
+          "loser": "Detroit Red Wings",
+          "score": "4-0",
+          "title": "Stanley Cup",
+          "series": "4-3"
+        },
+        "nba": {
+          "winner": "Boston Celtics",
+          "loser": "San Francisco Warriors",
+          "score": "105-99",
+          "title": "NBA Finals",
+          "series": "4-1"
+        }
+      }
+    },
+    "1965": {
+      "sport": {
+        "nfl": {
+          "winner": "Green Bay Packers",
+          "loser": "Cleveland Browns",
+          "score": "23-12",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Los Angeles Dodgers",
+          "loser": "Minnesota Twins",
+          "score": "2-0",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Montreal Canadiens",
+          "loser": "Chicago Blackhawks",
+          "score": "4-0",
+          "title": "Stanley Cup",
+          "series": "4-3"
+        },
+        "nba": {
+          "winner": "Boston Celtics",
+          "loser": "Los Angeles Lakers",
+          "score": "129-96",
+          "title": "NBA Finals",
+          "series": "4-1"
+        }
+      }
+    },
+    "1966": {
+      "sport": {
+        "nfl": {
+          "winner": "Green Bay Packers",
+          "loser": "Dallas Cowboys",
+          "score": "34-27",
+          "title": "NFL Championship Game",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Baltimore Orioles",
+          "loser": "Los Angeles Dodgers",
+          "score": "1-0",
+          "title": "World Series",
+          "series": "4-0"
+        },
+        "nhl": {
+          "winner": "Montreal Canadiens",
+          "loser": "Detroit Red Wings",
+          "score": "3-2",
+          "title": "Stanley Cup",
+          "series": "4-2"
+        },
+        "nba": {
+          "winner": "Boston Celtics",
+          "loser": "Los Angeles Lakers",
+          "score": "95-93",
+          "title": "NBA Finals",
+          "series": "4-3"
+        }
+      }
+    },
+    "1967": {
+      "sport": {
+        "nfl": {
+          "winner": "Green Bay Packers",
+          "loser": "Kansas City Chiefs",
+          "score": "35-10",
+          "title": "Super Bowl I",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "St. Louis Cardinals",
+          "loser": "Boston Red Sox",
+          "score": "7-2",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Toronto Maple Leafs",
+          "loser": "Montreal Canadiens",
+          "score": "3-1",
+          "title": "Stanley Cup",
+          "series": "4-2"
+        },
+        "nba": {
+          "winner": "Philadelphia 76ers",
+          "loser": "San Francisco Warriors",
+          "score": "125-122",
+          "title": "NBA Finals",
+          "series": "4-2"
+        }
+      }
+    },
+    "1968": {
+      "sport": {
+        "nfl": {
+          "winner": "Greenbay Packers",
+          "loser": "Oakland Raiders",
+          "score": "33-14",
+          "title": "Super Bowl II",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Detroit Tigers",
+          "loser": "St. Louis Cardinals",
+          "score": "4-1",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Montreal Canadiens",
+          "loser": "St. Louis Blues",
+          "score": "3-2",
+          "title": "Stanley Cup",
+          "series": "4-0"
+        },
+        "nba": {
+          "winner": "Boston Celtics",
+          "loser": "Los Angeles Lakers",
+          "score": "124-109",
+          "title": "NBA Finals",
+          "series": "4-2"
+        }
+      }
+    },
+    "1969": {
+      "sport": {
+        "nfl": {
+          "winner": "New York Jets",
+          "loser": "Baltimore Colts",
+          "score": "16-7",
+          "title": "Super Bowl III",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "New York Mets",
+          "loser": "Baltimore Orioles",
+          "score": "5-3",
+          "title": "World Series",
+          "series": "4-1"
+        },
+        "nhl": {
+          "winner": "Montreal Canadiens",
+          "loser": "St. Louis Blues",
+          "score": "2-1",
+          "title": "Stanley Cup",
+          "series": "4-0"
+        },
+        "nba": {
+          "winner": "Boston Celtics",
+          "loser": "Los Angeles Lakers",
+          "score": "108-106",
+          "title": "NBA Finals",
+          "series": "4-3"
+        }
+      }
+    }
+    "1970": {
+      "sport": {
+        "nfl": {
+          "winner": "Kansas City Chiefs",
+          "loser": "Minnesota Vikings",
+          "score": "23-7",
+          "title": "Super Bowl IV",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Baltimore Orioles",
+          "loser": "Cincinnati Reds",
+          "score": "9-3",
+          "title": "World Series",
+          "series": "4-1"
+        },
+        "nhl": {
+          "winner": "Boston Bruins",
+          "loser": "St. Louis Blues",
+          "score": "4-3",
+          "title": "Stanley Cup",
+          "series": "4-0"
+        },
+        "nba": {
+          "winner": "New York Knicks",
+          "loser": "Los Angeles Lakers",
+          "score": "113-99",
+          "title": "NBA Finals",
+          "series": "4-3"
+        }
+      }
+    },
+    "1971": {
+      "sport": {
+        "nfl": {
+          "winner": "Baltimore Colts",
+          "loser": "Dallas Cowboys",
+          "score": "16-13",
+          "title": "Super Bowl V",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Pittsburgh Pirates",
+          "loser": "Baltimore Orioles",
+          "score": "2-1",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Montreal Canadiens",
+          "loser": "Chicago Blackhawks",
+          "score": "3-2",
+          "title": "Stanley Cup",
+          "series": "4-3"
+        },
+        "nba": {
+          "winner": "Milwaukee Bucks",
+          "loser": "Baltimore Bullets",
+          "score": "118-106",
+          "title": "NBA Finals",
+          "series": "4-0"
+        }
+      }
+    },
+    "1972": {
+      "sport": {
+        "nfl": {
+          "winner": "Dallas Cowboys",
+          "loser": "Miami Dolphins",
+          "score": "24-3",
+          "title": "Super Bowl VI",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Oakland Athletics",
+          "loser": "Cincinnati Reds",
+          "score": "3-2",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Boston Bruins",
+          "loser": "New York Rangers",
+          "score": "3-0",
+          "title": "Stanley Cup",
+          "series": "4-2"
+        },
+        "nba": {
+          "winner": "Los Angeles Lakers",
+          "loser": "New York Knicks",
+          "score": "114-100",
+          "title": "NBA Finals",
+          "series": "4-1"
+        }
+      }
+    },
+    "1973": {
+      "sport": {
+        "nfl": {
+          "winner": "Miami Dolphins",
+          "loser": "Washington Redskins",
+          "score": "14-7",
+          "title": "Super Bowl VII",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Oakland Athletics",
+          "loser": "New York Mets",
+          "score": "5-2",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Montreal Canadiens",
+          "loser": "Chicago Blackhawks",
+          "score": "6-4",
+          "title": "Stanley Cup",
+          "series": "4-2"
+        },
+        "nba": {
+          "winner": "New York Knicks",
+          "loser": "Los Angeles Lakers",
+          "score": "102-93",
+          "title": "NBA Finals",
+          "series": "4-1"
+        }
+      }
+    },
+    "1974": {
+      "sport": {
+        "nfl": {
+          "winner": "Miami Dolphins",
+          "loser": "Minnesota Vikings",
+          "score": "24-7",
+          "title": "Super Bowl VIII",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Oakland Athletics",
+          "loser": "Los Angeles Dodgers",
+          "score": "3-2",
+          "title": "World Series",
+          "series": "4-1"
+        },
+        "nhl": {
+          "winner": "Philadelphia Flyers",
+          "loser": "Boston Bruins",
+          "score": "1-0",
+          "title": "Stanley Cup",
+          "series": "4-2"
+        },
+        "nba": {
+          "winner": "Boston Celtics",
+          "loser": "Milwaukee Bucks",
+          "score": "102-87",
+          "title": "NBA Finals",
+          "series": "4-3"
+        }
+      }
+    },
+    "1975": {
+      "sport": {
+        "nfl": {
+          "winner": "Pittsburgh Steelers",
+          "loser": "Minnesota Vikings",
+          "score": "16-6",
+          "title": "Super Bowl IX",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Cincinnati Reds",
+          "loser": "Boston Red Sox",
+          "score": "4-3",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Philadelphia Flyers",
+          "loser": "Buffalo Sabres",
+          "score": "2-0",
+          "title": "Stanley Cup",
+          "series": "4-2"
+        },
+        "nba": {
+          "winner": "Golden State Warriors",
+          "loser": "Washington Bullets",
+          "score": "96-95",
+          "title": "NBA Finals",
+          "series": "4-0"
+        }
+      }
+    },
+    "1976": {
+      "sport": {
+        "nfl": {
+          "winner": "Pittsburgh Steelers",
+          "loser": "Dallas Cowboys",
+          "score": "21-17",
+          "title": "Super Bowl X",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Cincinnati Reds",
+          "loser": "New York Yankees",
+          "score": "7-2",
+          "title": "World Series",
+          "series": "4-0"
+        },
+        "nhl": {
+          "winner": "Montreal Canadiens",
+          "loser": "Philadelphia Flyers",
+          "score": "5-3",
+          "title": "Stanley Cup",
+          "series": "4-0"
+        },
+        "nba": {
+          "winner": "Boston Celtics",
+          "loser": "Phoenix Suns",
+          "score": "87-80",
+          "title": "NBA Finals",
+          "series": "4-2"
+        }
+      }
+    },
+    "1977": {
+      "sport": {
+        "nfl": {
+          "winner": "Oakland Raiders",
+          "loser": "Minnesota Vikings",
+          "score": "32-14",
+          "title": "Super Bowl XI",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "New York Yankees",
+          "loser": "Los Angeles Dodgers",
+          "score": "8-4",
+          "title": "World Series",
+          "series": "4-2"
+        },
+        "nhl": {
+          "winner": "Montreal Canadiens",
+          "loser": "Boston Bruins",
+          "score": "2-1",
+          "title": "Stanley Cup",
+          "series": "4-0"
+        },
+        "nba": {
+          "winner": "Portland Trail Blazers",
+          "loser": "Philadelphia 76ers",
+          "score": "109-107",
+          "title": "NBA Finals",
+          "series": "4-2"
+        }
+      }
+    },
+    "1978": {
+      "sport": {
+        "nfl": {
+          "winner": "Dallas Cowboys",
+          "loser": "Denver Broncos",
+          "score": "27-10",
+          "title": "Super Bowl XII",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "New York Yankees",
+          "loser": "Los Angeles Dodgers",
+          "score": "7-2",
+          "title": "World Series",
+          "series": "4-2"
+        },
+        "nhl": {
+          "winner": "Montreal Canadiens",
+          "loser": "Boston Bruins",
+          "score": "4-1",
+          "title": "Stanley Cup",
+          "series": "4-2"
+        },
+        "nba": {
+          "winner": "Washington Bullets",
+          "loser": "Seattle SuperSonics",
+          "score": "105-99",
+          "title": "NBA Finals",
+          "series": "4-3"
+        }
+      }
+    },
+    "1979": {
+      "sport": {
+        "nfl": {
+          "winner": "Pittsburgh Steelers",
+          "loser": "Dallas Cowboys",
+          "score": "35-31",
+          "title": "Super Bowl XIII",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Pittsburgh Pirates",
+          "loser": "Baltimore Orioles",
+          "score": "4-1",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Montreal Canadiens",
+          "loser": "New York Rangers",
+          "score": "4-1",
+          "title": "Stanley Cup",
+          "series": "4-1"
+        },
+        "nba": {
+          "winner": "Seattle SuperSonics",
+          "loser": "Washington Bullets",
+          "score": "97-93",
+          "title": "NBA Finals",
+          "series": "4-1"
+        }
+      }
+    }	  
+    "1980": {
+       "sport": {
+          "nfl": {
+            "winner": "Pittsburgh Steelers",
+            "loser": "Los Angeles Rams",
+            "score": "31-19",
+            "title": "Super Bowl XIV",
+            "series": "1-0"
+          },
+          "mlb": {
+            "winner": "Philadelphia Phillies",
+            "loser": "Kansas City Royals",
+            "score": "4-1",
+            "title": "World Series",
+            "series": "4-2"
+          },
+          "nhl": {
+            "winner": "New York Islanders",
+            "loser": "Philadelphia Flyers",
+            "score": "5-4",
+            "title": "Stanley Cup",
+            "series": "4-2"
+          },
+          "nba": {
+            "winner": "Los Angeles Lakers",
+            "loser": "Philadelphia 76ers",
+            "score": "123-107",
+            "title": "NBA Championship",
+            "series": "4-2"
+          }
+       }
+    },   
+    "1981": {
+       "sport": {
+          "nfl": {
+            "winner": "Oakland Raiders",
+            "loser": "Philadelphia Eagles",
+            "score": "27-10",
+            "title": "Super Bowl XV",
+            "series": "1-0"
+          },
+          "mlb": {
+            "winner": "Los Angeles Dodgers",
+            "loser": "New York Yankees",
+            "score": "9-2",
+            "title": "World Series",
+            "series": "4-2"
+          },
+          "nhl": {
+            "winner": "New York Islanders",
+            "loser": "Minnesota North Stars",
+            "score": "5-1",
+            "title": "Stanley Cup",
+            "series": "4-1"
+          },
+          "nba": {
+            "winner": "Boston Celtics",
+            "loser": "Houston Rockets",
+            "score": "102-91",
+            "title": "NBA Championship",
+            "series": "4-2"
+          }
+       }
+    },
+    "1982": {
+       "sport": {
+          "nfl": {
+            "winner": "San Francisco 49ers",
+            "loser": "Cincinnati Bengals",
+            "score": "26-21",
+            "title": "Super Bowl XVI",
+            "series": "1-0"
+          },
+          "mlb": {
+            "winner": "St. Louis Cardinals",
+            "loser": "Milwaukee Brewers",
+            "score": "6-3",
+            "title": "World Series",
+            "series": "4-3"
+          },
+          "nhl": {
+            "winner": "New York Islanders",
+            "loser": "Vancouver Canucks",
+            "score": "3-1",
+            "title": "Stanley Cup",
+            "series": "4-0"
+          },
+          "nba": {
+            "winner": "Los Angeles Lakers",
+            "loser": "Philadelphia 76ers",
+            "score": "114-104",
+            "title": "NBA Championship",
+            "series": "4-2"
+          }
+        }
+    },
+    "1983": {
+       "sport": {
+          "nfl": {
+            "winner": "Washington Redskins",
+            "loser": "Miami Dolphins",
+            "score": "27-17",
+            "title": "Super Bowl XVII",
+            "series": "1-0"
+          },
+          "mlb": {
+            "winner": "Baltimore Orioles",
+            "loser": "Philadelphia Phillies",
+            "score": "5-0",
+            "title": "World Series",
+            "series": "4-1"
+          },
+          "nhl": {
+            "winner": "New York Islanders",
+            "loser": "Edmonton Oilers",
+            "score": "4-2",
+            "title": "Stanley Cup",
+            "series": "4-0"
+          },
+          "nba": {
+            "winner": "Philadelphia 76ers",
+            "loser": "Los Angeles Lakers",
+            "score": "115-108",
+            "title": "NBA Championship",
+            "series": "4-0"
+          }
+        }
+    },
+	"1984": {
+       "sport": {
+          "nfl": {
+            "winner": "Los Angeles Raiders",
+            "loser": "Washington Redskins",
+            "score": "38-9",
+            "title": "Super Bowl XVIII",
+            "series": "1-0"
+          },
+          "mlb": {
+            "winner": "Detroit Tigers",
+            "loser": "San Diego Padres",
+            "score": "8-4",
+            "title": "World Series",
+            "series": "4-1"
+          },
+          "nhl": {
+            "winner": "Edmonton Oilers",
+            "loser": "New York Islanders",
+            "score": "5-2",
+            "title": "Stanley Cup",
+            "series": "4-1"
+          },
+          "nba": {
+            "winner": "Boston Celtics",
+            "loser": "Los Angeles Lakers",
+            "score": "111-102",
+            "title": "NBA Championship",
+            "series": "4-3"
+          }
+        }
+    },
+    "1985": {
+	   "sport": {
+          "nfl": {
+            "winner": "San Francisco 49ers",
+            "loser": "Miami Dolphins",
+            "score": "38-16",
+            "title": "Super Bowl XIX",
+            "series": "1-0"
+          },
+          "mlb": {
+            "winner": "Kansas City Royals",
+            "loser": "St. Louis Cardinals",
+            "score": "11-0",
+            "title": "World Series",
+            "series": "4-3"
+          },
+          "nhl": {
+            "winner": "Edmonton Oilers",
+            "loser": "Philadelphia Flyers",
+            "score": "8-3",
+            "title": "Stanley Cup",
+            "series": "4-1"
+          },
+          "nba": {
+            "winner": "Los Angeles Lakers",
+            "loser": "Boston Celtics",
+            "score": "111-100",
+            "title": "NBA Championship",
+            "series": "4-2"
+          }
+        }
+    },
+    "1986": {
+       "sport": {
+          "nfl": {
+            "winner": "Chicago Bears",
+            "loser": "New England Patriots",
+            "score": "46-10",
+            "title": "Super Bowl XX",
+            "series": "1-0"
+          },
+          "mlb": {
+            "winner": "New York Mets",
+            "loser": "Boston Red Sox",
+            "score": "8-5",
+            "title": "World Series",
+            "series": "4-3"
+          },
+          "nhl": {
+            "winner": "Montreal Canadiens",
+            "loser": "Calgary Flames",
+            "score": "4-3",
+            "title": "Stanley Cup",
+            "series": "4-1"
+          },
+          "nba": {
+            "winner": "Boston Celtics",
+            "loser": "Houston Rockets",
+            "score": "114-97",
+            "title": "NBA Championship",
+            "series": "4-2"
+          }
+        }
+    },
+    "1987": {
+       "sport": {
+          "nfl": {
+            "winner": "New York Giants",
+            "loser": "Denver Broncos",
+            "score": "39-20",
+            "title": "Super Bowl XXI",
+            "series": "1-0"
+          },
+          "mlb": {
+            "winner": "Minnesota Twins",
+            "loser": "St. Louis Cardinals",
+            "score": "4-2",
+            "title": "World Series",
+            "series": "4-3"
+          },
+          "nhl": {
+            "winner": "Edmonton Oilers",
+            "loser": "Philadelphia Flyers",
+            "score": "3-1",
+            "title": "Stanley Cup",
+            "series": "4-3"
+          },
+          "nba": {
+            "winner": "Los Angeles Lakers",
+            "loser": "Boston Celtics",
+            "score": "106-93",
+            "title": "NBA Championship",
+            "series": "4-2"
+          }
+        }
+    },
+    "1988": {
+       "sport": {
+          "nfl": {
+            "winner": "Washington Redskins",
+            "loser": "Denver Broncos",
+            "score": "42-10",
+            "title": "Super Bowl XXII",
+            "series": "1-0"
+          },
+          "mlb": {
+            "winner": "Los Angeles Dodgers",
+            "loser": "Oakland Athletics",
+            "score": "5-2",
+            "title": "World Series",
+            "series": "4-1"
+          },
+          "nhl": {
+            "winner": "Edmonton Oilers",
+            "loser": "Boston Bruins",
+            "score": "6-3",
+            "title": "Stanley Cup",
+            "series": "4-0"
+          },
+          "nba": {
+            "winner": "Los Angeles Lakers",
+            "loser": "Detroit Pistons",
+            "score": "108-105",
+            "title": "NBA Championship",
+            "series": "4-3"
+          }
+        }
+    },
+    "1989": {
+       "sport": {
+          "nfl": {
+            "winner": "San Francisco 49ers",
+            "loser": "Cincinnati Bengals",
+            "score": "20-16",
+            "title": "Super Bowl XXIII",
+            "series": "1-0"
+          },
+          "mlb": {
+            "winner": "Oakland Athletics",
+            "loser": "San Francisco Giants",
+            "score": "9-6",
+            "title": "World Series",
+            "series": "4-0"
+          },
+          "nhl": {
+            "winner": "Calgary Flames",
+            "loser": "Montreal Canadiens",
+            "score": "4-2",
+            "title": "Stanley Cup",
+            "series": "4-2"
+          },
+          "nba": {
+            "winner": "Detroit Pistons",
+            "loser": "Los Angeles Lakers",
+            "score": "105-97",
+            "title": "NBA Championship",
+            "series": "4-0"
+          }
+        }
+    },
+    "1990": {
+       "sport": {
+          "nfl": {
+            "winner": "San Francisco 49ers",
+            "loser": "Denver Broncos",
+            "score": "55-10",
+            "title": "Super Bowl XXIV",
+            "series": "1-0"
+          },
+          "mlb": {
+            "winner": "Cincinnati Reds",
+            "loser": "Oakland Athletics",
+            "score": "2-1",
+            "title": "World Series",
+            "series": "4-0"
+          },
+          "nhl": {
+            "winner": "Edmonton Oilers",
+            "loser": "Boston Bruins",
+            "score": "4-1",
+            "title": "Stanley Cup",
+            "series": "4-1"
+          },
+          "nba": {
+            "winner": "Detroit Pistons",
+            "loser": "Portland Trail Blazers",
+            "score": "92-90",
+            "title": "NBA Championship",
+            "series": "4-1"
+          }
+        }
+    },
+    "1991": {
+       "sport": {
+          "nfl": {
+            "winner": "New York Giants",
+            "loser": "Buffalo Bills",
+            "score": "20-19",
+            "title": "Super Bowl XXV",
+            "series": "1-0"
+          },
+          "mlb": {
+            "winner": "Minnesota Twins",
+            "loser": "Atlanta Braves",
+            "score": "1-0",
+            "title": "World Series",
+            "series": "4-3"
+          },
+          "nhl": {
+            "winner": "Pittsburgh Penguins",
+            "loser": "Minnesota North Stars",
+            "score": "8-0",
+            "title": "Stanley Cup",
+            "series": "4-2"
+          },
+          "nba": {
+            "winner": "Chicago Bulls",
+            "loser": "Los Angeles Lakers",
+            "score": "108-101",
+            "title": "NBA Championship",
+            "series": "4-1"
+          }
+        }
+    },
+    "1992": {
+       "sport": {
+          "nfl": {
+            "winner": "Washington Redskins",
+            "loser": "Buffalo Bills",
+            "score": "37-24",
+            "title": "Super Bowl XXVI",
+            "series": "1-0"
+          },
+          "mlb": {
+            "winner": "Toronto Blue Jays",
+            "loser": "Atlanta Braves",
+            "score": "4-3",
+            "title": "World Series",
+            "series": "4-2"
+          },
+          "nhl": {
+            "winner": "Pittsburgh Penguins",
+            "loser": "Chicago Blackhawks",
+            "score": "6-5",
+            "title": "Stanley Cup",
+            "series": "4-0"
+          },
+          "nba": {
+            "winner": "Chicago Bulls",
+            "loser": "Portland Trail Blazers",
+            "score": "97-93",
+            "title": "NBA Championship",
+            "series": "4-2"
+          }
+        }
+    },
+    "1993": {
+       "sport": {
+          "nfl": {
+            "winner": "Dallas Cowboys",
+            "loser": "Buffalo Bills",
+            "score": "52-17",
+            "title": "Super Bowl XXVII",
+            "series": "1-0"
+          },
+          "mlb": {
+            "winner": "Toronto Blue Jays",
+            "loser": "Philadelphia Phillies",
+            "score": "8-6",
+            "title": "World Series",
+            "series": "4-2"
+          },
+          "nhl": {
+            "winner": "Montreal Canadiens",
+            "loser": "Los Angeles Kings",
+            "score": "4-1",
+            "title": "Stanley Cup",
+            "series": "4-1"
+          },
+          "nba": {
+            "winner": "Chicago Bulls",
+            "loser": "Phoenix Suns",
+            "score": "99-98",
+            "title": "NBA Championship",
+            "series": "4-2"
+          }
+        }
+    },
+    "1994": {
+	   "sport": {
+          "nfl": {
+            "winner": "Dallas Cowboys",
+            "loser": "Buffalo Bills",
+            "score": "30-14",
+            "title": "Super Bowl XXVII",
+            "series": "1-0"
+          },
+          "mlb": {
+            "winner": "none",
+            "loser": "none",
+            "score": "0-0",
+            "title": "World Series",
+            "series": "0-0"
+          },
+          "nhl": {
+            "winner": "New York Rangers",
+            "loser": "Vancouver Canucks",
+            "score": "3-2",
+            "title": "Stanley Cup",
+            "series": "4-3"
+          },
+          "nba": {
+            "winner": "Houston Rockets",
+            "loser": "New York Knicks",
+            "score": "90-84",
+            "title": "NBA Championship",
+            "series": "4-3"
+          }
+        }
+    },
+    "1995": {
+       "sport": {
+          "nfl": {
+            "winner": "San Francisco 49ers",
+            "loser": "San Diego Chargers",
+            "score": "49-26",
+            "title": "Super Bowl XXIX",
+            "series": "1-0"
+          },
+          "mlb": {
+            "winner": "Atlanta Braves",
+            "loser": "Cleveland Indians",
+            "score": "1-0",
+            "title": "World Series",
+            "series": "4-2"
+          },
+          "nhl": {
+            "winner": "New Jersey Devils",
+            "loser": "Detroit Red Wings",
+            "score": "5-2",
+            "title": "Stanley Cup",
+            "series": "4-0"
+          },
+          "nba": {
+            "winner": "Houston Rockets",
+            "loser": "Orlando Magic",
+            "score": "113-101",
+            "title": "NBA Championship",
+            "series": "4-0"
+          }
+        }
+    },
+    "1996": {
+       "sport": {
+          "nfl": {
+            "winner": "Dallas Cowboys",
+            "loser": "Pittsburgh Steelers",
+            "score": "27-17",
+            "title": "Super Bowl XXX",
+            "series": "1-0"
+          },
+          "mlb": {
+            "winner": "New York Yankees",
+            "loser": "Atlanta Braves",
+            "score": "3-2",
+            "title": "World Series",
+            "series": "4-2"
+          },
+          "nhl": {
+            "winner": "Colorado Avalanche",
+            "loser": "Florida Panthers",
+            "score": "1-0",
+            "title": "Stanley Cup",
+            "series": "4-0"
+          },
+          "nba": {
+            "winner": "Chicago Bulls",
+            "loser": "Seattle SuperSonics",
+            "score": "87-75",
+            "title": "NBA Championship",
+            "series": "4-2"
+          }
+        }
+    },
+    "1997": {
+       "sport": {
+          "nfl": {
+            "winner": "Green Bay Packers",
+            "loser": "New England Patriots",
+            "score": "35-21",
+            "title": "Super Bowl XXXI",
+            "series": "1-0"
+          },
+          "mlb": {
+            "winner": "Florida Marlins",
+            "loser": "Cleveland Indians",
+            "score": "3-2",
+            "title": "World Series",
+            "series": "4-3"
+          },
+          "nhl": {
+            "winner": "Detroit Red Wings",
+            "loser": "Philadelphia Flyers",
+            "score": "2-1",
+            "title": "Stanley Cup",
+            "series": "4-0"
+          },
+          "nba": {
+            "winner": "Chicago Bulls",
+            "loser": "Utah Jazz",
+            "score": "90-86",
+            "title": "NBA Championship",
+            "series": "4-2"
+          }
+        }
+    },
+    "1998": {
+       "sport": {
+          "nfl": {
+            "winner": "Denver Broncos",
+            "loser": "Green Bay Packers",
+            "score": "31-24",
+            "title": "Super Bowl XXXII",
+            "series": "1-0"
+          },
+          "mlb": {
+            "winner": "New York Yankees",
+            "loser": "San Diego Padres",
+            "score": "3-0",
+            "title": "World Series",
+            "series": "4-0"
+          },
+          "nhl": {
+            "winner": "Detroit Red Wings",
+            "loser": "Washington Capitals",
+            "score": "4-1",
+            "title": "Stanley Cup",
+            "series": "4-0"
+          },
+          "nba": {
+            "winner": "Chicago Bulls",
+            "loser": "Utah Jazz",
+            "score": "87-86",
+            "title": "NBA Championship",
+            "series": "4-2"
+          }
+        }
+    },
+    "1999": {
+       "sport": {
+          "nfl": {
+            "winner": "Denver Broncos",
+            "loser": "Atlanta Falcons",
+            "score": "34-19",
+            "title": "Super Bowl XXXIII",
+            "series": "1-0"
+          },
+          "mlb": {
+            "winner": "New York Yankees",
+            "loser": "Atlanta Braves",
+            "score": "4-1",
+            "title": "World Series",
+            "series": "4-0"
+          },
+          "nhl": {
+            "winner": "Dallas Stars",
+            "loser": "Buffalo Sabres",
+            "score": "2-1",
+            "title": "Stanley Cup",
+            "series": "4-2"
+          },
+          "nba": {
+            "winner": "San Antonio Spurs",
+            "loser": "New York Knicks",
+            "score": "78-77",
+            "title": "NBA Championship",
+            "series": "4-1"
+          }
+        }
+    },
+    "2000": {
+       "sport": {
+          "nfl": {
+            "winner": "St. Louis Rams",
+            "loser": "Tennessee Titans",
+            "score": "23-16",
+            "title": "Super Bowl XXXIV",
+            "series": "1-0"
+          },
+          "mlb": {
+            "winner": "New York Yankees",
+            "loser": "New York Mets",
+            "score": "4-2",
+            "title": "World Series",
+            "series": "4-1"
+          },
+          "nhl": {
+            "winner": "New Jersey Devils",
+            "loser": "Dallas Stars",
+            "score": "2-1",
+            "title": "Stanley Cup",
+            "series": "4-2"
+          },
+          "nba": {
+            "winner": "Los Angeles Lakers",
+            "loser": "Indiana Pacers",
+            "score": "116-111",
+            "title": "NBA Championship",
+            "series": "4-2"
+          }
+        }
+    },
+	"2001": {
+      "sport": {
+        "nfl": {
+          "winner": "Baltimore Ravens",
+          "loser": "New York Giants",
+          "score": "34-7",
+          "title": "Super Bowl XXXV",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Arizona Diamondbacks",
+          "loser": "New York Yankees",
+          "score": "3-2",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Colorado Avalanche",
+          "loser": "New Jersey Devils",
+          "score": "3-1",
+          "title": "Stanley Cup",
+          "series": "4-3"
+        },
+        "nba": {
+          "winner": "Los Angeles Lakers",
+          "loser": "Philadelphia 76ers",
+          "score": "108-96",
+          "title": "NBA Finals",
+          "series": "4-1"
+        }
+      }
+    },
+    "2002": {
+      "sport": {
+        "nfl": {
+          "winner": "New England Patriots",
+          "loser": "St. Louis Rams",
+          "score": "20-17",
+          "title": "Super Bowl XXXVI",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Anaheim Angels",
+          "loser": "San Francisco Giants",
+          "score": "4-1",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Detroit Red Wings",
+          "loser": "Carolina Hurricanes",
+          "score": "3-1",
+          "title": "Stanley Cup",
+          "series": "4-1"
+        },
+        "nba": {
+          "winner": "Los Angeles Lakers",
+          "loser": "New Jersey Nets",
+          "score": "113-107",
+          "title": "NBA Finals",
+          "series": "4-0"
+        }
+      }
+    },
+    "2003": {
+      "sport": {
+        "nfl": {
+          "winner": "Tampa Bay Buccaneers",
+          "loser": "Oakland Raiders",
+          "score": "48-21",
+          "title": "Super Bowl XXXVII",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Florida Marlins",
+          "loser": "New York Yankees",
+          "score": "2-0",
+          "title": "World Series",
+          "series": "4-2"
+        },
+        "nhl": {
+          "winner": "New Jersey Devils",
+          "loser": "Mighty Ducks of Anaheim",
+          "score": "3-0",
+          "title": "Stanley Cup",
+          "series": "4-3"
+        },
+        "nba": {
+          "winner": "San Antonio Spurs",
+          "loser": "New Jersey Nets",
+          "score": "88-77",
+          "title": "NBA Finals",
+          "series": "4-2"
+        }
+      }
+    },
+    "2004": {
+      "sport": {
+        "nfl": {
+          "winner": "New England Patriots",
+          "loser": "Carolina Panthers",
+          "score": "32-29",
+          "title": "Super Bowl XXXVIII",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Boston Red Sox",
+          "loser": "St. Louis Cardinals",
+          "score": "3-0",
+          "title": "World Series",
+          "series": "4-0"
+        },
+        "nhl": {
+          "winner": "Tampa Bay Lightning",
+          "loser": "Calgary Flames",
+          "score": "2-1",
+          "title": "Stanley Cup",
+          "series": "4-3"
+        },
+        "nba": {
+          "winner": "Detroit Pistons",
+          "loser": "Los Angeles Lakers",
+          "score": "100-87",
+          "title": "NBA Finals",
+          "series": "4-1"
+        }
+      }
+    },
+    "2005": {
+      "sport": {
+        "nfl": {
+          "winner": "New England Patriots",
+          "loser": "Philadelphia Eagles",
+          "score": "24-21",
+          "title": "Super Bowl XXXIX",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Chicago White Sox",
+          "loser": "Houston Astros",
+          "score": "1-0",
+          "title": "World Series",
+          "series": "4-0"
+        },
+        "nhl": {
+          "winner": "Not awarded (lockout)",
+          "loser": "Not awarded (lockout)",
+          "score": "N/A",
+          "title": "Stanley Cup",
+          "series": "N/A"
+        },
+        "nba": {
+          "winner": "San Antonio Spurs",
+          "loser": "Detroit Pistons",
+          "score": "81-74",
+          "title": "NBA Finals",
+          "series": "4-3"
+        }
+      }
+    },
+    "2006": {
+      "sport": {
+        "nfl": {
+          "winner": "Pittsburgh Steelers",
+          "loser": "Seattle Seahawks",
+          "score": "21-10",
+          "title": "Super Bowl XL",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "St. Louis Cardinals",
+          "loser": "Detroit Tigers",
+          "score": "4-2",
+          "title": "World Series",
+          "series": "4-1"
+        },
+        "nhl": {
+          "winner": "Carolina Hurricanes",
+          "loser": "Edmonton Oilers",
+          "score": "3-1",
+          "title": "Stanley Cup",
+          "series": "4-3"
+        },
+        "nba": {
+          "winner": "Miami Heat",
+          "loser": "Dallas Mavericks",
+          "score": "95-92",
+          "title": "NBA Finals",
+          "series": "4-2"
+        }
+      }
+    },
+    "2007": {
+      "sport": {
+        "nfl": {
+          "winner": "Indianapolis Colts",
+          "loser": "Chicago Bears",
+          "score": "29-17",
+          "title": "Super Bowl XLI",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Boston Red Sox",
+          "loser": "Colorado Rockies",
+          "score": "4-3",
+          "title": "World Series",
+          "series": "4-0"
+        },
+        "nhl": {
+          "winner": "Anaheim Ducks",
+          "loser": "Ottawa Senators",
+          "score": "6-2",
+          "title": "Stanley Cup",
+          "series": "4-1"
+        },
+        "nba": {
+          "winner": "San Antonio Spurs",
+          "loser": "Cleveland Cavaliers",
+          "score": "83-82",
+          "title": "NBA Finals",
+          "series": "4-0"
+        }
+      }
+    },
+    "2008": {
+      "sport": {
+        "nfl": {
+          "winner": "New York Giants",
+          "loser": "New England Patriots",
+          "score": "17-14",
+          "title": "Super Bowl XLII",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Philadelphia Phillies",
+          "loser": "Tampa Bay Rays",
+          "score": "4-3",
+          "title": "World Series",
+          "series": "4-1"
+        },
+        "nhl": {
+          "winner": "Detroit Red Wings",
+          "loser": "Pittsburgh Penguins",
+          "score": "3-2",
+          "title": "Stanley Cup",
+          "series": "4-2"
+        },
+        "nba": {
+          "winner": "Boston Celtics",
+          "loser": "Los Angeles Lakers",
+          "score": "131-92",
+          "title": "NBA Finals",
+          "series": "4-2"
+        }
+      }
+    },
+    "2009": {
+      "sport": {
+        "nfl": {
+          "winner": "Pittsburgh Steelers",
+          "loser": "Arizona Cardinals",
+          "score": "27-23",
+          "title": "Super Bowl XLIII",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "New York Yankees",
+          "loser": "Philadelphia Phillies",
+          "score": "7-3",
+          "title": "World Series",
+          "series": "4-2"
+        },
+        "nhl": {
+          "winner": "Pittsburgh Penguins",
+          "loser": "Detroit Red Wings",
+          "score": "2-1",
+          "title": "Stanley Cup",
+          "series": "4-3"
+        },
+        "nba": {
+          "winner": "Los Angeles Lakers",
+          "loser": "Orlando Magic",
+          "score": "99-86",
+          "title": "NBA Finals",
+          "series": "4-1"
+        }
+      }
+    },
+    "2010": {
+      "sport": {
+        "nfl": {
+          "winner": "New Orleans Saints",
+          "loser": "Indianapolis Colts",
+          "score": "31-17",
+          "title": "Super Bowl XLIV",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "San Francisco Giants",
+          "loser": "Texas Rangers",
+          "score": "3-1",
+          "title": "World Series",
+          "series": "4-1"
+        },
+        "nhl": {
+          "winner": "Chicago Blackhawks",
+          "loser": "Philadelphia Flyers",
+          "score": "4-3",
+          "title": "Stanley Cup",
+          "series": "4-2"
+        },
+        "nba": {
+          "winner": "Los Angeles Lakers",
+          "loser": "Boston Celtics",
+          "score": "83-79",
+          "title": "NBA Finals",
+          "series": "4-3"
+        }
+      }
+    },
+    "2011": {
+      "sport": {
+        "nfl": {
+          "winner": "Green Bay Packers",
+          "loser": "Pittsburgh Steelers",
+          "score": "31-25",
+          "title": "Super Bowl XLV",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "St. Louis Cardinals",
+          "loser": "Texas Rangers",
+          "score": "6-2",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Boston Bruins",
+          "loser": "Vancouver Canucks",
+          "score": "4-0",
+          "title": "Stanley Cup",
+          "series": "4-3"
+        },
+        "nba": {
+          "winner": "Dallas Mavericks",
+          "loser": "Miami Heat",
+          "score": "105-95",
+          "title": "NBA Finals",
+          "series": "4-2"
+        }
+      }
+    },
+	"2012": {
+      "sport": {
+        "nfl": {
+          "winner": "New York Giants",
+          "loser": "New England Patriots",
+          "score": "21-17",
+          "title": "Super Bowl XLVI",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "San Francisco Giants",
+          "loser": "Detroit Tigers",
+          "score": "4-3",
+          "title": "World Series",
+          "series": "4-0"
+        },
+        "nhl": {
+          "winner": "Los Angeles Kings",
+          "loser": "New Jersey Devils",
+          "score": "6-1",
+          "title": "Stanley Cup",
+          "series": "4-2"
+        },
+        "nba": {
+          "winner": "Miami Heat",
+          "loser": "Oklahoma City Thunder",
+          "score": "121-106",
+          "title": "NBA Finals",
+          "series": "4-1"
+        }
+      }
+    },
+    "2013": {
+      "sport": {
+        "nfl": {
+          "winner": "Baltimore Ravens",
+          "loser": "San Francisco 49ers",
+          "score": "34-31",
+          "title": "Super Bowl XLVII",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Boston Red Sox",
+          "loser": "St. Louis Cardinals",
+          "score": "6-1",
+          "title": "World Series",
+          "series": "4-2"
+        },
+        "nhl": {
+          "winner": "Chicago Blackhawks",
+          "loser": "Boston Bruins",
+          "score": "3-2",
+          "title": "Stanley Cup",
+          "series": "4-2"
+        },
+        "nba": {
+          "winner": "Miami Heat",
+          "loser": "San Antonio Spurs",
+          "score": "95-88",
+          "title": "NBA Finals",
+          "series": "4-3"
+        }
+      }
+    },
+    "2014": {
+      "sport": {
+        "nfl": {
+          "winner": "Seattle Seahawks",
+          "loser": "Denver Broncos",
+          "score": "43-8",
+          "title": "Super Bowl XLVIII",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "San Francisco Giants",
+          "loser": "Kansas City Royals",
+          "score": "3-2",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Los Angeles Kings",
+          "loser": "New York Rangers",
+          "score": "3-2",
+          "title": "Stanley Cup",
+          "series": "4-1"
+        },
+        "nba": {
+          "winner": "San Antonio Spurs",
+          "loser": "Miami Heat",
+          "score": "104-87",
+          "title": "NBA Finals",
+          "series": "4-1"
+        }
+      }
+    },
+    "2015": {
+      "sport": {
+        "nfl": {
+          "winner": "New England Patriots",
+          "loser": "Seattle Seahawks",
+          "score": "28-24",
+          "title": "Super Bowl XLIX",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Kansas City Royals",
+          "loser": "New York Mets",
+          "score": "7-2",
+          "title": "World Series",
+          "series": "4-1"
+        },
+        "nhl": {
+          "winner": "Chicago Blackhawks",
+          "loser": "Tampa Bay Lightning",
+          "score": "2-0",
+          "title": "Stanley Cup",
+          "series": "4-2"
+        },
+        "nba": {
+          "winner": "Golden State Warriors",
+          "loser": "Cleveland Cavaliers",
+          "score": "105-97",
+          "title": "NBA Finals",
+          "series": "4-2"
+        }
+      }
+    },
+    "2016": {
+      "sport": {
+        "nfl": {
+          "winner": "Denver Broncos",
+          "loser": "Carolina Panthers",
+          "score": "24-10",
+          "title": "Super Bowl 50",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Chicago Cubs",
+          "loser": "Cleveland Indians",
+          "score": "8-7",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Pittsburgh Penguins",
+          "loser": "San Jose Sharks",
+          "score": "3-1",
+          "title": "Stanley Cup",
+          "series": "4-2"
+        },
+        "nba": {
+          "winner": "Cleveland Cavaliers",
+          "loser": "Golden State Warriors",
+          "score": "93-89",
+          "title": "NBA Finals",
+          "series": "4-3"
+        }
+      }
+    },
+    "2017": {
+      "sport": {
+        "nfl": {
+          "winner": "New England Patriots",
+          "loser": "Atlanta Falcons",
+          "score": "34-28",
+          "title": "Super Bowl LI",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Houston Astros",
+          "loser": "Los Angeles Dodgers",
+          "score": "5-1",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "Pittsburgh Penguins",
+          "loser": "Nashville Predators",
+          "score": "2-0",
+          "title": "Stanley Cup",
+          "series": "4-2"
+        },
+        "nba": {
+          "winner": "Golden State Warriors",
+          "loser": "Cleveland Cavaliers",
+          "score": "129-120",
+          "title": "NBA Finals",
+          "series": "4-1"
+        }
+      }
+    },
+    "2018": {
+      "sport": {
+        "nfl": {
+          "winner": "Philadelphia Eagles",
+          "loser": "New England Patriots",
+          "score": "41-33",
+          "title": "Super Bowl LII",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Boston Red Sox",
+          "loser": "Los Angeles Dodgers",
+          "score": "5-1",
+          "title": "World Series",
+          "series": "4-1"
+        },
+        "nhl": {
+          "winner": "Washington Capitals",
+          "loser": "Vegas Golden Knights",
+          "score": "4-3",
+          "title": "Stanley Cup",
+          "series": "4-1"
+        },
+        "nba": {
+          "winner": "Golden State Warriors",
+          "loser": "Cleveland Cavaliers",
+          "score": "108-85",
+          "title": "NBA Finals",
+          "series": "4-0"
+        }
+      }
+    },
+    "2019": {
+      "sport": {
+        "nfl": {
+          "winner": "New England Patriots",
+          "loser": "Los Angeles Rams",
+          "score": "13-3",
+          "title": "Super Bowl LIII",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Washington Nationals",
+          "loser": "Houston Astros",
+          "score": "6-2",
+          "title": "World Series",
+          "series": "4-3"
+        },
+        "nhl": {
+          "winner": "St. Louis Blues",
+          "loser": "Boston Bruins",
+          "score": "4-1",
+          "title": "Stanley Cup",
+          "series": "4-3"
+        },
+        "nba": {
+          "winner": "Toronto Raptors",
+          "loser": "Golden State Warriors",
+          "score": "114-110",
+          "title": "NBA Finals",
+          "series": "4-2"
+        }
+      }
+    },
+    "2020": {
+      "sport": {
+        "nfl": {
+          "winner": "Kansas City Chiefs",
+          "loser": "San Francisco 49ers",
+          "score": "31-20",
+          "title": "Super Bowl LIV",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Los Angeles Dodgers",
+          "loser": "Tampa Bay Rays",
+          "score": "3-1",
+          "title": "World Series",
+          "series": "4-2"
+        },
+        "nhl": {
+          "winner": "Tampa Bay Lightning",
+          "loser": "Dallas Stars",
+          "score": "2-0",
+          "title": "Stanley Cup",
+          "series": "4-2"
+        },
+        "nba": {
+          "winner": "Los Angeles Lakers",
+          "loser": "Miami Heat",
+          "score": "106-93",
+          "title": "NBA Finals",
+          "series": "4-2"
+        }
+      }
+    }
+	"2021": {
+      "sport": {
+        "nfl": {
+          "winner": "Tampa Bay Buccaneers",
+          "loser": "Kansas City Chiefs",
+          "score": "31-9",
+          "title": "Super Bowl LV",
+          "series": "1-0"
+        },
+        "mlb": {
+          "winner": "Atlanta Braves",
+          "loser": "Houston Astros",
+          "score": "7-0",
+          "title": "World Series",
+          "series": "4-2"
+        },
+        "nhl": {
+          "winner": "Tampa Bay Lightning",
+          "loser": "Montreal Canadiens",
+          "score": "1-0",
+          "title": "Stanley Cup",
+          "series": "4-1"
+        },
+        "nba": {
+          "winner": "Milwaukee Bucks",
+          "loser": "Phoenix Suns",
+          "score": "105-98",
+          "title": "NBA Championship",
+          "series": "4-2"
+        }
+      }
+    }
+  }
+}

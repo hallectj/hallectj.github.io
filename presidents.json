@@ -1,0 +1,140 @@
+{
+  "dataset": "presidents",
+  "presidents": [
+    {
+      "number": "32",
+      "name": "Franklin D. Roosevelt",
+      "startDate": "1933-03-04",
+      "endDate": "1945-04-12",
+      "portraitURL": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/13.t56cc730c.m1200.tif.pv.xD0eXUnIc2TfPD1OH.jpg",
+      "portraitDesc": "Portrait by Frank O. Salisbury in 1947. Oil on canvas, 50 1/4 x 40 3/8 inches.",
+      "portraitSource": "White House Collection/White House Historical Association"
+    },
+    {
+      "number": "33",
+      "name": "Harry S Truman",
+      "startDate": "1945-04-12",
+      "endDate": "1953-01-20",
+      "portraitURL": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/23.t56cc7168.m1200.tif.pv.xftgioqFJciKtzlQT.jpg",
+      "portraitDesc": "Portrait by Martha Greta Kempton in 1947. Oil on canvas, 50 x 40 1/4 inches.",
+      "portraitSource": "White House Collection/White House Historical Association"
+    },
+    {
+      "number": "34",
+      "name": "Dwight D. Eisenhower",
+      "startDate": "1953-01-20",
+      "endDate": "1961-01-20",
+      "portraitURL": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/11.t56cc7074.m1200.tif.pv.xwJedJABjDXyvNg3S.jpg",
+      "portraitDesc": "Portrait by James Anthony Wills in 1967. Oil on panel, 48 x 38 inches. ",
+      "portraitSource": "White House Collection/White House Historical Association"
+    },
+    {
+      "number": "35",
+      "name": "John F. Kennedy",
+      "startDate": "1961-01-20",
+      "endDate": "1963-11-22",
+      "portraitURL": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/29.t56cc707c.m1200.tif.pv.xSwKmn5P7s-RsA26H.jpg",
+      "portraitDesc": "Portrait by Aaron Shikler in 1970. Oil on canvas, 50 x 34 inches. ",
+      "portraitSource": "White House Collection/White House Historical Association"
+    },
+    {
+      "number": "36",
+      "name": "Lyndon B. Johnson",
+      "startDate": "1963-11-22",
+      "endDate": "1969-01-20",
+      "portraitURL": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/37.t56cc734d.m1200.tif.pv.xXkz6vWyQHY2-qPER.jpg",
+      "portraitDesc": "Portrait by Elizabeth Shoumatoff in 1968. Oil on canvas, 31 5/8 x 26 1/2 inches.",
+      "portraitSource": "White House Collection/White House Historical Association"
+    },
+    {
+      "number": "37",
+      "name": "Richard Nixon",
+      "startDate": "1969-01-20",
+      "endDate": "1974-08-09",
+      "portraitURL": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/121.t56cc7342.m1200.tif.pv.xnxUU9hs1CS0qRqUc.jpg",
+      "portraitDesc": "Portrait by James Anthony Wills in 1984. Oil on panel, 45 3/4 x 34 7/8 inches. ",
+      "portraitSource": "White House Collection/White House Historical Association"
+    },
+    {
+      "number": "38",
+      "name": "Gerald Ford",
+      "startDate": "1974-08-09",
+      "endDate": "1977-01-20",
+      "portraitURL": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/20.t56cc7142.m1200.tif.pv.xOG0OZh6zcdwzQIwk.jpg",
+      "portraitDesc": "Portrait by Everett Raymond Kinstler in 1977. Oil on canvas, 40 x 34 inches. ",
+      "portraitSource": "White House Collection/White House Historical Association"
+    },
+    {
+      "number": "39",
+      "name": "Jimmy Carter",
+      "startDate": "1977-01-20",
+      "endDate": "1981-01-20",
+      "portraitURL": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/28.t56cc7334.m1200.tif.pv.x51MSG165-X3jEW5X.jpg",
+      "portraitDesc": "Portrait by Herbert E. Abrams in 1982. Oil on canvas, 38 1/16 x 32 1/16 inches. ",
+      "portraitSource": "White House Collection/White House Historical Association"
+    },
+    {
+      "number": "40",
+      "name": "Ronald Reagan",
+      "startDate": "1981-01-20",
+      "endDate": "1989-01-20",
+      "portraitURL": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/48.t56dee88e.m1200.tif.pv.xOFZmeH16lVIJ3a6s.jpg",
+      "portraitDesc": "Portrait by Everett Raymond Kinstler in 1991. Oil on canvas, 50 1/8 x 40 1/8 inches. ",
+      "portraitSource": "White House Collection/White House Historical Association"
+    },
+    {
+      "number": "41",
+      "name": "George H. W. Bush",
+      "startDate": "1989-01-20",
+      "endDate": "1993-01-20",
+      "portraitURL": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/15.t56cc6f71.m1200.tif.pv.xkqqFA-IcN7nCG4Nr.jpg",
+      "portraitDesc": "Portrait by Herbert E. Abrams in 1994. Oil on canvas, 50 1/4 x 40 1/8 inches. ",
+      "portraitSource": "White House Collection/White House Historical Association"
+    },
+    {
+      "number": "42",
+      "name": "Bill Clinton",
+      "startDate": "1993-01-20",
+      "endDate": "2001-01-20",
+      "portraitURL": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/6196.t56cc6f4d.m1200.tif.pv.xbH42_m6pudq8e5aK.jpg",
+      "portraitDesc": "Portrait by Simmie Knox in 2002. Oil on canvas, 56 x 44 1/8 inches. ",
+      "portraitSource": "White House Collection/White House Historical Association"
+    },
+    {
+      "number": "43",
+      "name": "George W. Bush",
+      "startDate": "2001-01-20",
+      "endDate": "2009-01-20",
+      "portraitURL": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/9897.t56cc7215.m1200.tif.pv.xyJdQgF77PgBoAgAk.jpg",
+      "portraitDesc": "Portrait by John Howard Sanden in 2011. Oil on canvas, 49 3/4 x 40 1/8 inches. ",
+      "portraitSource": "White House Collection/White House Historical Association"
+    },
+    {
+      "number": "44",
+      "name": "Barack Obama",
+      "startDate": "2009-01-20",
+      "endDate": "2017-01-20",
+      "portraitURL": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/1135359.t631896d9.m1200.tif.pv.xCa8iItG1vcnN55Wz.jpg",
+      "portraitDesc": "Portrait by Robert McCurdy in 2018. Oil on canvas, 53 3/4 x 48 inches.",
+      "portraitSource": "White House Collection/White House Historical Association"
+    },
+    {
+      "number": "45",
+      "name": "Donald J. Trump",
+      "startDate": "2017-01-20",
+      "endDate": "2021-01-20",
+      "portraitURL": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Portraits/1116564.t5a282d04.m1200.x7uxOTASZuzpeF5ql.jpg",
+      "portraitDesc": "Portrait by Shealah Craighead in 2017. Photograph.",
+      "portraitSource": "White House Collection/White House Historical Association"
+    },
+    {
+      "number": "46",
+      "name": "Joseph R. Biden Jr.",
+      "startDate": "2021-01-20",
+      "endDate": "present",
+      "portraitURL": "https://library.whitehousehistory.org/fotoweb/cache/5017/Main%20Index/Presidents/Joseph%20R.%20Biden/1130990.t6077194c.m1200.tiff.pv.xtuu8kMoG_cTU91A5.jpg",
+      "portraitDesc": "Portrait by Adam Schulz in 2021. Photograph. ",
+      "portraitSource": "White House Collection/White House Historical Association"
+    }
+  ]
+}
