@@ -1,735 +1,734 @@
 {
-  "dataset": "historical_toys",
-  "toys": [
-    {
-      "year": 1940,
-      "toy": "Red Ryder BB Gun",
-      "retail_price": 5.00,
-	  "description": "The Red Ryder BB Gun is a classic, iconic air rifle that has captured the imaginations of generations. Known for its nostalgic charm and timeless design, this lever-action rifle features a bright red stock and a simple yet reliable mechanism. Perfect for young and aspiring marksmen, it shoots small BB pellets with precision and safety, making it a staple in backyard target practice and plinking fun. A beloved symbol of American youth, the Red Ryder BB Gun continues to bring joy and excitement to those who appreciate its history and the thrill of hitting the mark.",
-	  "image": "https://live.staticflickr.com/5005/5272460776_ee1d277679_b.jpg",
-	  "image_source": "Junior Shooters",
-	  "image_source_url": "www.juniorshooters.net"
-    },
-    {
-      "year": 1941,
-      "toy": "Beach ball",
-      "retail_price": 0.05,
-	  "description": "The 1942 Beach Ball is a delightful recreation of a classic beach accessory that transports us back to a bygone era. With its vintage-inspired design, this beach ball harks back to a time when simple pleasures and seaside vacations were cherished. Made from durable materials and featuring a colorful, retro aesthetic, the 1942 Beach Ball is perfect for adding a touch of nostalgia to any beach or pool outing. Its timeless appeal and cheerful design make it a must-have for both collectors and those who appreciate the charm of yesteryears while enjoying some good old-fashioned beach fun.",
-	  "image": "https://live.staticflickr.com/6144/6002663729_706bb2d681_z.jpg",
-	  "image_soure": "Moonez",
-	  "image_source_url": "https://www.flickr.com/photos/katymoon/"
-    },
-    {
-      "year": 1942,
-      "toy": "Fisher Price Doggy Racer No. 7 Pull Toy",
-      "retail_price": 0.25,
-	  "description": "The Fisher-Price Doggy Racer No. 7 Pull Toy is a classic children's toy that has been delighting kids for generations. This charming pull toy features a wooden dog figurine, often designed with colorful paint and a cheerful expression, riding a wooden race car. When pulled by its attached string, the toy creates a playful clicking sound as the wheels rotate, mimicking the sound of a real race car. The Doggy Racer No. 7 encourages early walkers to develop their motor skills and coordination while providing entertainment and companionship. Its timeless design and nostalgic appeal make it a cherished keepsake for both parents and children, representing the enduring charm of vintage Fisher-Price toys.",
-	  "image": "https://thumbs.worthpoint.com/zoom/images1/1/0715/12/fisher-price-doggy-racer-pull-toy_1_7df9ef2711fd12fe34784ee9b8aeec9e.jpg",
-	  "image_source": "WorthPoint",
-	  "image_source_url": "https://www.worthpoint.com/worthopedia/fisher-price-doggy-racer-pull-toy-1758917571"
-    },
-    {
-      "year": 1943,
-      "toy": "Little green army men",
-      "retail_price": 0.05,
-	  "description": "Little Green Army Men are iconic plastic toy soldiers that have been a staple of children's playtime for decades. Typically made from green plastic and standing about 2 inches tall, these miniature soldiers come in various poses and equipment, from riflemen to medics to tank drivers. They are often used for imaginative and strategic play, allowing kids to create their own battlefield scenarios and engage in epic battles. These figurines have a nostalgic charm, harkening back to a time when simple toys sparked vivid imaginations. Little Green Army Men remain a classic toy that continues to captivate the young and young at heart with their timeless appea",
-	  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bucketosoldiers.jpg/1024px-Bucketosoldiers.jpg",
-	  "image_source": "Wikipedia",
-	  "image_source_url": "https://en.wikipedia.org/wiki/Army_men"
-    },
-    {
-      "year": 1944,
-      "toy": "Soap bubbles and bubble blowers",
-      "retail_price": 0.10,
-	  "description": "Soap bubbles and bubble blowers provide simple yet enchanting entertainment for people of all ages. The joy of creating iridescent, floating spheres of soap-filled air is a universal delight. Soap bubbles are formed by blowing air through a solution of soap and water, and they come in various sizes and shapes, reflecting the surrounding world in their shimmering surfaces. Bubble blowers, often in the form of wands or tubes, make it easy for anyone to create bubbles with ease. Whether enjoyed outdoors in the sunshine or indoors as a whimsical diversion, they offer a magical experience that captivates children and adults alike. The ephemeral beauty of soap bubbles, as they drift and dance on the breeze, encourages playfulness and wonder, making them a timeless and cherished pastime.",
-	  "image": "https://live.staticflickr.com/5571/14377877310_72c8632a03_b.jpg",
-	  "image_source": "Luca Magni",
-	  "image_source_url": "https://www.flickr.com/photos/luca_magni/"
-    },
-    {
-      "year": 1945,
-      "toy": "Slinky",
-      "retail_price": 1.00,
-	  "description": "Invented by Richard James, the Slinky is a simple yet captivating toy made of coiled wire that can \"walk\" down stairs and perform various tricks. It gained immense popularity during World War II when it was used as a tool to demonstrate the principles of wave dynamics for naval applications. After the war, it became a beloved plaything for children and remains an iconic toy to this day.",
-	  "image": "https://live.staticflickr.com/5122/5215915344_8e85c0626a_c.jpg",
-	  "image_source": "CatPats",
-	  "image_source_url": "https://www.flickr.com/photos/cat_pats/"
-    },
-    {
-      "year": 1946,
-      "toy": "Lionel Trains",
-      "retail_price": 30.00,
-	  "description": "Lionel Trains, a legendary brand in the world of model trains, has captivated enthusiasts for generations with their intricately detailed electric toy trains. These high-quality, realistic model locomotives, cars, and accessories have earned a special place in the hearts of collectors and hobbyists worldwide, offering both nostalgia and craftsmanship in a miniature railroad experience",
-	  "image": "https://cdn10.bigcommerce.com/s-e252rx/product_images/uploaded_images/adv1946c.jpg?t=1458305146",
-	  "image_source": "Post War Lionel",
-	  "image_source_url": "https://postwarlionel.com/complete-sets/1946/"
-    },
-    {
-      "year": 1947,
-      "toy": "Tonka Trucks",
-      "retail_price": 1.00,
-	  "description": "Tonka Trucks are rugged, iconic toy vehicles that have been a favorite of children for decades. These sturdy, metal construction vehicles, known for their durability and realistic design, enable kids to engage in imaginative and adventurous play. Whether it's bulldozers, dump trucks, or fire engines, Tonka Trucks are built to withstand rough outdoor adventures, making them a beloved choice for little builders and adventurers. Their enduring popularity is a testament to their quality and timeless appeal, as they continue to inspire creativity and hands-on play in new generations of children",
-	  "image": "https://www.liveauctioneers.com/news/wp-content/uploads/2022/11/besmart-4.jpg",
-	  "image_source": "Milestone Auctions and LiveAuctioneers",
-	  "image_source_url": "https://www.liveauctioneers.com/news/be-smart/beloved-toys-come-and-go-but-tonka-trucks-keep-rolling/"
-    },
-    {
-      "year": 1948,
-      "toy": "Toy Piano",
-      "retail_price": 3,
-      "description":
-	  "The toy piano is a charming and miniature version of a traditional piano, designed for young musicians to explore the world of music in a playful manner. Typically made of plastic or wood and featuring a handful of keys, toy pianos produce a delightful tinkling sound when played. These pint-sized instruments introduce children to the basics of melody and rhythm, fostering an early love for music and creativity. Toy pianos have a timeless appeal and are perfect for introducing the joy of making music to budding musicians, making them a cherished addition to any child's playroom",
-	  "image": "https://www.chicagotribune.com/resizer/UEkok4SATq8OiRv2DkSX-gdpK1g=/400x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/R6XQCHRI7VFEHDUUW34HEH2FGQ.jpeg",
-	  "image_source": "Chicago Tribune",
-	  "image_source_url": "https://www.chicagotribune.com/holidays/sns-stacker-holiday-toys-year-you-were-born-20211208-hj4q746infaxjbvtvfcm5b4ufa-photogallery.html"
-    },
-    {
-      "year": 1949,
-      "toy": "Clue",
-      "retail_price": 3.00,
-	  "description": "Clue, the classic board game of deduction and mystery-solving, has been captivating players for generations. Set in a mansion, players take on the roles of various characters to uncover the answers to a murder mystery: Who committed the crime, with what weapon, and in which room? By collecting clues and making strategic guesses, players work to eliminate possibilities until they can confidently make an accusation. With its engaging gameplay and element of suspense, Clue continues to be a beloved choice for family game nights, offering an immersive experience of suspense, strategy, and intrigue that keeps players on their toes throughout the game.",
-	  "image": "https://static.wikia.nocookie.net/cluecluedo/images/5/5e/Clue-1949.png/revision/latest?cb=20140310035127",
-	  "image_source": "79aznkid79",
-	  "image_source_url": "https://cluecluedo.fandom.com/wiki/User:79aznkid79"
-    },
-    {
-      "year": 1950,
-      "toy": "Magic 8 Ball",
-      "retail_price": 2.00,
-	  "description": "The Magic 8 Ball is a beloved and iconic fortune-telling toy that has intrigued and entertained users for generations. Shaped like a black billiard ball with a window on the bottom, it contains a 20-sided die inside with various answers to yes-or-no questions. Users pose a question, shake the ball, and then peer through the window to reveal one of the pre-written responses, which can range from \"Yes\" and \"No\" to more whimsical answers like \"Ask again later\" or \"Cannot predict now.\" This simple yet mysterious toy adds an element of fun and intrigue to decision-making and has become a cultural symbol of playful divination, making it a must-have for those seeking a touch of whimsy and unpredictability in their lives.",
-	  "image": "https://live.staticflickr.com/5138/5407570783_ec3dd343d7_b.jpg",
-	  "image_source": "Jeff Seeger",
-	  "image_source_url": "https://www.flickr.com/photos/qnd2011/"
-    },
-    {
-      "year": 1951,
-      "toy": "Colorforms",
-      "retail_price": 0.25,
-	  "description": "Colorforms, invented by Harry and Patricia Kislevitz, are a classic toy that has ignited the creativity of children for decades. These imaginative playsets consist of colorful vinyl shapes and figures that adhere to a smooth surface, typically featuring a background scene. Kids can arrange and rearrange the shapes to create endless scenes and stories, allowing for open-ended play and artistic expression. Colorforms' simplicity, reusable nature, and ability to transport young minds to various imaginative worlds have made them a cherished toy for generations, providing hours of creative entertainment and artistic exploration",
-	  "image": "https://clickamericana.com/wp-content/uploads/Original-1977-Colorforms-vintage-play-shapes.jpg",
-	  "image_source": "Click Americana",
-	  "image_source_url": "https://clickamericana.com/toys-and-games/colorforms-the-vintage-vinyl-stick-on-playsets-that-let-kids-stage-scenes-create-comics-dress-dolls"
-    },
-    {
-      "year": 1952,
-      "toy": "Mr Potato Head",
-      "retail_price": 3.00,
-	  "description": "Mr. Potato Head is an iconic and whimsical toy that allows children to unleash their creativity by customizing a plastic potato-shaped figure with various facial features, accessories, and body parts. Originally introduced in the 1950s, Mr. Potato Head has been a beloved part of playrooms worldwide, promoting imaginative play and fine motor skills development. With its mix-and-match components, including eyes, ears, mouths, and more, children can create countless comical and imaginative characters. This classic toy has stood the test of time, evolving over the years while maintaining its status as a beloved and enduring source of imaginative fun for generations of children",
-	  "image": "https://live.staticflickr.com/7060/6989476085_928620152e_z.jpg",
-	  "image_source": "Lorna McAtear",
-	  "image_source_url": "https://www.flickr.com/photos/lorna_mcatear/"
-    },
-    {
-      "year": 1953,
-      "toy": "Model Car",
-      "retail_price": 2.00,
-	  "description": "Toy model cars from the 1950s represent a nostalgic journey into the golden era of toy manufacturing. These miniature vehicles, often made of die-cast metal, featured intricate details and vibrant paintwork that mirrored the automobiles of the time. Popular brands like Dinky Toys, Matchbox, and Corgi produced a wide range of cars, trucks, and emergency vehicles, captivating the hearts of young collectors and car enthusiasts alike. These miniature replicas allowed children to embark on imaginative adventures, racing their toy cars along tabletop tracks or constructing elaborate cityscapes. The toy model cars of the 1950s serve as cherished relics of post-war toy culture and remain prized collectibles for those who appreciate the craftsmanship and nostalgia they represent.",
-	  "image": "https://live.staticflickr.com/4627/26681186548_5fb4c7484b_b.jpg",
-	  "image_source": "David Busfield",
-	  "image_source_url": "https://www.flickr.com/photos/buzzer999/"
-    },
-    {
-      "year": 1954,
-      "toy": "Scrabble",
-      "retail_price": 2.00,
-	  "description": "Scrabble is a timeless and iconic word game that challenges players to build words using letter tiles with assigned point values. The objective is to create words on a game board to score the highest possible points while strategically blocking opponents from doing the same. Developed in the 1930s by Alfred Butts, Scrabble has become a classic pastime for word enthusiasts and families alike. Its mix of vocabulary skills, strategy, and a dash of luck makes it a game that appeals to players of all ages, fostering friendly competition and promoting language skills. Scrabble's enduring popularity has solidified its place as one of the world's most beloved board games, enjoyed by generations for its intellectual stimulation and entertainment value.",
-	  "image": "https://live.staticflickr.com/2851/13896671663_0b43b09c8c_b.jpg",
-	  "image_source": "Rob Hitchman",
-	  "image_source_url": "https://www.flickr.com/photos/65148532@N06/"
-    },
-    {
-      "year": 1955,
-      "toy": "Silly Putty",
-      "retail_price": 1.00,
-	  "description": "Silly Putty is a quirky and versatile toy that has fascinated both children and adults for decades. This pliable, stretchable substance, originally created as a failed synthetic rubber experiment, can be molded into various shapes, stretched into long strands, or even used to pick up images from newspapers and comics. Silly Putty's unique properties have made it a source of endless amusement and creativity. It can serve as a stress reliever, a playful sculpting tool, or a tool for artistic experimentation. Its memorable pinkish-orange color and distinctive texture make Silly Putty a nostalgic and beloved novelty that continues to provide simple, tactile enjoyment for all ages.",
-	  "image": "https://clickamericana.com/wp-content/uploads/Silly-Putty-Wonder-toy-of-the-20th-century-1951-770x549.jpg",
-	  "image_source": "Click Americana",
-	  "image_source_url": "https://clickamericana.com/toys-and-games/history-silly-putty-toy-1951"
-    },
-    {
-      "year": 1956,
-      "toy": "Play-Doh",
-      "retail_price": 0.99,
-	  "description": "Play-Doh is a beloved modeling compound that has been inspiring creativity and imaginative play for generations of children. This colorful, pliable material can be molded, shaped, and sculpted into an endless array of creations, from animals and food items to abstract art and more. Originally developed in the 1950s as a wallpaper cleaner, Play-Doh quickly found its way into the hands of children as a versatile and non-toxic plaything. Its soft texture, vibrant colors, and limitless possibilities make it an ideal tool for fostering fine motor skills, artistic expression, and open-ended play. Play-Doh remains a cherished and iconic toy, offering hours of creative fun for kids and a nostalgic trip down memory lane for adults who grew up with it.",
-	  "image": "https://live.staticflickr.com/7344/12947038455_2b1a94d93a_c.jpg",
-	  "image_source": "Mike Mozart",
-	  "image_source_url": "https://www.flickr.com/photos/jeepersmedia/"
-    },
-	{
-      "year": 1957,
-      "toy": "Pull-A-Tune Xylophone",
-      "retail_price": 2.99,
-	  "description": "The Fisher-Price Pull-A-Tune is a timeless and enchanting toy introduced in 1957, designed to introduce young children to the joy of music in a playful and interactive way. This classic toy features a sturdy wooden body with colorful, chunky wheels and a pull string. When pulled along by toddlers, it produces delightful musical tones as colorful balls inside the toy strike tuned metal rods. The Pull-A-Tune encourages early motor skills development and provides an introduction to the concept of cause and effect through its charming musical sounds. With its enduring design and engaging musical play, this Fisher-Price toy has remained a beloved and cherished choice for generations of young children, making it a nostalgic and timeless addition to any toy collection",
-	  "image": "https://live.staticflickr.com/4539/26649221209_f6b2c80e5c_b.jpg",
-	  "image_source": "Jesse Richardson",
-	  "image_source_url": "https://www.flickr.com/photos/hobbycorner/"
-    },
-	{
-      "year": 1958,
-      "toy": "Hula Hoop",
-      "retail_price": 1.00,
-	  "description": "he Hula Hoop is an iconic and timeless toy that achieved immense popularity during the late 1950s. Consisting of a plastic circular hoop that can be twirled around the waist, hips, or limbs, the Hula Hoop craze captured the imagination of people of all ages. With its simple yet engaging design, it became a symbol of carefree fun and physical activity. The challenge of keeping the hoop spinning led to countless hours of play and exercise, fostering coordination and creativity in both children and adults. The Hula Hoop phenomenon of 1957 is a testament to the enduring appeal of a toy that brings joy and movement to people of all generations",
-	  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Girl_twirling_Hula_Hoop%2C_1958.jpg/300px-Girl_twirling_Hula_Hoop%2C_1958.jpg",
-	  "image_source": "Wikipedia - Hula Hoop",
-	  "image_source_url": "https://en.wikipedia.org/wiki/Hula_hoop"
-    },
-    {
-      "year": 1959,
-      "toy": "Barbie",
-      "retail_price": 3,
-	  "description": "Barbie made her debut and quickly became one of the most popular and iconic toys of the year. Created by Ruth Handler and introduced by Mattel, Barbie was the first fashion doll of its kind, setting a new standard for imaginative play. Her wide range of outfits, accessories, and career options allowed children to role-play and engage in creative storytelling. Barbie's arrival marked a significant shift in the world of toys, and she has since become a cultural icon, evolving with the times to reflect changing fashions, careers, and aspirations. Barbie's popularity in 1958 was a landmark moment in the history of toys and remains a testament to her enduring appeal and influence in the world of play.",
-	  "image": "https://upload.wikimedia.org/wikipedia/en/9/92/MattelBarbieno1br.jpg",
-	  "image_source": "Wikipedia - Barbie",
-	  "image_source_url": "https://en.wikipedia.org/wiki/Barbie"
-    },
-    {
-      "year": 1960,
-      "toy": "Etch A Sketch",
-      "retail_price": 3.00,
-	  "description": "The Etch A Sketch is an iconic and imaginative drawing toy that has delighted aspiring artists and creative minds since its introduction in the 1960s. This classic toy consists of a red plastic frame with two white knobs and a gray screen. By turning the knobs in different directions, users can create intricate drawings and designs on the inside of the screen, thanks to a fine aluminum powder that clings to the screen's interior. The real magic of the Etch A Sketch lies in its ability to quickly erase drawings by simply shaking the toy, making it a perfect canvas for endless creativity and experimentation. Its timeless appeal and the challenge of creating art within its unique constraints have made the Etch A Sketch a beloved and enduring symbol of childhood imagination and artistic expression",
-	  "image": "https://live.staticflickr.com/8793/16966510239_ff7aa989c8_c.jpg",
-	  "image_source": "Jane Labowitch",
-	  "image_source_url": "https://www.flickr.com/photos/etchasketchariffic/"
-    },
-    {
-      "year": 1961,
-      "toy": "Slip 'n Slide",
-      "retail_price": 8.95,
-	  "description": "The Slip 'n Slide is a classic outdoor water toy that has been a source of summertime fun and excitement for generations of children. This simple yet exhilarating plaything consists of a long, narrow sheet of plastic, typically adorned with colorful designs, that is laid out on a grassy surface. Users then wet the surface with a hose or buckets of water, transforming it into a slick water slide. Kids and even adults take turns running, sliding, and gliding along the length of the Slip 'n Slide, creating refreshing moments of laughter and splashing in the sun. Its appeal lies in its ability to provide a simple, active, and enjoyable way to cool off during hot summer days, making it a cherished staple of outdoor play for families and friends alike.",
-	  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Slip_n_slide.jpg/1024px-Slip_n_slide.jpg",
-	  "image_source": "wikipedia - Slip 'N Slide",
-	  "image_source_url": "https://en.wikipedia.org/wiki/Slip_%27N_Slide"
-    },
-    {
-      "year": 1962,
-      "toy": "Chatter Telephone",
-      "retail_price": 1.42,
-	  "description": "The Chatter Telephone is a classic children's toy that has been a beloved companion for generations of young toddlers. This whimsical toy is designed to resemble a vintage rotary phone, complete with a rotary dial that children can turn, a happy face with moving eyes, and a cord for pulling along during play. When pulled, the Chatter Telephone produces a delightful chattering sound that adds to the amusement. Beyond its entertaining features, this toy is also an educational tool, helping toddlers develop fine motor skills and coordination as they play. The Chatter Telephone's enduring charm and interactive design have made it a timeless favorite among parents and caregivers, introducing young children to the world of imaginative and interactive play.",
-	  "image": "https://upload.wikimedia.org/wikipedia/en/8/8c/Modern_Chatter_Telephone.jpg",
-	  "image_source": "Wikipedia - Chatter Telephone",
-	  "image_source_url": "https://en.wikipedia.org/wiki/Chatter_Telephone"
-    },
-    {
-      "year": 1963,
-      "toy": "Easy-Bake Oven",
-      "retail_price": 15.00,
-	  "description": "The Easy-Bake Oven is a beloved toy that has been a source of culinary creativity and delight for aspiring young chefs since its introduction in the 1960s. This miniature oven allows children to bake small treats and desserts with the help of a simple, safe, and electric heating element. Easy-Bake Oven kits typically include pre-made mixes for cookies, cakes, and other sweets, as well as miniature bakeware and utensils for easy preparation. Beyond the delicious results, this toy encourages creativity in the kitchen, teaches basic baking skills, and provides a sense of accomplishment as kids produce their own mini masterpieces. The Easy-Bake Oven remains a cherished toy that offers both a taste of the culinary world and the joy of sharing homemade goodies with family and friends.",
-	  "image": "https://live.staticflickr.com/2867/11036466354_27f13d158b_b.jpg",
-	  "image_source": "Erica Briggs",
-	  "image_source_url": "https://www.flickr.com/photos/ejb10d/"
-    },
-	{
-	  "year": 1964,
-	  "toy": "GI Joe Action Figure",
-	  "retail_price": 1.95,
-	  "description": "The G.I. Joe Action Figure is an iconic and historically significant toy that first emerged in the early 1960s. Produced by Hasbro, G.I. Joe introduced a new era of action figures, standing around 12 inches tall and featuring a wide range of military-themed accessories and outfits. These posable action figures allowed children to engage in imaginative play, embarking on adventures with their heroic soldiers. Over the years, G.I. Joe evolved to include various characters, vehicles, and playsets, each contributing to the rich narrative possibilities for young minds. G.I. Joe quickly became a cultural phenomenon, symbolizing bravery and patriotism. While the action figure landscape has evolved, G.I. Joe remains an enduring symbol of heroism and imaginative play, enjoyed by generations of children and collectors alike",
-	  "image": "https://live.staticflickr.com/7202/7040271499_a5e7519d2f_c.jpg",
-	  "image_source": "GI Joe's",
-	  "image_source_url": "https://www.flickr.com/photos/78703990@N08/"
-	},
-	{
-	  "year": 1965,
-	  "toy": "Wham-O Frisbee",
-	  "retail_price": 0.79,
-	  "description": "The Wham-O Frisbee is an iconic flying disc toy that has soared into the hearts of people worldwide since its introduction in the 1950s. This simple yet versatile plastic disc provides endless outdoor fun, whether it's a game of catch at the park, a round of ultimate frisbee, or simply watching it glide gracefully through the air. The Frisbee's unique design allows it to fly with precision and grace, captivating players of all ages. With its easy-to-grip shape and wide array of colors and designs, the Wham-O Frisbee embodies the spirit of outdoor play and promotes physical activity, making it a cherished symbol of summertime enjoyment and active leisure.",
-	  "image": "https://live.staticflickr.com/1296/1141732162_8f84fc6d18_m.jpg",
-	  "image_source": "normanhathaway",
-	  "image_source_url": "https://www.flickr.com/photos/norman/"
-	},
-	{
-	  "year": 1966,
-	  "toy": "Twister",
-	  "retail_price": 3.88,
-	  "description": "Twister is a classic party game that has been bringing laughter and tangled limbs to gatherings since its launch in the 1960s. Played on a colorful mat with circles of different colors, players take turns spinning a wheel that directs them to place a hand or foot on a specific colored circle. As the game progresses, the challenge intensifies as players contort their bodies to reach the designated spots without falling over. Twister is known for its hilarious and often awkward moments, making it a perfect icebreaker and source of amusement at social gatherings. Its physicality, unpredictability, and ability to break the ice have made Twister a timeless and memorable game enjoyed by friends and families of all ages.",
-	  "image": "//live.staticflickr.com/6143/5946626209_2e8d061681_b.jpg",
-	  "image_source": "Kim",
-	  "image_source_url": "https://www.flickr.com/photos/kizreen/"
-	},
-	{
-	  "year": 1967,
-	  "toy": "Lite-Brite",
-	  "retail_price": 10.00,
-	  "description": "The Lite-Brite is a beloved and creative toy that has illuminated the imaginations of children since its introduction in the 1960s. This innovative toy features a backlit, perforated board that kids use to create colorful designs and patterns by inserting translucent pegs into the holes. When lit from behind, the pegs create vibrant, glowing pictures that captivate young minds. Lite-Brite kits often include templates for various designs, but the real magic lies in the ability for children to craft their unique, glowing masterpieces. Beyond its artistic and imaginative appeal, the Lite-Brite fosters fine motor skills and provides a sense of accomplishment as children watch their creations come to life in a kaleidoscope of colors. Its enduring popularity as a creative and illuminating toy continues to make it a cherished part of childhood play.",
-	  "image": "https://live.staticflickr.com/2141/2164018518_590f1b6496_b.jpg",
-	  "image_source": "Amadika",
-	  "image_source_url": "https://www.flickr.com/photos/amadika/"
-	},
-	{
-	  "year": 1968,
-	  "toy": "Hot Wheels",
-	  "retail_price": 0.59,
-	  "description": "Hot Wheels is a legendary line of die-cast toy cars that has been zooming into the hearts of young car enthusiasts and collectors since its introduction by Mattel in 1968. These miniature vehicles are renowned for their attention to detail, vibrant designs, and high-speed performance on Hot Wheels tracks. With a wide range of cars, trucks, and specialty vehicles, Hot Wheels offers something for every automotive passion. Beyond the thrill of racing, Hot Wheels encourages imaginative play, customization, and the creation of epic stunts and racing scenarios. Its enduring popularity and collector's appeal have solidified Hot Wheels as an iconic brand that continues to rev up the excitement for generations of kids and adults alike.",
-	  "image": "https://live.staticflickr.com/4682/38359046155_c7cfcd27c8_b.jpg",
-	  "image_source": "beetle2001cybergreen",
-	  "image_source_url": "https://www.flickr.com/photos/55910525@N07/"
-	},
-	{
-	  "year": 1969,
-	  "toy": "Lego building sets",
-	  "retail_price": 2.00,
-	  "description": "Lego building sets are a timeless and versatile toy that have been inspiring creativity and construction for decades. These interlocking plastic bricks and components provide the building blocks for limitless imaginative adventures. Lego sets come in a variety of themes, from cityscapes and space exploration to fantasy realms and iconic movie franchises. They offer not only the satisfaction of assembling intricate structures but also the opportunity to foster problem-solving skills, spatial reasoning, and fine motor skills in children and adults. Lego's enduring appeal lies in its adaptability, encouraging both guided construction and open-ended play, making it a beloved and cherished toy that transcends generations, igniting the builder's spirit in all ages.",
-	  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lego_Color_Bricks.jpg/1280px-Lego_Color_Bricks.jpg",
-	  "image_source": "wikipedia - Lego",
-	  "image_source_url": "https://en.wikipedia.org/wiki/Lego"
-	},
-	{
-	  "year": 1970,
-	  "toy": "Nerf ball",
-	  "retail_price": 2.00,
-	  "description": "The Nerf Ball is a classic foam ball toy that has been a staple of active play for decades. Known for its soft, lightweight design, the Nerf Ball allows for safe and enjoyable indoor and outdoor games. Whether it's a friendly game of catch, a spirited game of dodgeball, or imaginative target shooting, Nerf Balls offer endless opportunities for physical activity and creative play. The brand Nerf has expanded its product line to include various sizes and types of foam balls, each designed for specific activities, but they all share the common characteristic of being fun, safe, and versatile toys that encourage active play and social interaction.",
-	  "image": "https://live.staticflickr.com/7342/12443779364_116342df5b_c.jpg",
-	  "image_source": "Mike Mozart",
-	  "image_source_url": "https://www.flickr.com/photos/jeepersmedia/"
-	},
-	{
-	  "year": 1971,
-	  "toy": "Weebles",
-	  "retail_price": 6.58,
-	  "description": "Weebles are a beloved line of children's toys introduced by Hasbro in the 1970s. These egg-shaped, weighted figures are designed to wobble and rock but never fall down, thanks to their weighted bottoms. Weebles come in various characters and themes, from people and animals to vehicles and playsets, allowing for imaginative play and storytelling. The catchy slogan, \"Weebles wobble but they don't fall down,\" became synonymous with the toy and added to its charm. Weebles encourage creativity, fine motor skills, and social interaction, making them a cherished and enduring part of many childhoods and playrooms, known for their iconic wobbling action and engaging play value",
-	  "image": "https://live.staticflickr.com/3285/2968728428_946dc06cd5_c.jpg",
-	  "image_source": "Monica and Rob",
-	  "image_source_url": "https://www.flickr.com/photos/32637333@N00/"
-	},
-	{
-	  "year": 1972,
-	  "toy": "Uno",
-	  "retail_price": 2.00,
-	  "description": "UNO is a beloved and fast-paced card game introduced in 1971. Players aim to be the first to empty their hands by matching cards in color or number to the top card in the discard pile. Featuring special action cards and simple rules, UNO is a family-friendly game that's perfect for gatherings, offering quick rounds and engaging gameplay that has made it a timeless favorite for players of all ages",
-	  "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Baraja_de_UNO.JPG",
-	  "image_source": "Uno (card game)",
-	  "image_source_url": "https://en.wikipedia.org/wiki/Uno_(card_game)"
-	},
-	{
-	  "year": 1973,
-	  "toy": "Shrinky Dinks",
-	  "retail_price": 2.00,
-	  "description": "Shrinky Dinks are a classic and creative craft toy that has been captivating young artists since their introduction in the 1970s. Shrinky Dinks consist of flexible plastic sheets that can be colored, decorated, and cut into various shapes and designs. When these decorated pieces are heated in an oven or with a heat source, they shrink and harden, creating durable, miniature plastic artworks. The magic of watching Shrinky Dinks transform and shrink in the oven adds an element of surprise and delight to the creative process. This imaginative and hands-on toy encourages artistic expression, fine motor skills, and imaginative play, making it a cherished and nostalgic favorite among both children and adults",
-	  "image": "https://live.staticflickr.com/2260/2433853259_9101018339_z.jpg",
-	  "image_source": "lookability",
-	  "image_source_url": "https://www.flickr.com/photos/65901871@N00/"
-	},
-	{
-	  "year": 1974,
-	  "toy": "Skateboard",
-	  "retail_price": 30,
-	  "description": "In the 1970s, skateboarding underwent significant innovations, evolving from homemade boards to specialized decks with improved wheels and shapes. This era saw the rise of skateboarding culture, professional skateboarders, and diverse skateboard designs, setting the stage for modern skateboarding.",
-	  "image": "https://live.staticflickr.com/4063/4271111665_44d7065b1a_k.jpg",
-	  "image_source": "themimixsan",
-	  "image_source_url": "https://www.flickr.com/photos/themimixsan/"
-	},
-	{
-	  "year": 1975,
-	  "toy": "Pet Rock",
-	  "retail_price": 3.95,
-      "description": "The Pet Rock is a quirky and humorous novelty item that gained unexpected popularity in the mid-1970s. Conceived by Gary Dahl, it consisted of a smooth rock, typically placed inside a small box with breathing holes and straw as \"bedding.\" The idea behind the Pet Rock was that it was a low-maintenance and hassle-free \"pet\" that required no feeding, grooming, or attention. Despite its simplicity, the Pet Rock became a cultural sensation and a symbol of absurdity, sparking a short-lived fad. It's remembered as a humorous example of pop culture and novelty gift items.",
-	  "image": "https://en.wikipedia.org/wiki/File:PetRock_Box.jpg",
-	  "image_source": "Wikipedia - Pet Rock",
-	  "image_source_url": "https://en.wikipedia.org/wiki/Pet_Rock"
-	},
-	{
-	  "year": 1976,
-	  "toy": "Stretch Armstrong",
-	  "retail_price": 5.00,
-	  "description": "Stretch Armstrong is a classic and iconic action figure toy introduced in the 1970s. This muscular figurine, made of a flexible, stretchy material, could be pulled, twisted, and stretched to impressive lengths, then returned to its original shape. The appeal of Stretch Armstrong lies in the tactile enjoyment of manipulating its super stretchy body and watching it rebound without losing its form. Over the years, Stretch Armstrong has been reimagined in various forms and sizes, but the enduring fascination with its stretchability and resilience has made it a cherished and memorable toy for generations of children.",
-	  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Stretch_Armstrong_toy.jpg/1024px-Stretch_Armstrong_toy.jpg",
-	  "image_source": "Wikipedia - Stretch Armstrong",
-	  "image_source_url": "https://en.wikipedia.org/wiki/Stretch_Armstrong"
-	},
-	{
-	  "year": 1977,
-	  "toy": "Atari 2600 Game System",
-	  "retail_price": 199.99,
-	  "description": "The Atari 2600 Game System, introduced in the late 1970s, is a pioneering and iconic video game console that played a pivotal role in the history of home gaming. Offering a library of diverse game cartridges, it allowed players to enjoy classic titles like \"Pac-Man,\" \"Space Invaders,\" and \"Asteroids\" in the comfort of their own homes. The Atari 2600's joystick controllers and simple graphics were cutting-edge at the time, sparking the video game industry's growth and cultural impact. Its legacy as one of the first widely successful home consoles continues to be celebrated, with many of its games remaining beloved classics that laid the foundation for modern gaming.",
-	  "image": "https://live.staticflickr.com/5259/5398990433_b6598e9729_b.jpg",
-	  "image_source": "Nick",
-	  "image_source_url": "https://www.flickr.com/photos/racketboy/"
-	},
-	{
-	  "year": 1978,
-	  "toy": "Star Wars action figures",
-	  "retail_price": 3,
-	  "description": "The Star Wars action figures released in 1978 were a groundbreaking collection of toys that accompanied the release of the original Star Wars film in 1977. Produced by Kenner, these action figures allowed fans to bring the galaxy far, far away into their own homes. The initial 12 figures included iconic characters like Luke Skywalker, Princess Leia, Darth Vader, and Han Solo. These figures were approximately 3.75 inches tall and featured limited articulation. The success of these action figures kickstarted the Star Wars toy franchise, and they remain highly sought-after collectibles today, marking the beginning of an enduring and beloved aspect of Star Wars fandom.",
-	  "image": "https://live.staticflickr.com/65535/51158759288_7ba9781e2a_b.jpg",
-	  "image_source": "Nicholas Hasey",
-	  "image_source_url": "https://www.flickr.com/photos/theyounghistorian/"
-	},
-	{
-	  "year": 1979,
-	  "toy": "Simon",
-	  "retail_price": 24.95,
-	  "description": "Simon is a classic electronic memory game that has challenged players' pattern-recognition skills and entertained them since its debut in the late 1970s. The game consists of a circular device with four colored sections: red, blue, green, and yellow. Simon generates a sequence of lights and sounds that players must replicate by pressing the corresponding colored sections in the correct order. As the game progresses, the sequences become longer and more complex, testing players' memory and reflexes. Simon's addictive gameplay and electronic appeal have made it a beloved and enduring game for individuals of all ages, providing both mental stimulation and hours of fun.",
-	  "image": "https://live.staticflickr.com/5069/5562636761_cc32440c33_c.jpg",
-	  "image_source": "CracklinTulip",
-	  "image_source_url": "https://www.flickr.com/photos/cracklintulip/"
-	},
-	{
-	  "year": 1980,
-	  "toy": "Rubik's Cube",
-	  "retail_price": 1.99,
-	  "description": "The Rubik's Cube is an iconic and challenging 3D puzzle that has perplexed and fascinated individuals worldwide since its creation in the 1970s. It features a cube with six faces, each covered in small colored squares. The objective is to solve the puzzle by manipulating the cube's individual layers and turning them to align all the squares on each face with the same color. The Rubik's Cube tests spatial reasoning, logic, and patience, offering endless combinations and solutions. Its enduring appeal lies in its ability to engage the mind and provide a satisfying sense of accomplishment when successfully solved, making it a timeless and beloved brain-teaser for puzzle enthusiasts of all ages.",
-	  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Scrumbled_Rubik%27s_Cube.jpg/800px-Scrumbled_Rubik%27s_Cube.jpg",
-	  "image_source": "Wikipedia - Rubik's Cube",
-	  "image_source_url": "https://en.wikipedia.org/wiki/Rubik%27s_Cube"
-	},
-	{
-	  "year": 1981,
-	  "toy": "He-man Action Figures",
-	  "retail_price": 4.99,
-	  "description": "He-Man action figures are a line of iconic toys introduced by Mattel in the early 1980s as part of the \"Masters of the Universe\" toy line. These action figures featured muscular and heroic characters, led by He-Man himself, and their adversaries, including Skeletor and other villains. He-Man figures were notable for their extensive articulation, detailed designs, and accompanying accessories, such as weapons and vehicles. The toy line was accompanied by a popular animated TV series and a rich storyline, contributing to the toys' enduring popularity and cultural significance. He-Man action figures are beloved collectibles that continue to capture the hearts of fans and collectors, representing a memorable chapter in the history of action figures and pop culture.",
-	  "image": "https://live.staticflickr.com/4093/4791882631_ac789fdbf7_k.jpg",
-	  "image_source": "Shutter-Bee Photography",
-	  "image_source_url": "https://www.flickr.com/photos/moonfaze5/"
-	},
-	{
-	  "year": 1982,
-	  "toy": "My Little Pony",
-	  "retail_price": 3.00,
-	  "description": "My Little Pony is a beloved and enduring toy line introduced by Hasbro in the early 1980s. These colorful and stylized toy ponies, with their distinct mane and tail designs, captured the hearts of children and collectors alike. The toy line was accompanied by animated TV series and movies that told the adventures of the ponies in the magical land of Equestria. My Little Pony encourages imaginative play, storytelling, and nurturing through its depictions of friendship and teamwork. Over the years, My Little Pony has evolved with various generations of characters and themes, catering to a wide audience and leaving a lasting legacy in the world of toys and entertainment.",
-	  "image": "http://live.staticflickr.com/1402/1299960819_5b0ca1fbcf_z.jpg",
-	  "image_source": "Sugarsbadforya",
-	  "image_source_url": "https://www.flickr.com/photos/kungfubunny/"
-	},
-	{
-	  "year": 1983,
-	  "toy": "Cabbage Patch Kids",
-	  "retail_price": 40.00,
-	  "description": "Cabbage Patch Kids are iconic and endearing dolls that first gained immense popularity in the 1980s. These dolls, known for their unique and handcrafted appearance, were originally created by Xavier Roberts. Each Cabbage Patch Kid had its own individual name and came with a birth certificate, adding a personal touch to the adoption experience. The dolls were characterized by their soft bodies, distinctive faces, and the adoption theme, which resonated with children and collectors alike. Cabbage Patch Kids sparked a sensation and even led to frenzied adoption events in stores during the holiday season. Their enduring appeal and cultural impact have solidified their status as beloved and cherished childhood companions, making them a timeless and iconic toy.",
-	  "image": "http://live.staticflickr.com/65535/51816371707_ac4f832a25_h.jpg",
-	  "image_source": "fishhawk",
-	  "image_source_url": "https://www.flickr.com/photos/16502322@N03/"
-	},
-	{
-	  "year": 1984,
-	  "toy": "Transformers",
-	  "retail_price": 4.00,
-	  "description": "Transformers is a beloved and enduring toy franchise launched by Hasbro in the 1980s. These action figures are known for their unique ability to transform from humanoid robots into vehicles, beasts, or other forms. The line includes both Autobots and Decepticons, each with distinct characters and abilities. Transformers quickly gained a passionate fanbase and were accompanied by an animated TV series, comics, and movies that expanded the lore of these shape-shifting robots. Beyond their action-packed play value, Transformers promote creativity, problem-solving, and storytelling as children imagine epic battles and adventures. The franchise's enduring popularity and iconic status have made Transformers a cultural phenomenon with a lasting impact on the world of toys and entertainment.",
-	  "image": "http://live.staticflickr.com/6164/6166048336_e20f253090.jpg",
-	  "image_source": "isiahishere",
-	  "image_source_url": "https://www.flickr.com/photos/isiahishere/"
-	},
-	{
-	  "year": 1985,
-	  "toy": "Teddy Ruxpin",
-	  "retail_price": 69.99,
-	  "description": "Teddy Ruxpin is a cherished and innovative animatronic teddy bear introduced by Worlds of Wonder in the mid-1980s. Unlike traditional stuffed animals, Teddy Ruxpin featured a cassette tape player in his back and animated eyes and mouth that synchronized with the recorded stories. When children played a special cassette tape, Teddy Ruxpin would come to life, telling captivating tales and adventures through his moving mouth and expressive eyes. This combination of technology and storytelling made Teddy Ruxpin a beloved and interactive companion, fostering a love for reading and imaginative play in young children. His endearing personality and the magic of his storytelling abilities continue to hold a special place in the hearts of those who grew up with him, making Teddy Ruxpin a beloved and nostalgic figure in the world of toys.",
-	  "image": "https://live.staticflickr.com/5765/23147033739_218b03c7a6_c.jpg",
-	  "image_source": "Love Ottanta",
-	  "image_source_url": "https://www.flickr.com/photos/136942613@N08/"
-	},
-	{
-	  "year": 1986,
-	  "toy": "Nintendo Entertainment System",
-	  "retail_price": 199.99,
-	  "description": "The Nintendo Entertainment System (NES) is a legendary and groundbreaking video game console released by Nintendo in 1985. It played a pivotal role in revitalizing the video game industry after the video game crash of the early 1980s. The NES introduced a diverse library of iconic games, including \"Super Mario Bros.,\" \"The Legend of Zelda,\" and \"Metroid,\" setting the stage for enduring franchises. The console's innovative design featured a controller with a directional pad and two action buttons, setting a standard for future gaming controllers. The NES's widespread popularity helped establish Nintendo as a dominant force in the gaming world and laid the foundation for the modern video game industry as we know it today.",
-	  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/NES-Console-Set.jpg/1920px-NES-Console-Set.jpg",
-	  "image_source": "Wikipedia - Nintendo Entertainment System",
-	  "image_source_url": "https://en.wikipedia.org/wiki/Nintendo_Entertainment_System"
-	},
-	{
-	  "year": 1987,
-	  "toy": "Jenga",
-	  "retail_price": 12,
-	  "description": "Jenga is an engaging and suspenseful tabletop game that has captivated players since its creation in the 1980s. The game consists of a set of wooden blocks stacked in a tower formation, with players taking turns removing one block at a time from the tower and then carefully placing it on top. The objective is to keep the tower stable while trying to make it topple on your opponent's turn. Jenga is a game of strategy, steady hands, and nerve-wracking tension as the tower becomes increasingly precarious. Its simple yet addictive gameplay and ability to bring players together for thrilling matches have made Jenga a timeless and universally loved party and family game.",
-	  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Jenga_distorted.jpg/800px-Jenga_distorted.jpg",
-	  "image_source": "Wikipedia - Jenga",
-	  "image_source_url": "https://en.wikipedia.org/wiki/Jenga"
-	},
-	{
-	  "year": 1988,
-	  "toy": "Troll Dolls",
-	  "retail_price": 2.00,
-	  "description": "Troll Dolls, often simply referred to as \"Trolls,\" are whimsical and collectible toys known for their distinctive, colorful hair and expressive faces. These dolls were originally created in the 1960s by Danish woodcutter Thomas Dam and gained immense popularity in the 1990s. Trolls come in various sizes, from small keychain-sized versions to larger collectible figures. They are recognized for their tall, cone-shaped heads adorned with spiky hair, often in vibrant and eye-catching colors. Troll Dolls have a timeless appeal and have been cherished as toys, decorations, and even lucky charms, making them a memorable and endearing part of popular culture.",
-	  "image": "http://live.staticflickr.com/3047/2453088873_550b952a98_c.jpg",
-	  "image_source": "Mandana Fard",
-	  "image_source_url": "Mandana Fard"
-	},
-	{
-	  "year": 1989,
-	  "toy": "Game Boy",
-	  "retail_price": 89.99,
-	  "description": "The Game Boy is a pioneering and iconic handheld video game console created by Nintendo and first released in 1989. It revolutionized portable gaming with its compact design and interchangeable game cartridges. The monochrome screen, directional pad, and A and B buttons offered a familiar gaming experience on the go. The Game Boy introduced players to classic titles like \"Tetris\" and \"Super Mario Land\" and provided a platform for a wide range of games. Its enduring popularity, durability, and vast game library made it a beloved companion for gamers of all ages, establishing the foundation for Nintendo's dominance in the handheld gaming market for years to come.",
-	  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Game-Boy-FL.jpg/800px-Game-Boy-FL.jpg",
-	  "image_source": "Wikipedia - Game Boy",
-	  "image_source_url": "https://en.wikipedia.org/wiki/Game_Boy"
-	},
-	{
-	  "year": 1990,
-	  "toy": "Teenage Mutant Ninja Turtles action figures",
-	  "retail_price": 3.99,
-      "description": "Teenage Mutant Ninja Turtles (TMNT) action figures are a beloved line of toys introduced by Playmates Toys in the late 1980s, based on the popular comic book and animated TV series. These action figures depict the four anthropomorphic turtles, Leonardo, Michelangelo, Donatello, and Raphael, as well as their allies and adversaries from the TMNT universe. Each figure was highly detailed, featuring poseable limbs and accessories like weapons and gadgets. The TMNT action figures became a cultural phenomenon, reflecting the popularity of the franchise and sparking a collector's craze. Their enduring appeal and iconic status in the world of action figures make them cherished memorabilia for fans of the Teenage Mutant Ninja Turtles.",
-	  "image": "http://live.staticflickr.com/5522/11683262196_bca2d51a04_h.jpg",
-	  "image_source": "Quillope Jeffrey",
-	  "image_source_url": "https://www.flickr.com/photos/clarkent78/"
-	},
-	{
-	  "year": 1991,
-	  "toy": "Super Nintendo Entertainment System",
-	  "retail_price": 199.99,
-	  "description": "The Super Nintendo Entertainment System (SNES), also known as the Super NES or Super Nintendo, is a legendary video game console released by Nintendo in 1990. It represents the 16-bit era of gaming and is known for its extensive library of classic games. The SNES introduced iconic titles like \"Super Mario World,\" \"The Legend of Zelda: A Link to the Past,\" and \"Super Metroid.\" With its improved graphics and sound capabilities compared to its predecessor, the NES, the SNES delivered immersive gaming experiences. Its distinctive rectangular controller, with shoulder buttons and a more ergonomic design, became a standard for future console controllers. The SNES holds a special place in the hearts of gamers and is celebrated for its timeless classics and contributions to the history of video gaming.",
-	  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/SNES-Mod1-Console-Set.jpg/1920px-SNES-Mod1-Console-Set.jpg",
-	  "image_source": "Wikipedia - Super Nintendo Entertainment System",
-	  "image_source_url": "https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System"
-	},
-	{
-	  "year": 1992,
-	  "toy": "Talkboy",
-	  "retail_price": 29.99,
-	  "description": "The Talkboy is a memorable and innovative handheld audio recording device that gained fame in the 1990s, thanks to its appearance in the movie \"Home Alone 2: Lost in New York.\" This device allowed users to record their voices and play them back at a slower speed, creating a distinctive and comical effect. The Talkboy became a sought-after toy after its movie appearance, leading to the release of a consumer version by Tiger Electronics. Its popularity was attributed to its playful sound manipulation features and its association with the popular \"Home Alone\" film franchise. The Talkboy is a nostalgic and collectible piece of 1990s pop culture that continues to be remembered fondly by fans of the era.",
-	  "image": "https://live.staticflickr.com/5185/5593280057_7c06bae39d_b.jpg",
-	  "image_source": "randyreyes__",
-	  "image_source_url": "https://www.flickr.com/photos/waverder/"
-	},
-	{
-	  "year": 1993,
-	  "toy": "Super Soaker",
-	  "retail_price": 25.00,
-	  "description": "The Super Soaker is a high-powered water blaster toy invented by engineer Lonnie Johnson and introduced by Hasbro in the early 1990s. Unlike traditional water guns, Super Soakers use air pressure to shoot pressurized streams of water, making them more powerful and capable of shooting water over longer distances. These water blasters come in various sizes and designs, from small pistols to large, multi-chambered models. Super Soaker water fights are a popular outdoor activity, encouraging active play and fun during the warm summer months. The Super Soaker brand has continued to innovate and expand its product line, remaining a beloved choice for water-based outdoor play.",
-	  "image": "https://live.staticflickr.com/47/135572195_ad05465820_b.jpg",
-	  "image_source": "AIG",
-	  "image_source_url": "https://www.flickr.com/photos/alagregg/"
-	},
-	{
-	  "year": 1994,
-	  "toy": "Mighty Morphin Power Rangers",
-	  "retail_price": 10.00,
-	  "description": "Mighty Morphin Power Rangers is an iconic and action-packed franchise that originated in the early 1990s. It combines live-action sequences with Japanese tokusatsu footage, creating a unique blend of action, adventure, and teamwork. The show revolves around a group of teenagers who morph into superheroes known as the Power Rangers to battle villains and protect the world. The Power Rangers are each associated with a color and have distinctive Zords (giant robots) that combine to form the mighty Megazord. Alongside the TV series, the franchise includes action figures, toys, video games, and comics. Mighty Morphin Power Rangers has had a lasting impact on popular culture, inspiring generations of fans with its thrilling adventures and colorful heroes.",
-	  "image": "https://live.staticflickr.com/2794/4232535644_62216cb78d_z.jpg",
-	  "image_source": "ThePowerDome",
-	  "image_source_url": "https://www.flickr.com/photos/thepowerdome/"
-	},
-	{
-	  "year": 1995,
-	  "toy": "Beanie Babies",
-	  "retail_price": 5.00,
-	  "description": "Beanie Babies are a collectible toy line of plush stuffed animals that gained immense popularity in the mid-1990s. Created by Ty Inc., these soft and cute critters were filled with plastic pellets (or \"beans\"), giving them a unique feel and flexibility. Beanie Babies came in a wide variety of animal designs, each with its own name and tag, which included a poem and a unique birthdate. Collectors were drawn to the limited production runs, leading to a frenzy of Beanie Baby collecting. However, the Beanie Baby market eventually experienced a decline in value, but they remain cherished and nostalgic keepsakes for many, representing a unique chapter in the world of collectible toys.",
-	  "image": "https://live.staticflickr.com/25/61363748_47c59db1dc_b.jpg",
-	  "image_source": "stephspagnola",
-	  "image_source_url": "https://www.flickr.com/photos/17049862@N00/"
-	},
-	{
-	  "year": 1996,
-	  "toy": "Tickle Me Elmo",
-	  "retail_price": 29.99,
-	  "description": "Tickle Me Elmo is a plush toy based on the popular Sesame Street character Elmo. Introduced by Tyco Preschool in 1996, this interactive doll became a sensation during the holiday season of that year. Tickle Me Elmo would giggle, vibrate, and move when tickled or squeezed, creating infectious laughter and delight in children and adults alike. The toy's popularity led to high demand and long lines at stores, with some reselling for exorbitant prices. Tickle Me Elmo's mass appeal and the frenzy it caused made it one of the most sought-after and iconic toys of the 1990s, cementing its place in the annals of holiday gift crazes.",
-	  "image": "https://live.staticflickr.com/22/27109890_3bb6a91bdd_b.jpg",
-	  "image_source": "Realsanmarino",
-	  "image_source_url": "https://www.flickr.com/photos/realsanmarino/"
-	},
-	{
-	  "year": 1997,
-	  "toy": "Tamagotchi",
-	  "retail_price": 17.99,
-	  "description": "Tamagotchi is a virtual pet and electronic keychain toy that gained worldwide popularity when introduced by Bandai in 1996. These compact devices allowed players to nurture and care for a digital pet from hatching to maturity, requiring regular feeding, playtime, and attention. Tamagotchis became a cultural sensation, captivating people of all ages with their interactive and nurturing gameplay, and their portable design made them a ubiquitous accessory. They sparked trends in digital pet ownership and offered a unique blend of entertainment and responsibility, leaving a lasting mark on the world of handheld electronic toys.",
-	  "image": "https://live.staticflickr.com/7308/8916250698_725d3479dc_b.jpg",
-	  "image_source": "Pascal Maramis",
-	  "image_source_url": "https://www.flickr.com/photos/pascalmaramis/"
-	},
-	{
-	  "year": 1998,
-	  "toy": "Furby",
-	  "retail_price": 35.00,
-	  "description": "Furby is an interactive robotic toy introduced by Tiger Electronics and Hasbro in the late 1990s. Resembling a furry creature with big eyes and a beak-like mouth, Furby could \"learn\" and respond to its owner's interactions. It spoke its own language, Furbish, but gradually picked up and used English words over time. Furby featured sensors that enabled it to react to touch, sound, and light, making it an engaging and often unpredictable companion. The toy's ability to change its personality and develop a unique identity based on how it was treated contributed to its appeal. Furby quickly became a sensation, with various editions and generations released over the years, making it a beloved and iconic interactive toy of the late 1990s and early 2000s.",
-	  "image": "https://live.staticflickr.com/6069/6137468129_d9a6223d6a_b.jpg",
-	  "image_source": "Amanda",
-	  "image_source_url": "https://www.flickr.com/photos/66376272@N07/"
-	},
-	{
-	  "year": 1999,
-	  "toy": "Pokémon trading cards",
-	  "retail_price": 4.00,
-	  "description": "Pokémon trading cards are collectible card games that were first introduced by Wizards of the Coast in North America in 1999, based on the popular Pokémon video game and TV series. Each card features a Pokémon character with various attributes and abilities. The objective is to build a strategic deck and engage in battles with other players using the cards. Pokémon cards quickly gained a dedicated following and became a cultural phenomenon. The franchise has continued to release new sets of cards, with rare and holographic cards often becoming highly sought-after collector's items. Pokémon trading cards have fostered a sense of community among players and collectors and remain a beloved aspect of the Pokémon franchise, appealing to fans of all ages.",
-	  "image": "https://live.staticflickr.com/3936/14918973744_a17d3608d4_b.jpg",
-	  "image_source": "Alyssa Sun",
-	  "image_source_url": "https://www.flickr.com/photos/spufflez/"
-	},
-	{
-	  "year": 2000,
-	  "toy": "Playstation 2",
-	  "retail_price": 299.99,
-	  "description": "The PlayStation 2, released in the year 2000, is a legendary and influential video game console developed by Sony Computer Entertainment. It became one of the best-selling and most iconic gaming consoles of all time. The PS2 was celebrated for its powerful hardware, extensive library of games, and backward compatibility with the original PlayStation games. It introduced players to blockbuster titles like \"Grand Theft Auto: San Andreas,\" \"Final Fantasy X,\" and \"Metal Gear Solid 2.\" The PS2's DVD player functionality also contributed to its appeal, making it a versatile entertainment hub. Its enduring legacy lies in its impact on the gaming industry, as it helped solidify Sony's position as a dominant force and set the stage for future PlayStation consoles.",
-	  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/PS2-Versions.jpg/1024px-PS2-Versions.jpg",
-	  "image_source": "Wikipedia - Playstation 2",
-	  "image_source_url": "https://en.wikipedia.org/wiki/PlayStation_2"
-	},
-	{
-	  "year": 2001,
-	  "toy": "Bratz Dolls",
-	  "retail_price": 14.99,
-	  "description": "Bratz Dolls are a line of fashion dolls introduced by MGA Entertainment in 2001. These dolls are known for their contemporary and edgy fashion sense, featuring large heads with distinctive makeup, stylish outfits, and an emphasis on individuality and self-expression. Each Bratz Doll has its own unique personality and interests, encouraging imaginative play and storytelling. The Bratz franchise expanded to include various doll lines, accessories, animated series, and even a live-action movie. While facing some controversy due to their mature appearance, Bratz Dolls have remained popular among pre-teen and teen audiences, reflecting evolving trends in the world of fashion and pop culture.",
-	  "image": "https://live.staticflickr.com/4268/34871805446_5c91a838ed_z.jpg",
-	  "image_source": "Lisa Astrup",
-	  "image_source_url": "https://www.flickr.com/photos/lisaastrup/"
-	},
-	{
-	  "year": 2002,
-	  "toy": "Beyblades",
-	  "retail_price": 10.00,
-	  "description": "Beyblades are spinning top toys that gained popularity in the early 2000s. Created by Takara Tomy (formerly Takara), these battling tops are designed for competitive play. Each Beyblade features a unique design with interchangeable parts, including a spinning top, a launch mechanism, and a ripcord. Players engage in head-to-head battles, launching their Beyblades into an arena known as the Beystadium, with the goal of knocking their opponent's top out or forcing it to stop spinning. Beyblades became a sensation with a dedicated fanbase, leading to tournaments and an animated TV series that expanded the lore of Beyblade battles. The toy line encouraged strategic customization and skillful play, making it a memorable and engaging toy for kids during the early 2000s.",
-	  "image": "https://live.staticflickr.com/65535/51179769431_1bb53ff372_c.jpg",
-	  "image_source": "Toxif Beyblades",
-	  "image_source_url": "https://www.flickr.com/photos/193069182@N08/"
-	},
-	{
-	  "year": 2003,
-	  "toy": "Cranium Hullabaloo",
-	  "retail_price": 19.99,
-	  "description": "Cranium Hullabaloo is an interactive and energetic board game introduced by Cranium, Inc. in 2002. Designed for children, this game combines music, movement, and memory challenges. Players take turns following instructions given by a talking electronic console that plays music and calls out actions. The objective is to move around and interact with colorful pads placed on the floor, with each pad corresponding to a specific activity. Hullabaloo encourages physical activity, creativity, and quick thinking as players dance, hop, and follow instructions to stay in the game. Its lively and engaging gameplay makes it a memorable and fun party or family game for young players.",
-	  "image": "https://live.staticflickr.com/4108/5054584307_d9073a5b88.jpg",
-	  "image_source": "nghethuongvn",
-	  "image_source_url": "https://www.flickr.com/photos/16056599@N05/"
-	},
-	{
-	  "year": 2004,
-	  "toy": "Robosapien",
-	  "retail_price": 99.00,
-	  "description": "Robosapien is a popular and interactive humanoid robot toy created by WowWee and introduced in 2004. This advanced robot is known for its fluid movements, pre-programmed actions, and remote control capabilities. Robosapien can walk, dance, pick up objects, and perform a wide range of entertaining movements and gestures. It also features sensors that allow it to respond to touch, sound, and obstacles. With a remote control, users can program Robosapien to perform various actions and sequences. The toy's combination of technology and interactivity made it a hit among both children and adults, showcasing the potential for robotics in consumer entertainment and play.",
-	  "image": "https://live.staticflickr.com/53/108346406_634de81517_c.jpg",
-	  "image_source": "空虚",
-	  "image_source_url": "https://www.flickr.com/photos/dsnowdon/"
-	},
-	{
-	  "year": 2005,
-	  "toy": "Xbox 360",
-	  "retail_price": 399.99,
-	  "description": "The Xbox 360, released by Microsoft in 2005, is a highly influential and popular video game console that played a significant role in shaping the gaming industry. It introduced high-definition gaming, robust online multiplayer capabilities through Xbox Live, and a vast library of games that included iconic titles like \"Halo 3,\" \"Gears of War,\" and \"Mass Effect.\" The console also featured multimedia capabilities, including music and video streaming. The Xbox 360's controller design became a standard for modern gaming controllers, and its online ecosystem paved the way for digital downloads and online gaming communities. Its success contributed to Microsoft's position in the gaming market and played a crucial role in the evolution of home gaming consoles.",
-	  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Microsoft-Xbox-360-E-wController.jpg/800px-Microsoft-Xbox-360-E-wController.jpg",
-	  "image_source": "Wikipedia - Xbox_360",
-	  "image_source_url": "https://en.wikipedia.org/wiki/Xbox_360"
-	},
-	{
-	  "year": 2006,
-	  "toy": "Nintendo Wii",
-	  "retail_price": 250.00,
-	  "description": "The Nintendo Wii, released by Nintendo in 2006, is a groundbreaking and innovative video game console known for its motion-sensing controller, the Wii Remote (or Wiimote). This console introduced a novel way to interact with games by translating real-world motions into in-game actions. The Wii's diverse library of games catered to players of all ages, from the family-friendly \"Wii Sports\" to titles like \"The Legend of Zelda: Twilight Princess\" and \"Super Mario Galaxy.\" The console's social and physical gaming experiences made it a hit among families and casual gamers. Additionally, it introduced the concept of virtual console games, allowing players to download and play classic titles from previous Nintendo consoles. The Nintendo Wii's impact on the gaming industry included popularizing motion controls and expanding the gaming demographic.",
-	  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Wii-Console.png/1024px-Wii-Console.png",
-	  "image_source": "Wikipedia - Nintendo Wii",
-	  "image_source_url": "https://en.wikipedia.org/wiki/Wii"
-	},
-	{
-	  "year": 2007,
-	  "toy": "Guitar Hero",
-	  "retail_price": 90.00,
-	  "description": "Guitar Hero is a music video game series introduced by Harmonix and later published by Activision in the mid-2000s. It offered players the opportunity to simulate playing guitar by using a special guitar-shaped controller. The objective was to follow on-screen prompts and strum in time with the music, creating an immersive and enjoyable musical experience. The game featured a diverse range of rock and pop songs, allowing players to perform famous tracks as if they were rock stars. Guitar Hero was celebrated for its social gameplay, with multiplayer modes and competitions, and it sparked a renewed interest in music rhythm games. The series expanded to include various versions and instrument controllers, and it remains a beloved and influential part of video game history, combining music and gaming in a unique and entertaining way.",
-	  "image": "https://www.gameinformer.com/s3/files/styles/body_default/s3/legacy-images/imagefeed/Reunion%20Tour%3A%20The%20Best%20And%20Worst%20Of%20Guitar%20Hero/Gh3_2D00_337_2D00_610.jpg",
-	  "image_source": "Game Informer",
-	  "image_source_url": "https://www.gameinformer.com/b/features/archive/2015/06/10/reunion-tour-the-best-and-worst-of-guitar-hero.aspx"
-	},
-	{
-	  "year": 2008,
-	  "toy": "WALL-E Toys",
-	  "retail_price": 7.50,
-	  "description": "WALL-E toys are a collection of merchandise based on the titular character from Disney-Pixar's animated film \"WALL-E,\" which was released in 2008. These toys capture the charm and personality of WALL-E, a lovable robot left to clean up an abandoned Earth. WALL-E's toys include action figures, plush dolls, remote-controlled robots, and interactive toys that replicate the character's movements and sounds. The film's themes of friendship and environmental consciousness have made WALL-E toys not only fun for play but also valuable tools for sparking conversations about sustainability and technology. These toys have resonated with both children and collectors, allowing fans to bring a piece of the heartwarming film into their homes.",
-	  "image": "https://live.staticflickr.com/7033/6483770873_8765aa5f0f_b.jpg",
-	  "image_source": "TheFFK",
-	  "image_source_url": "https://www.flickr.com/photos/theffk/"
-	},
-	{
-	  "year": 2009,
-	  "toy": "Angry Birds",
-	  "retail_price": 5.00,
-	  "description": "Angry Birds is a popular mobile game franchise introduced by Rovio Entertainment in 2009. In this addictive puzzle game, players use a slingshot to launch a variety of bird characters at structures containing green pigs. The objective is to knock down the pigs and their fortifications to earn points and progress through levels. Angry Birds combines physics-based gameplay with a simple yet challenging premise, making it accessible and enjoyable for players of all ages. The franchise has since expanded to include numerous sequels, spin-off games, merchandise, and even an animated series and feature films. Angry Birds has become a global phenomenon, with its iconic characters and engaging gameplay making it a beloved part of mobile gaming history.",
-	  "image": "https://live.staticflickr.com/7063/6782643074_44f33f9bd1_b.jpg",
-	  "image_source": "marja2006-offers",
-	  "image_source_url": "https://www.flickr.com/photos/marja2006-offers/"
-	},
-	{
-	  "year": 2010,
-	  "toy": "iPad",
-	  "retail_price": 499.99,
-	  "description": "The iPad, launched by Apple in 2010, is a revolutionary tablet computer that redefined personal computing and mobile technology. With its sleek design, high-resolution touchscreen, and a vast ecosystem of apps, the iPad became a versatile device for a wide range of tasks, from web browsing and email to gaming and creative content creation. It offered a portable and user-friendly experience, bridging the gap between smartphones and traditional laptops. The iPad's impact extended beyond personal use, transforming industries like education, healthcare, and art by providing innovative and interactive solutions. Over the years, Apple has continued to refine and expand the iPad lineup, making it an essential tool for many individuals and professionals worldwide.",
-	  "image": "https://www.cnet.com/a/img/resize/5174937254d8e65b0b1bbc8222820fda5dfc02e5/hub/2010/05/04/1f3322b2-cbf2-11e2-9a4a-0291187b029a/orig-1200x900_1.jpg?auto=webp&width=768",
-	  "image_source": "Ipad - CNET",
-	  "image_source_url": "https://www.cnet.com/reviews/apple-ipad-2010-review/"
-	},
-	{
-	  "year": 2011,
-	  "toy": " Skylanders",
-	  "retail_price": 5.00,
-	  "description": "Skylanders is a video game and toy franchise introduced by Activision in 2011. It combines physical action figures with a video game experience, offering an innovative and interactive gameplay concept. Players place collectible Skylanders action figures on a special portal, and these characters are then transported into the game world. The objective is to use the Skylanders' unique abilities to complete various in-game challenges and adventures. Skylanders sparked a new genre known as \"toys-to-life\" gaming, where physical toys interact with a digital game world. The franchise released multiple games and expansions, creating a vast universe of characters and adventures. While the initial popularity has waned, Skylanders remains an innovative and memorable chapter in the history of video games and toys.",
-	  "image": "https://live.staticflickr.com/8572/16186140135_4fb482593a_c.jpg",
-	  "image_source": "jolanda aalbers",
-	  "image_source_url": "https://www.flickr.com/photos/128112365@N05/"
-	},
-	{
-	  "year": 2012,
-	  "toy": "LeapPad Explorer",
-	  "retail_price": 99.99,
-	  "description": "The LeapPad Explorer, introduced by LeapFrog Enterprises in 2011, is an educational tablet designed for young children. This interactive learning device combines technology with educational content, providing a safe and engaging platform for kids to explore various subjects. The LeapPad Explorer comes with a touchscreen display, a stylus, and a library of interactive apps and games that teach reading, mathematics, science, and other essential skills. It encourages active learning, creativity, and critical thinking, making it a valuable tool for early childhood education. The device's durability and child-friendly design have made it a popular choice for parents and educators seeking to introduce educational technology to young learners in a fun and engaging way.",
-	  "image": "https://live.staticflickr.com/7025/6389063949_18fd226874_b.jpg",
-	  "image_source": "CChristensen2",
-	  "image_source_url": "https://www.flickr.com/photos/52471032@N03/"
-	},
-	{
-	  "year": 2013,
-	  "toy": "Tekno the Robotic Puppy",
-	  "retail_price": 94.99,
-	  "description": "https://www.flickr.com/photos/34816680@N08/",
-	  "image": "https://live.staticflickr.com/3385/3345954668_402f6de64b_b.jpg",
-	  "image_source": "OpTILLmus",
-	  "image_source_url": "Tekno the Robotic Puppy, initially launched in 2000 by ToyQuest, is a remarkable robotic pet designed to provide the experience of owning a real puppy. Tekno could perform a range of lifelike actions, including walking, barking, tail-wagging, and responding to voice commands. Touch sensors and sound recognition technology enabled interactions with its environment and its owner. In 2013, an exciting update allowed users to take control of Tekno using their smart devices, further enhancing the interactive experience. This innovation showcased the potential of blending robotics and technology to create engaging and customizable companions, cementing Tekno's status as a memorable and iconic toy of the early 2000s."
-	},
-	{
-	  "year": 2014,
-	  "toy": "Frozen dolls",
-	  "retail_price": 10.00,
-	  "description": "Frozen dolls are a collection of toys based on the characters from Disney's animated film \"Frozen,\" released in 2013. These dolls represent the beloved characters from the movie, including Elsa, Anna, Olaf, Kristoff, and Sven. Frozen dolls come in various sizes and styles, from small figurines to larger, highly detailed collector's editions. They allow children to recreate their favorite moments from the film and embark on imaginative adventures in the magical kingdom of Arendelle. With their intricate designs and costumes, Frozen dolls have become cherished playthings for fans of all ages, contributing to the film's lasting popularity and cultural impact.",
-	  "image": "https://live.staticflickr.com/7547/15725026331_8856b30a57_c.jpg",
-	  "image_source": "Sakura",
-	  "image_source_url": "https://www.flickr.com/photos/53657990@N07/"
-	},
-	{
-	  "year": 2015,
-	  "toy": "Shopkins Toys",
-	  "retail_price": 39.99,
-	  "description": "Shopkins are a popular collectible toy line introduced by Moose Toys in 2014. These miniature, cute, and whimsical characters are designed to resemble grocery store items, such as food, household goods, and beauty products. Shopkins come in a wide range of styles and personalities, and they encourage imaginative play and storytelling as children create their own Shopkins world. The collectible aspect of Shopkins, with rare and ultra-rare characters to discover, has contributed to their appeal and led to a dedicated fanbase. The franchise has expanded to include animated webisodes, trading cards, and various playsets, making Shopkins a beloved and enduring part of the toy market for children.",
-	  "image": "https://live.staticflickr.com/8603/28439381542_bd2081f67d_b.jpg",
-	  "image_source": "Peace2818",
-	  "image_source_url": "https://www.flickr.com/photos/peace2818/"
-	},
-	{
-	  "year": 2016,
-	  "toy": "Hatchimals",
-	  "retail_price": 49.99,
-	  "description": "",
-	  "image": "https://live.staticflickr.com/65535/49598911223_b0ec3e3906_h.jpg",
-	  "image_source": "JillyBean",
-	  "image_source_url": "https://www.flickr.com/photos/j-dolls/"
-	},
-	{
-	  "year": 2017,
-	  "toy": "Fingerlings",
-	  "retail_price": 14.99,
-	  "description": "Fingerlings are small, interactive toy monkeys created by WowWee and introduced in 2017. These playful and animated creatures attach to a child's finger using a small grip, and they respond to touch and sound with a variety of movements and noises. Fingerlings can blink their eyes, turn their heads, grip onto objects, and even blow kisses. They come in a range of colors and styles, each with its own unique personality. Fingerlings quickly became a craze among kids, thanks to their engaging interactivity and adorable features. The toys encourage imaginative play, nurturing, and companionship, making them a cherished and interactive addition to the world of electronic and robotic toys.",
-	  "image": "https://live.staticflickr.com/4819/45582439295_5285a40057_h.jpg",
-	  "image_source": "f l a m i n g o",
-	  "image_source_url": "https://www.flickr.com/photos/sunflowerblue/"
-	},
-	{
-	  "year": 2018,
-	  "toy": "Don't Step In It",
-	  "retail_price": 19.99,
-	  "description": "Hasbro's \"Don't Step In It\" is a fun and humorous family game introduced in 2018. The game revolves around the concept of navigating a backyard filled with plasticine poop. Players take turns blindfolded and attempt to walk across a playmat while avoiding the strategically placed, soft, and squishy toy poop piles. The objective is to avoid stepping on the faux excrement and successfully make it to the other side. \"Don't Step In It\" combines elements of surprise, laughter, and strategy, making it an entertaining and lighthearted party game for both kids and adults. The game's comical premise and gross-out factor have contributed to its popularity as a unique and enjoyable tabletop experience.",
-	  "image": "https://media.karousell.com/media/photos/products/2023/7/13/hasbro_dont_step_in_it_1689249213_b1416b77.jpg",
-	  "image_source": "Carousell - Don't Step In It",
-	  "image_source_url": "https://www.carousell.ph/p/hasbro-don-t-step-in-it-1242837583/"
-	},
-	{
-	  "year": 2019,
-	  "toy": "Baby Shark Official Song Puppet",
-	  "retail_price": 19.99,
-	  "description": "The Baby Shark Official Song Puppet is an interactive toy introduced by WowWee in 2019. This adorable plush puppet is designed to resemble the Baby Shark character from the popular children's song and video. When kids place their hand inside the puppet, they can control its mouth and sing along to the \"Baby Shark\" song by moving their fingers. The puppet is designed to be soft, huggable, and easy to operate, making it an engaging and fun way for children to interact with the song. The Baby Shark Official Song Puppet capitalizes on the viral sensation of the \"Baby Shark\" song, providing kids with an interactive and entertaining way to bring the song to life through play.",
-	  "image": "https://i5.walmartimages.com/seo/Pinkfong-Baby-Shark-Official-Song-Puppet-with-Tempo-Control-Baby-Shark-Interactive-Preschool-Plush-Toy-By-WowWee_7196b178-301c-4c9d-b007-9ee9f5dfac47_1.c82be999f2c00486d7f74d63a2222ab1.jpeg",
-	  "image_source": "Walmart",
-	  "image_source_url": "https://www.walmart.com/ip/Pinkfong-Baby-Shark-Official-Song-Puppet-with-Tempo-Control-Mommy-Shark-Interactive-Preschool-Plush-Toy-By-WowWee/604963564"
-	},
-	{
-	  "year": 2020,
-	  "toy": "Animatronic 'The Child'",
-	  "retail_price": 62.99,
-	  "description": "The Animatronic 'The Child,' also known as \"Baby Yoda,\" is a highly detailed and interactive toy introduced by Hasbro in 2020. It is based on the character known as The Child or Grogu from the Star Wars series \"The Mandalorian.\" This animatronic toy features a lifelike appearance and various animated movements, including moving its head, ears, eyes, and arms. It also produces adorable cooing and gurgling sounds, allowing fans to interact with Baby Yoda in an immersive way. The Animatronic 'The Child' quickly became a beloved and sought-after collectible for fans of the Star Wars universe, offering an opportunity to bring the enchanting character into their homes and relive moments from the popular TV series.",
-	  "image": "https://www.hasbro.com/common/productimages/en_US/FD203BA954564108853EDD06D6742EB0/061c0829dfd5b903bbe9ea0f0e41434cd1141eaa.jpg",
-	  "image_source": "Hasbro",
-	  "image_source_url": "https://shop.hasbro.com/en-us/product/star-wars-the-child-animatronic-edition-with-over-25-sound-and-motion-combinations-the-mandalorian-toy/FD203BA9-5456-4108-853E-DD06D6742EB0"
-	}
-  ]
+    "dataset": "historical_toys",
+    "toys": [
+        {
+            "year": 1940,
+            "toy": "Red Ryder BB Gun",
+            "retail_price": 5,
+            "description": "The Red Ryder BB Gun is a classic, iconic air rifle that has captured the imaginations of generations. Known for its nostalgic charm and timeless design, this lever-action rifle features a bright red stock and a simple yet reliable mechanism. Perfect for young and aspiring marksmen, it shoots small BB pellets with precision and safety, making it a staple in backyard target practice and plinking fun. A beloved symbol of American youth, the Red Ryder BB Gun continues to bring joy and excitement to those who appreciate its history and the thrill of hitting the mark.",
+            "image": "https://live.staticflickr.com/5005/5272460776_ee1d277679_b.jpg",
+            "image_source": "Junior Shooters",
+            "image_source_url": "www.juniorshooters.net"
+        },
+        {
+            "year": 1941,
+            "toy": "Beach ball",
+            "retail_price": 0.05,
+            "description": "The 1942 Beach Ball is a delightful recreation of a classic beach accessory that transports us back to a bygone era. With its vintage-inspired design, this beach ball harks back to a time when simple pleasures and seaside vacations were cherished. Made from durable materials and featuring a colorful, retro aesthetic, the 1942 Beach Ball is perfect for adding a touch of nostalgia to any beach or pool outing. Its timeless appeal and cheerful design make it a must-have for both collectors and those who appreciate the charm of yesteryears while enjoying some good old-fashioned beach fun.",
+            "image": "https://live.staticflickr.com/6144/6002663729_706bb2d681_z.jpg",
+            "image_soure": "Moonez",
+            "image_source_url": "https://www.flickr.com/photos/katymoon/"
+        },
+        {
+            "year": 1942,
+            "toy": "Fisher Price Doggy Racer No. 7 Pull Toy",
+            "retail_price": 0.25,
+            "description": "The Fisher-Price Doggy Racer No. 7 Pull Toy is a classic children's toy that has been delighting kids for generations. This charming pull toy features a wooden dog figurine, often designed with colorful paint and a cheerful expression, riding a wooden race car. When pulled by its attached string, the toy creates a playful clicking sound as the wheels rotate, mimicking the sound of a real race car. The Doggy Racer No. 7 encourages early walkers to develop their motor skills and coordination while providing entertainment and companionship. Its timeless design and nostalgic appeal make it a cherished keepsake for both parents and children, representing the enduring charm of vintage Fisher-Price toys.",
+            "image": "https://thumbs.worthpoint.com/zoom/images1/1/0715/12/fisher-price-doggy-racer-pull-toy_1_7df9ef2711fd12fe34784ee9b8aeec9e.jpg",
+            "image_source": "WorthPoint",
+            "image_source_url": "https://www.worthpoint.com/worthopedia/fisher-price-doggy-racer-pull-toy-1758917571"
+        },
+        {
+            "year": 1943,
+            "toy": "Little green army men",
+            "retail_price": 0.05,
+            "description": "Little Green Army Men are iconic plastic toy soldiers that have been a staple of children's playtime for decades. Typically made from green plastic and standing about 2 inches tall, these miniature soldiers come in various poses and equipment, from riflemen to medics to tank drivers. They are often used for imaginative and strategic play, allowing kids to create their own battlefield scenarios and engage in epic battles. These figurines have a nostalgic charm, harkening back to a time when simple toys sparked vivid imaginations. Little Green Army Men remain a classic toy that continues to captivate the young and young at heart with their timeless appea",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bucketosoldiers.jpg/1024px-Bucketosoldiers.jpg",
+            "image_source": "Wikipedia",
+            "image_source_url": "https://en.wikipedia.org/wiki/Army_men"
+        },
+        {
+            "year": 1944,
+            "toy": "Soap bubbles and bubble blowers",
+            "retail_price": 0.1,
+            "description": "Soap bubbles and bubble blowers provide simple yet enchanting entertainment for people of all ages. The joy of creating iridescent, floating spheres of soap-filled air is a universal delight. Soap bubbles are formed by blowing air through a solution of soap and water, and they come in various sizes and shapes, reflecting the surrounding world in their shimmering surfaces. Bubble blowers, often in the form of wands or tubes, make it easy for anyone to create bubbles with ease. Whether enjoyed outdoors in the sunshine or indoors as a whimsical diversion, they offer a magical experience that captivates children and adults alike. The ephemeral beauty of soap bubbles, as they drift and dance on the breeze, encourages playfulness and wonder, making them a timeless and cherished pastime.",
+            "image": "https://live.staticflickr.com/5571/14377877310_72c8632a03_b.jpg",
+            "image_source": "Luca Magni",
+            "image_source_url": "https://www.flickr.com/photos/luca_magni/"
+        },
+        {
+            "year": 1945,
+            "toy": "Slinky",
+            "retail_price": 1,
+            "description": "Invented by Richard James, the Slinky is a simple yet captivating toy made of coiled wire that can \"walk\" down stairs and perform various tricks. It gained immense popularity during World War II when it was used as a tool to demonstrate the principles of wave dynamics for naval applications. After the war, it became a beloved plaything for children and remains an iconic toy to this day.",
+            "image": "https://live.staticflickr.com/5122/5215915344_8e85c0626a_c.jpg",
+            "image_source": "CatPats",
+            "image_source_url": "https://www.flickr.com/photos/cat_pats/"
+        },
+        {
+            "year": 1946,
+            "toy": "Lionel Trains",
+            "retail_price": 30,
+            "description": "Lionel Trains, a legendary brand in the world of model trains, has captivated enthusiasts for generations with their intricately detailed electric toy trains. These high-quality, realistic model locomotives, cars, and accessories have earned a special place in the hearts of collectors and hobbyists worldwide, offering both nostalgia and craftsmanship in a miniature railroad experience",
+            "image": "https://cdn10.bigcommerce.com/s-e252rx/product_images/uploaded_images/adv1946c.jpg?t=1458305146",
+            "image_source": "Post War Lionel",
+            "image_source_url": "https://postwarlionel.com/complete-sets/1946/"
+        },
+        {
+            "year": 1947,
+            "toy": "Tonka Trucks",
+            "retail_price": 1,
+            "description": "Tonka Trucks are rugged, iconic toy vehicles that have been a favorite of children for decades. These sturdy, metal construction vehicles, known for their durability and realistic design, enable kids to engage in imaginative and adventurous play. Whether it's bulldozers, dump trucks, or fire engines, Tonka Trucks are built to withstand rough outdoor adventures, making them a beloved choice for little builders and adventurers. Their enduring popularity is a testament to their quality and timeless appeal, as they continue to inspire creativity and hands-on play in new generations of children",
+            "image": "https://www.liveauctioneers.com/news/wp-content/uploads/2022/11/besmart-4.jpg",
+            "image_source": "Milestone Auctions and LiveAuctioneers",
+            "image_source_url": "https://www.liveauctioneers.com/news/be-smart/beloved-toys-come-and-go-but-tonka-trucks-keep-rolling/"
+        },
+        {
+            "year": 1948,
+            "toy": "Toy Piano",
+            "retail_price": 3,
+            "description": "The toy piano is a charming and miniature version of a traditional piano, designed for young musicians to explore the world of music in a playful manner. Typically made of plastic or wood and featuring a handful of keys, toy pianos produce a delightful tinkling sound when played. These pint-sized instruments introduce children to the basics of melody and rhythm, fostering an early love for music and creativity. Toy pianos have a timeless appeal and are perfect for introducing the joy of making music to budding musicians, making them a cherished addition to any child's playroom",
+            "image": "https://www.chicagotribune.com/resizer/UEkok4SATq8OiRv2DkSX-gdpK1g=/400x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/R6XQCHRI7VFEHDUUW34HEH2FGQ.jpeg",
+            "image_source": "Chicago Tribune",
+            "image_source_url": "https://www.chicagotribune.com/holidays/sns-stacker-holiday-toys-year-you-were-born-20211208-hj4q746infaxjbvtvfcm5b4ufa-photogallery.html"
+        },
+        {
+            "year": 1949,
+            "toy": "Clue",
+            "retail_price": 3,
+            "description": "Clue, the classic board game of deduction and mystery-solving, has been captivating players for generations. Set in a mansion, players take on the roles of various characters to uncover the answers to a murder mystery: Who committed the crime, with what weapon, and in which room? By collecting clues and making strategic guesses, players work to eliminate possibilities until they can confidently make an accusation. With its engaging gameplay and element of suspense, Clue continues to be a beloved choice for family game nights, offering an immersive experience of suspense, strategy, and intrigue that keeps players on their toes throughout the game.",
+            "image": "https://static.wikia.nocookie.net/cluecluedo/images/5/5e/Clue-1949.png/revision/latest?cb=20140310035127",
+            "image_source": "79aznkid79",
+            "image_source_url": "https://cluecluedo.fandom.com/wiki/User:79aznkid79"
+        },
+        {
+            "year": 1950,
+            "toy": "Magic 8 Ball",
+            "retail_price": 2,
+            "description": "The Magic 8 Ball is a beloved and iconic fortune-telling toy that has intrigued and entertained users for generations. Shaped like a black billiard ball with a window on the bottom, it contains a 20-sided die inside with various answers to yes-or-no questions. Users pose a question, shake the ball, and then peer through the window to reveal one of the pre-written responses, which can range from \"Yes\" and \"No\" to more whimsical answers like \"Ask again later\" or \"Cannot predict now.\" This simple yet mysterious toy adds an element of fun and intrigue to decision-making and has become a cultural symbol of playful divination, making it a must-have for those seeking a touch of whimsy and unpredictability in their lives.",
+            "image": "https://live.staticflickr.com/5138/5407570783_ec3dd343d7_b.jpg",
+            "image_source": "Jeff Seeger",
+            "image_source_url": "https://www.flickr.com/photos/qnd2011/"
+        },
+        {
+            "year": 1951,
+            "toy": "Colorforms",
+            "retail_price": 0.25,
+            "description": "Colorforms, invented by Harry and Patricia Kislevitz, are a classic toy that has ignited the creativity of children for decades. These imaginative playsets consist of colorful vinyl shapes and figures that adhere to a smooth surface, typically featuring a background scene. Kids can arrange and rearrange the shapes to create endless scenes and stories, allowing for open-ended play and artistic expression. Colorforms' simplicity, reusable nature, and ability to transport young minds to various imaginative worlds have made them a cherished toy for generations, providing hours of creative entertainment and artistic exploration",
+            "image": "https://clickamericana.com/wp-content/uploads/Original-1977-Colorforms-vintage-play-shapes.jpg",
+            "image_source": "Click Americana",
+            "image_source_url": "https://clickamericana.com/toys-and-games/colorforms-the-vintage-vinyl-stick-on-playsets-that-let-kids-stage-scenes-create-comics-dress-dolls"
+        },
+        {
+            "year": 1952,
+            "toy": "Mr Potato Head",
+            "retail_price": 3,
+            "description": "Mr. Potato Head is an iconic and whimsical toy that allows children to unleash their creativity by customizing a plastic potato-shaped figure with various facial features, accessories, and body parts. Originally introduced in the 1950s, Mr. Potato Head has been a beloved part of playrooms worldwide, promoting imaginative play and fine motor skills development. With its mix-and-match components, including eyes, ears, mouths, and more, children can create countless comical and imaginative characters. This classic toy has stood the test of time, evolving over the years while maintaining its status as a beloved and enduring source of imaginative fun for generations of children",
+            "image": "https://live.staticflickr.com/7060/6989476085_928620152e_z.jpg",
+            "image_source": "Lorna McAtear",
+            "image_source_url": "https://www.flickr.com/photos/lorna_mcatear/"
+        },
+        {
+            "year": 1953,
+            "toy": "Model Car",
+            "retail_price": 2,
+            "description": "Toy model cars from the 1950s represent a nostalgic journey into the golden era of toy manufacturing. These miniature vehicles, often made of die-cast metal, featured intricate details and vibrant paintwork that mirrored the automobiles of the time. Popular brands like Dinky Toys, Matchbox, and Corgi produced a wide range of cars, trucks, and emergency vehicles, captivating the hearts of young collectors and car enthusiasts alike. These miniature replicas allowed children to embark on imaginative adventures, racing their toy cars along tabletop tracks or constructing elaborate cityscapes. The toy model cars of the 1950s serve as cherished relics of post-war toy culture and remain prized collectibles for those who appreciate the craftsmanship and nostalgia they represent.",
+            "image": "https://live.staticflickr.com/4627/26681186548_5fb4c7484b_b.jpg",
+            "image_source": "David Busfield",
+            "image_source_url": "https://www.flickr.com/photos/buzzer999/"
+        },
+        {
+            "year": 1954,
+            "toy": "Scrabble",
+            "retail_price": 2,
+            "description": "Scrabble is a timeless and iconic word game that challenges players to build words using letter tiles with assigned point values. The objective is to create words on a game board to score the highest possible points while strategically blocking opponents from doing the same. Developed in the 1930s by Alfred Butts, Scrabble has become a classic pastime for word enthusiasts and families alike. Its mix of vocabulary skills, strategy, and a dash of luck makes it a game that appeals to players of all ages, fostering friendly competition and promoting language skills. Scrabble's enduring popularity has solidified its place as one of the world's most beloved board games, enjoyed by generations for its intellectual stimulation and entertainment value.",
+            "image": "https://live.staticflickr.com/2851/13896671663_0b43b09c8c_b.jpg",
+            "image_source": "Rob Hitchman",
+            "image_source_url": "https://www.flickr.com/photos/65148532@N06/"
+        },
+        {
+            "year": 1955,
+            "toy": "Silly Putty",
+            "retail_price": 1,
+            "description": "Silly Putty is a quirky and versatile toy that has fascinated both children and adults for decades. This pliable, stretchable substance, originally created as a failed synthetic rubber experiment, can be molded into various shapes, stretched into long strands, or even used to pick up images from newspapers and comics. Silly Putty's unique properties have made it a source of endless amusement and creativity. It can serve as a stress reliever, a playful sculpting tool, or a tool for artistic experimentation. Its memorable pinkish-orange color and distinctive texture make Silly Putty a nostalgic and beloved novelty that continues to provide simple, tactile enjoyment for all ages.",
+            "image": "https://clickamericana.com/wp-content/uploads/Silly-Putty-Wonder-toy-of-the-20th-century-1951-770x549.jpg",
+            "image_source": "Click Americana",
+            "image_source_url": "https://clickamericana.com/toys-and-games/history-silly-putty-toy-1951"
+        },
+        {
+            "year": 1956,
+            "toy": "Play-Doh",
+            "retail_price": 0.99,
+            "description": "Play-Doh is a beloved modeling compound that has been inspiring creativity and imaginative play for generations of children. This colorful, pliable material can be molded, shaped, and sculpted into an endless array of creations, from animals and food items to abstract art and more. Originally developed in the 1950s as a wallpaper cleaner, Play-Doh quickly found its way into the hands of children as a versatile and non-toxic plaything. Its soft texture, vibrant colors, and limitless possibilities make it an ideal tool for fostering fine motor skills, artistic expression, and open-ended play. Play-Doh remains a cherished and iconic toy, offering hours of creative fun for kids and a nostalgic trip down memory lane for adults who grew up with it.",
+            "image": "https://live.staticflickr.com/7344/12947038455_2b1a94d93a_c.jpg",
+            "image_source": "Mike Mozart",
+            "image_source_url": "https://www.flickr.com/photos/jeepersmedia/"
+        },
+        {
+            "year": 1957,
+            "toy": "Pull-A-Tune Xylophone",
+            "retail_price": 2.99,
+            "description": "The Fisher-Price Pull-A-Tune is a timeless and enchanting toy introduced in 1957, designed to introduce young children to the joy of music in a playful and interactive way. This classic toy features a sturdy wooden body with colorful, chunky wheels and a pull string. When pulled along by toddlers, it produces delightful musical tones as colorful balls inside the toy strike tuned metal rods. The Pull-A-Tune encourages early motor skills development and provides an introduction to the concept of cause and effect through its charming musical sounds. With its enduring design and engaging musical play, this Fisher-Price toy has remained a beloved and cherished choice for generations of young children, making it a nostalgic and timeless addition to any toy collection",
+            "image": "https://live.staticflickr.com/4539/26649221209_f6b2c80e5c_b.jpg",
+            "image_source": "Jesse Richardson",
+            "image_source_url": "https://www.flickr.com/photos/hobbycorner/"
+        },
+        {
+            "year": 1958,
+            "toy": "Hula Hoop",
+            "retail_price": 1,
+            "description": "he Hula Hoop is an iconic and timeless toy that achieved immense popularity during the late 1950s. Consisting of a plastic circular hoop that can be twirled around the waist, hips, or limbs, the Hula Hoop craze captured the imagination of people of all ages. With its simple yet engaging design, it became a symbol of carefree fun and physical activity. The challenge of keeping the hoop spinning led to countless hours of play and exercise, fostering coordination and creativity in both children and adults. The Hula Hoop phenomenon of 1957 is a testament to the enduring appeal of a toy that brings joy and movement to people of all generations",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Girl_twirling_Hula_Hoop%2C_1958.jpg/300px-Girl_twirling_Hula_Hoop%2C_1958.jpg",
+            "image_source": "Wikipedia - Hula Hoop",
+            "image_source_url": "https://en.wikipedia.org/wiki/Hula_hoop"
+        },
+        {
+            "year": 1959,
+            "toy": "Barbie",
+            "retail_price": 3,
+            "description": "Barbie made her debut and quickly became one of the most popular and iconic toys of the year. Created by Ruth Handler and introduced by Mattel, Barbie was the first fashion doll of its kind, setting a new standard for imaginative play. Her wide range of outfits, accessories, and career options allowed children to role-play and engage in creative storytelling. Barbie's arrival marked a significant shift in the world of toys, and she has since become a cultural icon, evolving with the times to reflect changing fashions, careers, and aspirations. Barbie's popularity in 1958 was a landmark moment in the history of toys and remains a testament to her enduring appeal and influence in the world of play.",
+            "image": "https://upload.wikimedia.org/wikipedia/en/9/92/MattelBarbieno1br.jpg",
+            "image_source": "Wikipedia - Barbie",
+            "image_source_url": "https://en.wikipedia.org/wiki/Barbie"
+        },
+        {
+            "year": 1960,
+            "toy": "Etch A Sketch",
+            "retail_price": 3,
+            "description": "The Etch A Sketch is an iconic and imaginative drawing toy that has delighted aspiring artists and creative minds since its introduction in the 1960s. This classic toy consists of a red plastic frame with two white knobs and a gray screen. By turning the knobs in different directions, users can create intricate drawings and designs on the inside of the screen, thanks to a fine aluminum powder that clings to the screen's interior. The real magic of the Etch A Sketch lies in its ability to quickly erase drawings by simply shaking the toy, making it a perfect canvas for endless creativity and experimentation. Its timeless appeal and the challenge of creating art within its unique constraints have made the Etch A Sketch a beloved and enduring symbol of childhood imagination and artistic expression",
+            "image": "https://live.staticflickr.com/8793/16966510239_ff7aa989c8_c.jpg",
+            "image_source": "Jane Labowitch",
+            "image_source_url": "https://www.flickr.com/photos/etchasketchariffic/"
+        },
+        {
+            "year": 1961,
+            "toy": "Slip 'n Slide",
+            "retail_price": 8.95,
+            "description": "The Slip 'n Slide is a classic outdoor water toy that has been a source of summertime fun and excitement for generations of children. This simple yet exhilarating plaything consists of a long, narrow sheet of plastic, typically adorned with colorful designs, that is laid out on a grassy surface. Users then wet the surface with a hose or buckets of water, transforming it into a slick water slide. Kids and even adults take turns running, sliding, and gliding along the length of the Slip 'n Slide, creating refreshing moments of laughter and splashing in the sun. Its appeal lies in its ability to provide a simple, active, and enjoyable way to cool off during hot summer days, making it a cherished staple of outdoor play for families and friends alike.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Slip_n_slide.jpg/1024px-Slip_n_slide.jpg",
+            "image_source": "wikipedia - Slip 'N Slide",
+            "image_source_url": "https://en.wikipedia.org/wiki/Slip_%27N_Slide"
+        },
+        {
+            "year": 1962,
+            "toy": "Chatter Telephone",
+            "retail_price": 1.42,
+            "description": "The Chatter Telephone is a classic children's toy that has been a beloved companion for generations of young toddlers. This whimsical toy is designed to resemble a vintage rotary phone, complete with a rotary dial that children can turn, a happy face with moving eyes, and a cord for pulling along during play. When pulled, the Chatter Telephone produces a delightful chattering sound that adds to the amusement. Beyond its entertaining features, this toy is also an educational tool, helping toddlers develop fine motor skills and coordination as they play. The Chatter Telephone's enduring charm and interactive design have made it a timeless favorite among parents and caregivers, introducing young children to the world of imaginative and interactive play.",
+            "image": "https://upload.wikimedia.org/wikipedia/en/8/8c/Modern_Chatter_Telephone.jpg",
+            "image_source": "Wikipedia - Chatter Telephone",
+            "image_source_url": "https://en.wikipedia.org/wiki/Chatter_Telephone"
+        },
+        {
+            "year": 1963,
+            "toy": "Easy-Bake Oven",
+            "retail_price": 15,
+            "description": "The Easy-Bake Oven is a beloved toy that has been a source of culinary creativity and delight for aspiring young chefs since its introduction in the 1960s. This miniature oven allows children to bake small treats and desserts with the help of a simple, safe, and electric heating element. Easy-Bake Oven kits typically include pre-made mixes for cookies, cakes, and other sweets, as well as miniature bakeware and utensils for easy preparation. Beyond the delicious results, this toy encourages creativity in the kitchen, teaches basic baking skills, and provides a sense of accomplishment as kids produce their own mini masterpieces. The Easy-Bake Oven remains a cherished toy that offers both a taste of the culinary world and the joy of sharing homemade goodies with family and friends.",
+            "image": "https://live.staticflickr.com/2867/11036466354_27f13d158b_b.jpg",
+            "image_source": "Erica Briggs",
+            "image_source_url": "https://www.flickr.com/photos/ejb10d/"
+        },
+        {
+            "year": 1964,
+            "toy": "GI Joe Action Figure",
+            "retail_price": 1.95,
+            "description": "The G.I. Joe Action Figure is an iconic and historically significant toy that first emerged in the early 1960s. Produced by Hasbro, G.I. Joe introduced a new era of action figures, standing around 12 inches tall and featuring a wide range of military-themed accessories and outfits. These posable action figures allowed children to engage in imaginative play, embarking on adventures with their heroic soldiers. Over the years, G.I. Joe evolved to include various characters, vehicles, and playsets, each contributing to the rich narrative possibilities for young minds. G.I. Joe quickly became a cultural phenomenon, symbolizing bravery and patriotism. While the action figure landscape has evolved, G.I. Joe remains an enduring symbol of heroism and imaginative play, enjoyed by generations of children and collectors alike",
+            "image": "https://live.staticflickr.com/7202/7040271499_a5e7519d2f_c.jpg",
+            "image_source": "GI Joe's",
+            "image_source_url": "https://www.flickr.com/photos/78703990@N08/"
+        },
+        {
+            "year": 1965,
+            "toy": "Wham-O Frisbee",
+            "retail_price": 0.79,
+            "description": "The Wham-O Frisbee is an iconic flying disc toy that has soared into the hearts of people worldwide since its introduction in the 1950s. This simple yet versatile plastic disc provides endless outdoor fun, whether it's a game of catch at the park, a round of ultimate frisbee, or simply watching it glide gracefully through the air. The Frisbee's unique design allows it to fly with precision and grace, captivating players of all ages. With its easy-to-grip shape and wide array of colors and designs, the Wham-O Frisbee embodies the spirit of outdoor play and promotes physical activity, making it a cherished symbol of summertime enjoyment and active leisure.",
+            "image": "https://live.staticflickr.com/1296/1141732162_8f84fc6d18_m.jpg",
+            "image_source": "normanhathaway",
+            "image_source_url": "https://www.flickr.com/photos/norman/"
+        },
+        {
+            "year": 1966,
+            "toy": "Twister",
+            "retail_price": 3.88,
+            "description": "Twister is a classic party game that has been bringing laughter and tangled limbs to gatherings since its launch in the 1960s. Played on a colorful mat with circles of different colors, players take turns spinning a wheel that directs them to place a hand or foot on a specific colored circle. As the game progresses, the challenge intensifies as players contort their bodies to reach the designated spots without falling over. Twister is known for its hilarious and often awkward moments, making it a perfect icebreaker and source of amusement at social gatherings. Its physicality, unpredictability, and ability to break the ice have made Twister a timeless and memorable game enjoyed by friends and families of all ages.",
+            "image": "//live.staticflickr.com/6143/5946626209_2e8d061681_b.jpg",
+            "image_source": "Kim",
+            "image_source_url": "https://www.flickr.com/photos/kizreen/"
+        },
+        {
+            "year": 1967,
+            "toy": "Lite-Brite",
+            "retail_price": 10,
+            "description": "The Lite-Brite is a beloved and creative toy that has illuminated the imaginations of children since its introduction in the 1960s. This innovative toy features a backlit, perforated board that kids use to create colorful designs and patterns by inserting translucent pegs into the holes. When lit from behind, the pegs create vibrant, glowing pictures that captivate young minds. Lite-Brite kits often include templates for various designs, but the real magic lies in the ability for children to craft their unique, glowing masterpieces. Beyond its artistic and imaginative appeal, the Lite-Brite fosters fine motor skills and provides a sense of accomplishment as children watch their creations come to life in a kaleidoscope of colors. Its enduring popularity as a creative and illuminating toy continues to make it a cherished part of childhood play.",
+            "image": "https://live.staticflickr.com/2141/2164018518_590f1b6496_b.jpg",
+            "image_source": "Amadika",
+            "image_source_url": "https://www.flickr.com/photos/amadika/"
+        },
+        {
+            "year": 1968,
+            "toy": "Hot Wheels",
+            "retail_price": 0.59,
+            "description": "Hot Wheels is a legendary line of die-cast toy cars that has been zooming into the hearts of young car enthusiasts and collectors since its introduction by Mattel in 1968. These miniature vehicles are renowned for their attention to detail, vibrant designs, and high-speed performance on Hot Wheels tracks. With a wide range of cars, trucks, and specialty vehicles, Hot Wheels offers something for every automotive passion. Beyond the thrill of racing, Hot Wheels encourages imaginative play, customization, and the creation of epic stunts and racing scenarios. Its enduring popularity and collector's appeal have solidified Hot Wheels as an iconic brand that continues to rev up the excitement for generations of kids and adults alike.",
+            "image": "https://live.staticflickr.com/4682/38359046155_c7cfcd27c8_b.jpg",
+            "image_source": "beetle2001cybergreen",
+            "image_source_url": "https://www.flickr.com/photos/55910525@N07/"
+        },
+        {
+            "year": 1969,
+            "toy": "Lego building sets",
+            "retail_price": 2,
+            "description": "Lego building sets are a timeless and versatile toy that have been inspiring creativity and construction for decades. These interlocking plastic bricks and components provide the building blocks for limitless imaginative adventures. Lego sets come in a variety of themes, from cityscapes and space exploration to fantasy realms and iconic movie franchises. They offer not only the satisfaction of assembling intricate structures but also the opportunity to foster problem-solving skills, spatial reasoning, and fine motor skills in children and adults. Lego's enduring appeal lies in its adaptability, encouraging both guided construction and open-ended play, making it a beloved and cherished toy that transcends generations, igniting the builder's spirit in all ages.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lego_Color_Bricks.jpg/1280px-Lego_Color_Bricks.jpg",
+            "image_source": "wikipedia - Lego",
+            "image_source_url": "https://en.wikipedia.org/wiki/Lego"
+        },
+        {
+            "year": 1970,
+            "toy": "Nerf ball",
+            "retail_price": 2,
+            "description": "The Nerf Ball is a classic foam ball toy that has been a staple of active play for decades. Known for its soft, lightweight design, the Nerf Ball allows for safe and enjoyable indoor and outdoor games. Whether it's a friendly game of catch, a spirited game of dodgeball, or imaginative target shooting, Nerf Balls offer endless opportunities for physical activity and creative play. The brand Nerf has expanded its product line to include various sizes and types of foam balls, each designed for specific activities, but they all share the common characteristic of being fun, safe, and versatile toys that encourage active play and social interaction.",
+            "image": "https://live.staticflickr.com/7342/12443779364_116342df5b_c.jpg",
+            "image_source": "Mike Mozart",
+            "image_source_url": "https://www.flickr.com/photos/jeepersmedia/"
+        },
+        {
+            "year": 1971,
+            "toy": "Weebles",
+            "retail_price": 6.58,
+            "description": "Weebles are a beloved line of children's toys introduced by Hasbro in the 1970s. These egg-shaped, weighted figures are designed to wobble and rock but never fall down, thanks to their weighted bottoms. Weebles come in various characters and themes, from people and animals to vehicles and playsets, allowing for imaginative play and storytelling. The catchy slogan, \"Weebles wobble but they don't fall down,\" became synonymous with the toy and added to its charm. Weebles encourage creativity, fine motor skills, and social interaction, making them a cherished and enduring part of many childhoods and playrooms, known for their iconic wobbling action and engaging play value",
+            "image": "https://live.staticflickr.com/3285/2968728428_946dc06cd5_c.jpg",
+            "image_source": "Monica and Rob",
+            "image_source_url": "https://www.flickr.com/photos/32637333@N00/"
+        },
+        {
+            "year": 1972,
+            "toy": "Uno",
+            "retail_price": 2,
+            "description": "UNO is a beloved and fast-paced card game introduced in 1971. Players aim to be the first to empty their hands by matching cards in color or number to the top card in the discard pile. Featuring special action cards and simple rules, UNO is a family-friendly game that's perfect for gatherings, offering quick rounds and engaging gameplay that has made it a timeless favorite for players of all ages",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Baraja_de_UNO.JPG",
+            "image_source": "Uno (card game)",
+            "image_source_url": "https://en.wikipedia.org/wiki/Uno_(card_game)"
+        },
+        {
+            "year": 1973,
+            "toy": "Shrinky Dinks",
+            "retail_price": 2,
+            "description": "Shrinky Dinks are a classic and creative craft toy that has been captivating young artists since their introduction in the 1970s. Shrinky Dinks consist of flexible plastic sheets that can be colored, decorated, and cut into various shapes and designs. When these decorated pieces are heated in an oven or with a heat source, they shrink and harden, creating durable, miniature plastic artworks. The magic of watching Shrinky Dinks transform and shrink in the oven adds an element of surprise and delight to the creative process. This imaginative and hands-on toy encourages artistic expression, fine motor skills, and imaginative play, making it a cherished and nostalgic favorite among both children and adults",
+            "image": "https://live.staticflickr.com/2260/2433853259_9101018339_z.jpg",
+            "image_source": "lookability",
+            "image_source_url": "https://www.flickr.com/photos/65901871@N00/"
+        },
+        {
+            "year": 1974,
+            "toy": "Skateboard",
+            "retail_price": 30,
+            "description": "In the 1970s, skateboarding underwent significant innovations, evolving from homemade boards to specialized decks with improved wheels and shapes. This era saw the rise of skateboarding culture, professional skateboarders, and diverse skateboard designs, setting the stage for modern skateboarding.",
+            "image": "https://live.staticflickr.com/4063/4271111665_44d7065b1a_k.jpg",
+            "image_source": "themimixsan",
+            "image_source_url": "https://www.flickr.com/photos/themimixsan/"
+        },
+        {
+            "year": 1975,
+            "toy": "Pet Rock",
+            "retail_price": 3.95,
+            "description": "The Pet Rock is a quirky and humorous novelty item that gained unexpected popularity in the mid-1970s. Conceived by Gary Dahl, it consisted of a smooth rock, typically placed inside a small box with breathing holes and straw as \"bedding.\" The idea behind the Pet Rock was that it was a low-maintenance and hassle-free \"pet\" that required no feeding, grooming, or attention. Despite its simplicity, the Pet Rock became a cultural sensation and a symbol of absurdity, sparking a short-lived fad. It's remembered as a humorous example of pop culture and novelty gift items.",
+            "image": "https://en.wikipedia.org/wiki/File:PetRock_Box.jpg",
+            "image_source": "Wikipedia - Pet Rock",
+            "image_source_url": "https://en.wikipedia.org/wiki/Pet_Rock"
+        },
+        {
+            "year": 1976,
+            "toy": "Stretch Armstrong",
+            "retail_price": 5,
+            "description": "Stretch Armstrong is a classic and iconic action figure toy introduced in the 1970s. This muscular figurine, made of a flexible, stretchy material, could be pulled, twisted, and stretched to impressive lengths, then returned to its original shape. The appeal of Stretch Armstrong lies in the tactile enjoyment of manipulating its super stretchy body and watching it rebound without losing its form. Over the years, Stretch Armstrong has been reimagined in various forms and sizes, but the enduring fascination with its stretchability and resilience has made it a cherished and memorable toy for generations of children.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Stretch_Armstrong_toy.jpg/1024px-Stretch_Armstrong_toy.jpg",
+            "image_source": "Wikipedia - Stretch Armstrong",
+            "image_source_url": "https://en.wikipedia.org/wiki/Stretch_Armstrong"
+        },
+        {
+            "year": 1977,
+            "toy": "Atari 2600 Game System",
+            "retail_price": 199.99,
+            "description": "The Atari 2600 Game System, introduced in the late 1970s, is a pioneering and iconic video game console that played a pivotal role in the history of home gaming. Offering a library of diverse game cartridges, it allowed players to enjoy classic titles like \"Pac-Man,\" \"Space Invaders,\" and \"Asteroids\" in the comfort of their own homes. The Atari 2600's joystick controllers and simple graphics were cutting-edge at the time, sparking the video game industry's growth and cultural impact. Its legacy as one of the first widely successful home consoles continues to be celebrated, with many of its games remaining beloved classics that laid the foundation for modern gaming.",
+            "image": "https://live.staticflickr.com/5259/5398990433_b6598e9729_b.jpg",
+            "image_source": "Nick",
+            "image_source_url": "https://www.flickr.com/photos/racketboy/"
+        },
+        {
+            "year": 1978,
+            "toy": "Star Wars action figures",
+            "retail_price": 3,
+            "description": "The Star Wars action figures released in 1978 were a groundbreaking collection of toys that accompanied the release of the original Star Wars film in 1977. Produced by Kenner, these action figures allowed fans to bring the galaxy far, far away into their own homes. The initial 12 figures included iconic characters like Luke Skywalker, Princess Leia, Darth Vader, and Han Solo. These figures were approximately 3.75 inches tall and featured limited articulation. The success of these action figures kickstarted the Star Wars toy franchise, and they remain highly sought-after collectibles today, marking the beginning of an enduring and beloved aspect of Star Wars fandom.",
+            "image": "https://live.staticflickr.com/65535/51158759288_7ba9781e2a_b.jpg",
+            "image_source": "Nicholas Hasey",
+            "image_source_url": "https://www.flickr.com/photos/theyounghistorian/"
+        },
+        {
+            "year": 1979,
+            "toy": "Simon",
+            "retail_price": 24.95,
+            "description": "Simon is a classic electronic memory game that has challenged players' pattern-recognition skills and entertained them since its debut in the late 1970s. The game consists of a circular device with four colored sections: red, blue, green, and yellow. Simon generates a sequence of lights and sounds that players must replicate by pressing the corresponding colored sections in the correct order. As the game progresses, the sequences become longer and more complex, testing players' memory and reflexes. Simon's addictive gameplay and electronic appeal have made it a beloved and enduring game for individuals of all ages, providing both mental stimulation and hours of fun.",
+            "image": "https://live.staticflickr.com/5069/5562636761_cc32440c33_c.jpg",
+            "image_source": "CracklinTulip",
+            "image_source_url": "https://www.flickr.com/photos/cracklintulip/"
+        },
+        {
+            "year": 1980,
+            "toy": "Rubik's Cube",
+            "retail_price": 1.99,
+            "description": "The Rubik's Cube is an iconic and challenging 3D puzzle that has perplexed and fascinated individuals worldwide since its creation in the 1970s. It features a cube with six faces, each covered in small colored squares. The objective is to solve the puzzle by manipulating the cube's individual layers and turning them to align all the squares on each face with the same color. The Rubik's Cube tests spatial reasoning, logic, and patience, offering endless combinations and solutions. Its enduring appeal lies in its ability to engage the mind and provide a satisfying sense of accomplishment when successfully solved, making it a timeless and beloved brain-teaser for puzzle enthusiasts of all ages.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Scrumbled_Rubik%27s_Cube.jpg/800px-Scrumbled_Rubik%27s_Cube.jpg",
+            "image_source": "Wikipedia - Rubik's Cube",
+            "image_source_url": "https://en.wikipedia.org/wiki/Rubik%27s_Cube"
+        },
+        {
+            "year": 1981,
+            "toy": "He-man Action Figures",
+            "retail_price": 4.99,
+            "description": "He-Man action figures are a line of iconic toys introduced by Mattel in the early 1980s as part of the \"Masters of the Universe\" toy line. These action figures featured muscular and heroic characters, led by He-Man himself, and their adversaries, including Skeletor and other villains. He-Man figures were notable for their extensive articulation, detailed designs, and accompanying accessories, such as weapons and vehicles. The toy line was accompanied by a popular animated TV series and a rich storyline, contributing to the toys' enduring popularity and cultural significance. He-Man action figures are beloved collectibles that continue to capture the hearts of fans and collectors, representing a memorable chapter in the history of action figures and pop culture.",
+            "image": "https://live.staticflickr.com/4093/4791882631_ac789fdbf7_k.jpg",
+            "image_source": "Shutter-Bee Photography",
+            "image_source_url": "https://www.flickr.com/photos/moonfaze5/"
+        },
+        {
+            "year": 1982,
+            "toy": "My Little Pony",
+            "retail_price": 3,
+            "description": "My Little Pony is a beloved and enduring toy line introduced by Hasbro in the early 1980s. These colorful and stylized toy ponies, with their distinct mane and tail designs, captured the hearts of children and collectors alike. The toy line was accompanied by animated TV series and movies that told the adventures of the ponies in the magical land of Equestria. My Little Pony encourages imaginative play, storytelling, and nurturing through its depictions of friendship and teamwork. Over the years, My Little Pony has evolved with various generations of characters and themes, catering to a wide audience and leaving a lasting legacy in the world of toys and entertainment.",
+            "image": "http://live.staticflickr.com/1402/1299960819_5b0ca1fbcf_z.jpg",
+            "image_source": "Sugarsbadforya",
+            "image_source_url": "https://www.flickr.com/photos/kungfubunny/"
+        },
+        {
+            "year": 1983,
+            "toy": "Cabbage Patch Kids",
+            "retail_price": 40,
+            "description": "Cabbage Patch Kids are iconic and endearing dolls that first gained immense popularity in the 1980s. These dolls, known for their unique and handcrafted appearance, were originally created by Xavier Roberts. Each Cabbage Patch Kid had its own individual name and came with a birth certificate, adding a personal touch to the adoption experience. The dolls were characterized by their soft bodies, distinctive faces, and the adoption theme, which resonated with children and collectors alike. Cabbage Patch Kids sparked a sensation and even led to frenzied adoption events in stores during the holiday season. Their enduring appeal and cultural impact have solidified their status as beloved and cherished childhood companions, making them a timeless and iconic toy.",
+            "image": "http://live.staticflickr.com/65535/51816371707_ac4f832a25_h.jpg",
+            "image_source": "fishhawk",
+            "image_source_url": "https://www.flickr.com/photos/16502322@N03/"
+        },
+        {
+            "year": 1984,
+            "toy": "Transformers",
+            "retail_price": 4,
+            "description": "Transformers is a beloved and enduring toy franchise launched by Hasbro in the 1980s. These action figures are known for their unique ability to transform from humanoid robots into vehicles, beasts, or other forms. The line includes both Autobots and Decepticons, each with distinct characters and abilities. Transformers quickly gained a passionate fanbase and were accompanied by an animated TV series, comics, and movies that expanded the lore of these shape-shifting robots. Beyond their action-packed play value, Transformers promote creativity, problem-solving, and storytelling as children imagine epic battles and adventures. The franchise's enduring popularity and iconic status have made Transformers a cultural phenomenon with a lasting impact on the world of toys and entertainment.",
+            "image": "http://live.staticflickr.com/6164/6166048336_e20f253090.jpg",
+            "image_source": "isiahishere",
+            "image_source_url": "https://www.flickr.com/photos/isiahishere/"
+        },
+        {
+            "year": 1985,
+            "toy": "Teddy Ruxpin",
+            "retail_price": 69.99,
+            "description": "Teddy Ruxpin is a cherished and innovative animatronic teddy bear introduced by Worlds of Wonder in the mid-1980s. Unlike traditional stuffed animals, Teddy Ruxpin featured a cassette tape player in his back and animated eyes and mouth that synchronized with the recorded stories. When children played a special cassette tape, Teddy Ruxpin would come to life, telling captivating tales and adventures through his moving mouth and expressive eyes. This combination of technology and storytelling made Teddy Ruxpin a beloved and interactive companion, fostering a love for reading and imaginative play in young children. His endearing personality and the magic of his storytelling abilities continue to hold a special place in the hearts of those who grew up with him, making Teddy Ruxpin a beloved and nostalgic figure in the world of toys.",
+            "image": "https://live.staticflickr.com/5765/23147033739_218b03c7a6_c.jpg",
+            "image_source": "Love Ottanta",
+            "image_source_url": "https://www.flickr.com/photos/136942613@N08/"
+        },
+        {
+            "year": 1986,
+            "toy": "Nintendo Entertainment System",
+            "retail_price": 199.99,
+            "description": "The Nintendo Entertainment System (NES) is a legendary and groundbreaking video game console released by Nintendo in 1985. It played a pivotal role in revitalizing the video game industry after the video game crash of the early 1980s. The NES introduced a diverse library of iconic games, including \"Super Mario Bros.,\" \"The Legend of Zelda,\" and \"Metroid,\" setting the stage for enduring franchises. The console's innovative design featured a controller with a directional pad and two action buttons, setting a standard for future gaming controllers. The NES's widespread popularity helped establish Nintendo as a dominant force in the gaming world and laid the foundation for the modern video game industry as we know it today.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/NES-Console-Set.jpg/1920px-NES-Console-Set.jpg",
+            "image_source": "Wikipedia - Nintendo Entertainment System",
+            "image_source_url": "https://en.wikipedia.org/wiki/Nintendo_Entertainment_System"
+        },
+        {
+            "year": 1987,
+            "toy": "Jenga",
+            "retail_price": 12,
+            "description": "Jenga is an engaging and suspenseful tabletop game that has captivated players since its creation in the 1980s. The game consists of a set of wooden blocks stacked in a tower formation, with players taking turns removing one block at a time from the tower and then carefully placing it on top. The objective is to keep the tower stable while trying to make it topple on your opponent's turn. Jenga is a game of strategy, steady hands, and nerve-wracking tension as the tower becomes increasingly precarious. Its simple yet addictive gameplay and ability to bring players together for thrilling matches have made Jenga a timeless and universally loved party and family game.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Jenga_distorted.jpg/800px-Jenga_distorted.jpg",
+            "image_source": "Wikipedia - Jenga",
+            "image_source_url": "https://en.wikipedia.org/wiki/Jenga"
+        },
+        {
+            "year": 1988,
+            "toy": "Troll Dolls",
+            "retail_price": 2,
+            "description": "Troll Dolls, often simply referred to as \"Trolls,\" are whimsical and collectible toys known for their distinctive, colorful hair and expressive faces. These dolls were originally created in the 1960s by Danish woodcutter Thomas Dam and gained immense popularity in the 1990s. Trolls come in various sizes, from small keychain-sized versions to larger collectible figures. They are recognized for their tall, cone-shaped heads adorned with spiky hair, often in vibrant and eye-catching colors. Troll Dolls have a timeless appeal and have been cherished as toys, decorations, and even lucky charms, making them a memorable and endearing part of popular culture.",
+            "image": "http://live.staticflickr.com/3047/2453088873_550b952a98_c.jpg",
+            "image_source": "Mandana Fard",
+            "image_source_url": "Mandana Fard"
+        },
+        {
+            "year": 1989,
+            "toy": "Game Boy",
+            "retail_price": 89.99,
+            "description": "The Game Boy is a pioneering and iconic handheld video game console created by Nintendo and first released in 1989. It revolutionized portable gaming with its compact design and interchangeable game cartridges. The monochrome screen, directional pad, and A and B buttons offered a familiar gaming experience on the go. The Game Boy introduced players to classic titles like \"Tetris\" and \"Super Mario Land\" and provided a platform for a wide range of games. Its enduring popularity, durability, and vast game library made it a beloved companion for gamers of all ages, establishing the foundation for Nintendo's dominance in the handheld gaming market for years to come.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Game-Boy-FL.jpg/800px-Game-Boy-FL.jpg",
+            "image_source": "Wikipedia - Game Boy",
+            "image_source_url": "https://en.wikipedia.org/wiki/Game_Boy"
+        },
+        {
+            "year": 1990,
+            "toy": "Teenage Mutant Ninja Turtles action figures",
+            "retail_price": 3.99,
+            "description": "Teenage Mutant Ninja Turtles (TMNT) action figures are a beloved line of toys introduced by Playmates Toys in the late 1980s, based on the popular comic book and animated TV series. These action figures depict the four anthropomorphic turtles, Leonardo, Michelangelo, Donatello, and Raphael, as well as their allies and adversaries from the TMNT universe. Each figure was highly detailed, featuring poseable limbs and accessories like weapons and gadgets. The TMNT action figures became a cultural phenomenon, reflecting the popularity of the franchise and sparking a collector's craze. Their enduring appeal and iconic status in the world of action figures make them cherished memorabilia for fans of the Teenage Mutant Ninja Turtles.",
+            "image": "http://live.staticflickr.com/5522/11683262196_bca2d51a04_h.jpg",
+            "image_source": "Quillope Jeffrey",
+            "image_source_url": "https://www.flickr.com/photos/clarkent78/"
+        },
+        {
+            "year": 1991,
+            "toy": "Super Nintendo Entertainment System",
+            "retail_price": 199.99,
+            "description": "The Super Nintendo Entertainment System (SNES), also known as the Super NES or Super Nintendo, is a legendary video game console released by Nintendo in 1990. It represents the 16-bit era of gaming and is known for its extensive library of classic games. The SNES introduced iconic titles like \"Super Mario World,\" \"The Legend of Zelda: A Link to the Past,\" and \"Super Metroid.\" With its improved graphics and sound capabilities compared to its predecessor, the NES, the SNES delivered immersive gaming experiences. Its distinctive rectangular controller, with shoulder buttons and a more ergonomic design, became a standard for future console controllers. The SNES holds a special place in the hearts of gamers and is celebrated for its timeless classics and contributions to the history of video gaming.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/SNES-Mod1-Console-Set.jpg/1920px-SNES-Mod1-Console-Set.jpg",
+            "image_source": "Wikipedia - Super Nintendo Entertainment System",
+            "image_source_url": "https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System"
+        },
+        {
+            "year": 1992,
+            "toy": "Talkboy",
+            "retail_price": 29.99,
+            "description": "The Talkboy is a memorable and innovative handheld audio recording device that gained fame in the 1990s, thanks to its appearance in the movie \"Home Alone 2: Lost in New York.\" This device allowed users to record their voices and play them back at a slower speed, creating a distinctive and comical effect. The Talkboy became a sought-after toy after its movie appearance, leading to the release of a consumer version by Tiger Electronics. Its popularity was attributed to its playful sound manipulation features and its association with the popular \"Home Alone\" film franchise. The Talkboy is a nostalgic and collectible piece of 1990s pop culture that continues to be remembered fondly by fans of the era.",
+            "image": "https://live.staticflickr.com/5185/5593280057_7c06bae39d_b.jpg",
+            "image_source": "randyreyes__",
+            "image_source_url": "https://www.flickr.com/photos/waverder/"
+        },
+        {
+            "year": 1993,
+            "toy": "Super Soaker",
+            "retail_price": 25,
+            "description": "The Super Soaker is a high-powered water blaster toy invented by engineer Lonnie Johnson and introduced by Hasbro in the early 1990s. Unlike traditional water guns, Super Soakers use air pressure to shoot pressurized streams of water, making them more powerful and capable of shooting water over longer distances. These water blasters come in various sizes and designs, from small pistols to large, multi-chambered models. Super Soaker water fights are a popular outdoor activity, encouraging active play and fun during the warm summer months. The Super Soaker brand has continued to innovate and expand its product line, remaining a beloved choice for water-based outdoor play.",
+            "image": "https://live.staticflickr.com/47/135572195_ad05465820_b.jpg",
+            "image_source": "AIG",
+            "image_source_url": "https://www.flickr.com/photos/alagregg/"
+        },
+        {
+            "year": 1994,
+            "toy": "Mighty Morphin Power Rangers",
+            "retail_price": 10,
+            "description": "Mighty Morphin Power Rangers is an iconic and action-packed franchise that originated in the early 1990s. It combines live-action sequences with Japanese tokusatsu footage, creating a unique blend of action, adventure, and teamwork. The show revolves around a group of teenagers who morph into superheroes known as the Power Rangers to battle villains and protect the world. The Power Rangers are each associated with a color and have distinctive Zords (giant robots) that combine to form the mighty Megazord. Alongside the TV series, the franchise includes action figures, toys, video games, and comics. Mighty Morphin Power Rangers has had a lasting impact on popular culture, inspiring generations of fans with its thrilling adventures and colorful heroes.",
+            "image": "https://live.staticflickr.com/2794/4232535644_62216cb78d_z.jpg",
+            "image_source": "ThePowerDome",
+            "image_source_url": "https://www.flickr.com/photos/thepowerdome/"
+        },
+        {
+            "year": 1995,
+            "toy": "Beanie Babies",
+            "retail_price": 5,
+            "description": "Beanie Babies are a collectible toy line of plush stuffed animals that gained immense popularity in the mid-1990s. Created by Ty Inc., these soft and cute critters were filled with plastic pellets (or \"beans\"), giving them a unique feel and flexibility. Beanie Babies came in a wide variety of animal designs, each with its own name and tag, which included a poem and a unique birthdate. Collectors were drawn to the limited production runs, leading to a frenzy of Beanie Baby collecting. However, the Beanie Baby market eventually experienced a decline in value, but they remain cherished and nostalgic keepsakes for many, representing a unique chapter in the world of collectible toys.",
+            "image": "https://live.staticflickr.com/25/61363748_47c59db1dc_b.jpg",
+            "image_source": "stephspagnola",
+            "image_source_url": "https://www.flickr.com/photos/17049862@N00/"
+        },
+        {
+            "year": 1996,
+            "toy": "Tickle Me Elmo",
+            "retail_price": 29.99,
+            "description": "Tickle Me Elmo is a plush toy based on the popular Sesame Street character Elmo. Introduced by Tyco Preschool in 1996, this interactive doll became a sensation during the holiday season of that year. Tickle Me Elmo would giggle, vibrate, and move when tickled or squeezed, creating infectious laughter and delight in children and adults alike. The toy's popularity led to high demand and long lines at stores, with some reselling for exorbitant prices. Tickle Me Elmo's mass appeal and the frenzy it caused made it one of the most sought-after and iconic toys of the 1990s, cementing its place in the annals of holiday gift crazes.",
+            "image": "https://live.staticflickr.com/22/27109890_3bb6a91bdd_b.jpg",
+            "image_source": "Realsanmarino",
+            "image_source_url": "https://www.flickr.com/photos/realsanmarino/"
+        },
+        {
+            "year": 1997,
+            "toy": "Tamagotchi",
+            "retail_price": 17.99,
+            "description": "Tamagotchi is a virtual pet and electronic keychain toy that gained worldwide popularity when introduced by Bandai in 1996. These compact devices allowed players to nurture and care for a digital pet from hatching to maturity, requiring regular feeding, playtime, and attention. Tamagotchis became a cultural sensation, captivating people of all ages with their interactive and nurturing gameplay, and their portable design made them a ubiquitous accessory. They sparked trends in digital pet ownership and offered a unique blend of entertainment and responsibility, leaving a lasting mark on the world of handheld electronic toys.",
+            "image": "https://live.staticflickr.com/7308/8916250698_725d3479dc_b.jpg",
+            "image_source": "Pascal Maramis",
+            "image_source_url": "https://www.flickr.com/photos/pascalmaramis/"
+        },
+        {
+            "year": 1998,
+            "toy": "Furby",
+            "retail_price": 35,
+            "description": "Furby is an interactive robotic toy introduced by Tiger Electronics and Hasbro in the late 1990s. Resembling a furry creature with big eyes and a beak-like mouth, Furby could \"learn\" and respond to its owner's interactions. It spoke its own language, Furbish, but gradually picked up and used English words over time. Furby featured sensors that enabled it to react to touch, sound, and light, making it an engaging and often unpredictable companion. The toy's ability to change its personality and develop a unique identity based on how it was treated contributed to its appeal. Furby quickly became a sensation, with various editions and generations released over the years, making it a beloved and iconic interactive toy of the late 1990s and early 2000s.",
+            "image": "https://live.staticflickr.com/6069/6137468129_d9a6223d6a_b.jpg",
+            "image_source": "Amanda",
+            "image_source_url": "https://www.flickr.com/photos/66376272@N07/"
+        },
+        {
+            "year": 1999,
+            "toy": "Pokémon trading cards",
+            "retail_price": 4,
+            "description": "Pokémon trading cards are collectible card games that were first introduced by Wizards of the Coast in North America in 1999, based on the popular Pokémon video game and TV series. Each card features a Pokémon character with various attributes and abilities. The objective is to build a strategic deck and engage in battles with other players using the cards. Pokémon cards quickly gained a dedicated following and became a cultural phenomenon. The franchise has continued to release new sets of cards, with rare and holographic cards often becoming highly sought-after collector's items. Pokémon trading cards have fostered a sense of community among players and collectors and remain a beloved aspect of the Pokémon franchise, appealing to fans of all ages.",
+            "image": "https://live.staticflickr.com/3936/14918973744_a17d3608d4_b.jpg",
+            "image_source": "Alyssa Sun",
+            "image_source_url": "https://www.flickr.com/photos/spufflez/"
+        },
+        {
+            "year": 2000,
+            "toy": "Playstation 2",
+            "retail_price": 299.99,
+            "description": "The PlayStation 2, released in the year 2000, is a legendary and influential video game console developed by Sony Computer Entertainment. It became one of the best-selling and most iconic gaming consoles of all time. The PS2 was celebrated for its powerful hardware, extensive library of games, and backward compatibility with the original PlayStation games. It introduced players to blockbuster titles like \"Grand Theft Auto: San Andreas,\" \"Final Fantasy X,\" and \"Metal Gear Solid 2.\" The PS2's DVD player functionality also contributed to its appeal, making it a versatile entertainment hub. Its enduring legacy lies in its impact on the gaming industry, as it helped solidify Sony's position as a dominant force and set the stage for future PlayStation consoles.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/PS2-Versions.jpg/1024px-PS2-Versions.jpg",
+            "image_source": "Wikipedia - Playstation 2",
+            "image_source_url": "https://en.wikipedia.org/wiki/PlayStation_2"
+        },
+        {
+            "year": 2001,
+            "toy": "Bratz Dolls",
+            "retail_price": 14.99,
+            "description": "Bratz Dolls are a line of fashion dolls introduced by MGA Entertainment in 2001. These dolls are known for their contemporary and edgy fashion sense, featuring large heads with distinctive makeup, stylish outfits, and an emphasis on individuality and self-expression. Each Bratz Doll has its own unique personality and interests, encouraging imaginative play and storytelling. The Bratz franchise expanded to include various doll lines, accessories, animated series, and even a live-action movie. While facing some controversy due to their mature appearance, Bratz Dolls have remained popular among pre-teen and teen audiences, reflecting evolving trends in the world of fashion and pop culture.",
+            "image": "https://live.staticflickr.com/4268/34871805446_5c91a838ed_z.jpg",
+            "image_source": "Lisa Astrup",
+            "image_source_url": "https://www.flickr.com/photos/lisaastrup/"
+        },
+        {
+            "year": 2002,
+            "toy": "Beyblades",
+            "retail_price": 10,
+            "description": "Beyblades are spinning top toys that gained popularity in the early 2000s. Created by Takara Tomy (formerly Takara), these battling tops are designed for competitive play. Each Beyblade features a unique design with interchangeable parts, including a spinning top, a launch mechanism, and a ripcord. Players engage in head-to-head battles, launching their Beyblades into an arena known as the Beystadium, with the goal of knocking their opponent's top out or forcing it to stop spinning. Beyblades became a sensation with a dedicated fanbase, leading to tournaments and an animated TV series that expanded the lore of Beyblade battles. The toy line encouraged strategic customization and skillful play, making it a memorable and engaging toy for kids during the early 2000s.",
+            "image": "https://live.staticflickr.com/65535/51179769431_1bb53ff372_c.jpg",
+            "image_source": "Toxif Beyblades",
+            "image_source_url": "https://www.flickr.com/photos/193069182@N08/"
+        },
+        {
+            "year": 2003,
+            "toy": "Cranium Hullabaloo",
+            "retail_price": 19.99,
+            "description": "Cranium Hullabaloo is an interactive and energetic board game introduced by Cranium, Inc. in 2002. Designed for children, this game combines music, movement, and memory challenges. Players take turns following instructions given by a talking electronic console that plays music and calls out actions. The objective is to move around and interact with colorful pads placed on the floor, with each pad corresponding to a specific activity. Hullabaloo encourages physical activity, creativity, and quick thinking as players dance, hop, and follow instructions to stay in the game. Its lively and engaging gameplay makes it a memorable and fun party or family game for young players.",
+            "image": "https://live.staticflickr.com/4108/5054584307_d9073a5b88.jpg",
+            "image_source": "nghethuongvn",
+            "image_source_url": "https://www.flickr.com/photos/16056599@N05/"
+        },
+        {
+            "year": 2004,
+            "toy": "Robosapien",
+            "retail_price": 99,
+            "description": "Robosapien is a popular and interactive humanoid robot toy created by WowWee and introduced in 2004. This advanced robot is known for its fluid movements, pre-programmed actions, and remote control capabilities. Robosapien can walk, dance, pick up objects, and perform a wide range of entertaining movements and gestures. It also features sensors that allow it to respond to touch, sound, and obstacles. With a remote control, users can program Robosapien to perform various actions and sequences. The toy's combination of technology and interactivity made it a hit among both children and adults, showcasing the potential for robotics in consumer entertainment and play.",
+            "image": "https://live.staticflickr.com/53/108346406_634de81517_c.jpg",
+            "image_source": "空虚",
+            "image_source_url": "https://www.flickr.com/photos/dsnowdon/"
+        },
+        {
+            "year": 2005,
+            "toy": "Xbox 360",
+            "retail_price": 399.99,
+            "description": "The Xbox 360, released by Microsoft in 2005, is a highly influential and popular video game console that played a significant role in shaping the gaming industry. It introduced high-definition gaming, robust online multiplayer capabilities through Xbox Live, and a vast library of games that included iconic titles like \"Halo 3,\" \"Gears of War,\" and \"Mass Effect.\" The console also featured multimedia capabilities, including music and video streaming. The Xbox 360's controller design became a standard for modern gaming controllers, and its online ecosystem paved the way for digital downloads and online gaming communities. Its success contributed to Microsoft's position in the gaming market and played a crucial role in the evolution of home gaming consoles.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Microsoft-Xbox-360-E-wController.jpg/800px-Microsoft-Xbox-360-E-wController.jpg",
+            "image_source": "Wikipedia - Xbox_360",
+            "image_source_url": "https://en.wikipedia.org/wiki/Xbox_360"
+        },
+        {
+            "year": 2006,
+            "toy": "Nintendo Wii",
+            "retail_price": 250,
+            "description": "The Nintendo Wii, released by Nintendo in 2006, is a groundbreaking and innovative video game console known for its motion-sensing controller, the Wii Remote (or Wiimote). This console introduced a novel way to interact with games by translating real-world motions into in-game actions. The Wii's diverse library of games catered to players of all ages, from the family-friendly \"Wii Sports\" to titles like \"The Legend of Zelda: Twilight Princess\" and \"Super Mario Galaxy.\" The console's social and physical gaming experiences made it a hit among families and casual gamers. Additionally, it introduced the concept of virtual console games, allowing players to download and play classic titles from previous Nintendo consoles. The Nintendo Wii's impact on the gaming industry included popularizing motion controls and expanding the gaming demographic.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Wii-Console.png/1024px-Wii-Console.png",
+            "image_source": "Wikipedia - Nintendo Wii",
+            "image_source_url": "https://en.wikipedia.org/wiki/Wii"
+        },
+        {
+            "year": 2007,
+            "toy": "Guitar Hero",
+            "retail_price": 90,
+            "description": "Guitar Hero is a music video game series introduced by Harmonix and later published by Activision in the mid-2000s. It offered players the opportunity to simulate playing guitar by using a special guitar-shaped controller. The objective was to follow on-screen prompts and strum in time with the music, creating an immersive and enjoyable musical experience. The game featured a diverse range of rock and pop songs, allowing players to perform famous tracks as if they were rock stars. Guitar Hero was celebrated for its social gameplay, with multiplayer modes and competitions, and it sparked a renewed interest in music rhythm games. The series expanded to include various versions and instrument controllers, and it remains a beloved and influential part of video game history, combining music and gaming in a unique and entertaining way.",
+            "image": "https://www.gameinformer.com/s3/files/styles/body_default/s3/legacy-images/imagefeed/Reunion%20Tour%3A%20The%20Best%20And%20Worst%20Of%20Guitar%20Hero/Gh3_2D00_337_2D00_610.jpg",
+            "image_source": "Game Informer",
+            "image_source_url": "https://www.gameinformer.com/b/features/archive/2015/06/10/reunion-tour-the-best-and-worst-of-guitar-hero.aspx"
+        },
+        {
+            "year": 2008,
+            "toy": "WALL-E Toys",
+            "retail_price": 7.5,
+            "description": "WALL-E toys are a collection of merchandise based on the titular character from Disney-Pixar's animated film \"WALL-E,\" which was released in 2008. These toys capture the charm and personality of WALL-E, a lovable robot left to clean up an abandoned Earth. WALL-E's toys include action figures, plush dolls, remote-controlled robots, and interactive toys that replicate the character's movements and sounds. The film's themes of friendship and environmental consciousness have made WALL-E toys not only fun for play but also valuable tools for sparking conversations about sustainability and technology. These toys have resonated with both children and collectors, allowing fans to bring a piece of the heartwarming film into their homes.",
+            "image": "https://live.staticflickr.com/7033/6483770873_8765aa5f0f_b.jpg",
+            "image_source": "TheFFK",
+            "image_source_url": "https://www.flickr.com/photos/theffk/"
+        },
+        {
+            "year": 2009,
+            "toy": "Angry Birds",
+            "retail_price": 5,
+            "description": "Angry Birds is a popular mobile game franchise introduced by Rovio Entertainment in 2009. In this addictive puzzle game, players use a slingshot to launch a variety of bird characters at structures containing green pigs. The objective is to knock down the pigs and their fortifications to earn points and progress through levels. Angry Birds combines physics-based gameplay with a simple yet challenging premise, making it accessible and enjoyable for players of all ages. The franchise has since expanded to include numerous sequels, spin-off games, merchandise, and even an animated series and feature films. Angry Birds has become a global phenomenon, with its iconic characters and engaging gameplay making it a beloved part of mobile gaming history.",
+            "image": "https://live.staticflickr.com/7063/6782643074_44f33f9bd1_b.jpg",
+            "image_source": "marja2006-offers",
+            "image_source_url": "https://www.flickr.com/photos/marja2006-offers/"
+        },
+        {
+            "year": 2010,
+            "toy": "iPad",
+            "retail_price": 499.99,
+            "description": "The iPad, launched by Apple in 2010, is a revolutionary tablet computer that redefined personal computing and mobile technology. With its sleek design, high-resolution touchscreen, and a vast ecosystem of apps, the iPad became a versatile device for a wide range of tasks, from web browsing and email to gaming and creative content creation. It offered a portable and user-friendly experience, bridging the gap between smartphones and traditional laptops. The iPad's impact extended beyond personal use, transforming industries like education, healthcare, and art by providing innovative and interactive solutions. Over the years, Apple has continued to refine and expand the iPad lineup, making it an essential tool for many individuals and professionals worldwide.",
+            "image": "https://www.cnet.com/a/img/resize/5174937254d8e65b0b1bbc8222820fda5dfc02e5/hub/2010/05/04/1f3322b2-cbf2-11e2-9a4a-0291187b029a/orig-1200x900_1.jpg?auto=webp&width=768",
+            "image_source": "Ipad - CNET",
+            "image_source_url": "https://www.cnet.com/reviews/apple-ipad-2010-review/"
+        },
+        {
+            "year": 2011,
+            "toy": " Skylanders",
+            "retail_price": 5,
+            "description": "Skylanders is a video game and toy franchise introduced by Activision in 2011. It combines physical action figures with a video game experience, offering an innovative and interactive gameplay concept. Players place collectible Skylanders action figures on a special portal, and these characters are then transported into the game world. The objective is to use the Skylanders' unique abilities to complete various in-game challenges and adventures. Skylanders sparked a new genre known as \"toys-to-life\" gaming, where physical toys interact with a digital game world. The franchise released multiple games and expansions, creating a vast universe of characters and adventures. While the initial popularity has waned, Skylanders remains an innovative and memorable chapter in the history of video games and toys.",
+            "image": "https://live.staticflickr.com/8572/16186140135_4fb482593a_c.jpg",
+            "image_source": "jolanda aalbers",
+            "image_source_url": "https://www.flickr.com/photos/128112365@N05/"
+        },
+        {
+            "year": 2012,
+            "toy": "LeapPad Explorer",
+            "retail_price": 99.99,
+            "description": "The LeapPad Explorer, introduced by LeapFrog Enterprises in 2011, is an educational tablet designed for young children. This interactive learning device combines technology with educational content, providing a safe and engaging platform for kids to explore various subjects. The LeapPad Explorer comes with a touchscreen display, a stylus, and a library of interactive apps and games that teach reading, mathematics, science, and other essential skills. It encourages active learning, creativity, and critical thinking, making it a valuable tool for early childhood education. The device's durability and child-friendly design have made it a popular choice for parents and educators seeking to introduce educational technology to young learners in a fun and engaging way.",
+            "image": "https://live.staticflickr.com/7025/6389063949_18fd226874_b.jpg",
+            "image_source": "CChristensen2",
+            "image_source_url": "https://www.flickr.com/photos/52471032@N03/"
+        },
+        {
+            "year": 2013,
+            "toy": "Tekno the Robotic Puppy",
+            "retail_price": 94.99,
+            "description": "https://www.flickr.com/photos/34816680@N08/",
+            "image": "https://live.staticflickr.com/3385/3345954668_402f6de64b_b.jpg",
+            "image_source": "OpTILLmus",
+            "image_source_url": "Tekno the Robotic Puppy, initially launched in 2000 by ToyQuest, is a remarkable robotic pet designed to provide the experience of owning a real puppy. Tekno could perform a range of lifelike actions, including walking, barking, tail-wagging, and responding to voice commands. Touch sensors and sound recognition technology enabled interactions with its environment and its owner. In 2013, an exciting update allowed users to take control of Tekno using their smart devices, further enhancing the interactive experience. This innovation showcased the potential of blending robotics and technology to create engaging and customizable companions, cementing Tekno's status as a memorable and iconic toy of the early 2000s."
+        },
+        {
+            "year": 2014,
+            "toy": "Frozen dolls",
+            "retail_price": 10,
+            "description": "Frozen dolls are a collection of toys based on the characters from Disney's animated film \"Frozen,\" released in 2013. These dolls represent the beloved characters from the movie, including Elsa, Anna, Olaf, Kristoff, and Sven. Frozen dolls come in various sizes and styles, from small figurines to larger, highly detailed collector's editions. They allow children to recreate their favorite moments from the film and embark on imaginative adventures in the magical kingdom of Arendelle. With their intricate designs and costumes, Frozen dolls have become cherished playthings for fans of all ages, contributing to the film's lasting popularity and cultural impact.",
+            "image": "https://live.staticflickr.com/7547/15725026331_8856b30a57_c.jpg",
+            "image_source": "Sakura",
+            "image_source_url": "https://www.flickr.com/photos/53657990@N07/"
+        },
+        {
+            "year": 2015,
+            "toy": "Shopkins Toys",
+            "retail_price": 39.99,
+            "description": "Shopkins are a popular collectible toy line introduced by Moose Toys in 2014. These miniature, cute, and whimsical characters are designed to resemble grocery store items, such as food, household goods, and beauty products. Shopkins come in a wide range of styles and personalities, and they encourage imaginative play and storytelling as children create their own Shopkins world. The collectible aspect of Shopkins, with rare and ultra-rare characters to discover, has contributed to their appeal and led to a dedicated fanbase. The franchise has expanded to include animated webisodes, trading cards, and various playsets, making Shopkins a beloved and enduring part of the toy market for children.",
+            "image": "https://live.staticflickr.com/8603/28439381542_bd2081f67d_b.jpg",
+            "image_source": "Peace2818",
+            "image_source_url": "https://www.flickr.com/photos/peace2818/"
+        },
+        {
+            "year": 2016,
+            "toy": "Hatchimals",
+            "retail_price": 49.99,
+            "description": "",
+            "image": "https://live.staticflickr.com/65535/49598911223_b0ec3e3906_h.jpg",
+            "image_source": "JillyBean",
+            "image_source_url": "https://www.flickr.com/photos/j-dolls/"
+        },
+        {
+            "year": 2017,
+            "toy": "Fingerlings",
+            "retail_price": 14.99,
+            "description": "Fingerlings are small, interactive toy monkeys created by WowWee and introduced in 2017. These playful and animated creatures attach to a child's finger using a small grip, and they respond to touch and sound with a variety of movements and noises. Fingerlings can blink their eyes, turn their heads, grip onto objects, and even blow kisses. They come in a range of colors and styles, each with its own unique personality. Fingerlings quickly became a craze among kids, thanks to their engaging interactivity and adorable features. The toys encourage imaginative play, nurturing, and companionship, making them a cherished and interactive addition to the world of electronic and robotic toys.",
+            "image": "https://live.staticflickr.com/4819/45582439295_5285a40057_h.jpg",
+            "image_source": "f l a m i n g o",
+            "image_source_url": "https://www.flickr.com/photos/sunflowerblue/"
+        },
+        {
+            "year": 2018,
+            "toy": "Don't Step In It",
+            "retail_price": 19.99,
+            "description": "Hasbro's \"Don't Step In It\" is a fun and humorous family game introduced in 2018. The game revolves around the concept of navigating a backyard filled with plasticine poop. Players take turns blindfolded and attempt to walk across a playmat while avoiding the strategically placed, soft, and squishy toy poop piles. The objective is to avoid stepping on the faux excrement and successfully make it to the other side. \"Don't Step In It\" combines elements of surprise, laughter, and strategy, making it an entertaining and lighthearted party game for both kids and adults. The game's comical premise and gross-out factor have contributed to its popularity as a unique and enjoyable tabletop experience.",
+            "image": "https://media.karousell.com/media/photos/products/2023/7/13/hasbro_dont_step_in_it_1689249213_b1416b77.jpg",
+            "image_source": "Carousell - Don't Step In It",
+            "image_source_url": "https://www.carousell.ph/p/hasbro-don-t-step-in-it-1242837583/"
+        },
+        {
+            "year": 2019,
+            "toy": "Baby Shark Official Song Puppet",
+            "retail_price": 19.99,
+            "description": "The Baby Shark Official Song Puppet is an interactive toy introduced by WowWee in 2019. This adorable plush puppet is designed to resemble the Baby Shark character from the popular children's song and video. When kids place their hand inside the puppet, they can control its mouth and sing along to the \"Baby Shark\" song by moving their fingers. The puppet is designed to be soft, huggable, and easy to operate, making it an engaging and fun way for children to interact with the song. The Baby Shark Official Song Puppet capitalizes on the viral sensation of the \"Baby Shark\" song, providing kids with an interactive and entertaining way to bring the song to life through play.",
+            "image": "https://i5.walmartimages.com/seo/Pinkfong-Baby-Shark-Official-Song-Puppet-with-Tempo-Control-Baby-Shark-Interactive-Preschool-Plush-Toy-By-WowWee_7196b178-301c-4c9d-b007-9ee9f5dfac47_1.c82be999f2c00486d7f74d63a2222ab1.jpeg",
+            "image_source": "Walmart",
+            "image_source_url": "https://www.walmart.com/ip/Pinkfong-Baby-Shark-Official-Song-Puppet-with-Tempo-Control-Mommy-Shark-Interactive-Preschool-Plush-Toy-By-WowWee/604963564"
+        },
+        {
+            "year": 2020,
+            "toy": "Animatronic 'The Child'",
+            "retail_price": 62.99,
+            "description": "The Animatronic 'The Child,' also known as \"Baby Yoda,\" is a highly detailed and interactive toy introduced by Hasbro in 2020. It is based on the character known as The Child or Grogu from the Star Wars series \"The Mandalorian.\" This animatronic toy features a lifelike appearance and various animated movements, including moving its head, ears, eyes, and arms. It also produces adorable cooing and gurgling sounds, allowing fans to interact with Baby Yoda in an immersive way. The Animatronic 'The Child' quickly became a beloved and sought-after collectible for fans of the Star Wars universe, offering an opportunity to bring the enchanting character into their homes and relive moments from the popular TV series.",
+            "image": "https://www.hasbro.com/common/productimages/en_US/FD203BA954564108853EDD06D6742EB0/061c0829dfd5b903bbe9ea0f0e41434cd1141eaa.jpg",
+            "image_source": "Hasbro",
+            "image_source_url": "https://shop.hasbro.com/en-us/product/star-wars-the-child-animatronic-edition-with-over-25-sound-and-motion-combinations-the-mandalorian-toy/FD203BA9-5456-4108-853E-DD06D6742EB0"
+        }
+    ]
 }
