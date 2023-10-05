@@ -77,6 +77,7 @@
       "year": 1948,
       "toy": "Toy Piano",
       "retail_price": 3,
+      "description":
 	  "The toy piano is a charming and miniature version of a traditional piano, designed for young musicians to explore the world of music in a playful manner. Typically made of plastic or wood and featuring a handful of keys, toy pianos produce a delightful tinkling sound when played. These pint-sized instruments introduce children to the basics of melody and rhythm, fostering an early love for music and creativity. Toy pianos have a timeless appeal and are perfect for introducing the joy of making music to budding musicians, making them a cherished addition to any child's playroom",
 	  "image": "https://www.chicagotribune.com/resizer/UEkok4SATq8OiRv2DkSX-gdpK1g=/400x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/R6XQCHRI7VFEHDUUW34HEH2FGQ.jpeg",
 	  "image_source": "Chicago Tribune",
@@ -149,7 +150,7 @@
       "year": 1956,
       "toy": "Play-Doh",
       "retail_price": 0.99,
-	  "description", "Play-Doh is a beloved modeling compound that has been inspiring creativity and imaginative play for generations of children. This colorful, pliable material can be molded, shaped, and sculpted into an endless array of creations, from animals and food items to abstract art and more. Originally developed in the 1950s as a wallpaper cleaner, Play-Doh quickly found its way into the hands of children as a versatile and non-toxic plaything. Its soft texture, vibrant colors, and limitless possibilities make it an ideal tool for fostering fine motor skills, artistic expression, and open-ended play. Play-Doh remains a cherished and iconic toy, offering hours of creative fun for kids and a nostalgic trip down memory lane for adults who grew up with it.",
+	  "description": "Play-Doh is a beloved modeling compound that has been inspiring creativity and imaginative play for generations of children. This colorful, pliable material can be molded, shaped, and sculpted into an endless array of creations, from animals and food items to abstract art and more. Originally developed in the 1950s as a wallpaper cleaner, Play-Doh quickly found its way into the hands of children as a versatile and non-toxic plaything. Its soft texture, vibrant colors, and limitless possibilities make it an ideal tool for fostering fine motor skills, artistic expression, and open-ended play. Play-Doh remains a cherished and iconic toy, offering hours of creative fun for kids and a nostalgic trip down memory lane for adults who grew up with it.",
 	  "image": "https://live.staticflickr.com/7344/12947038455_2b1a94d93a_c.jpg",
 	  "image_source": "Mike Mozart",
 	  "image_source_url": "https://www.flickr.com/photos/jeepersmedia/"
@@ -278,7 +279,7 @@
 	  "description": "The Nerf Ball is a classic foam ball toy that has been a staple of active play for decades. Known for its soft, lightweight design, the Nerf Ball allows for safe and enjoyable indoor and outdoor games. Whether it's a friendly game of catch, a spirited game of dodgeball, or imaginative target shooting, Nerf Balls offer endless opportunities for physical activity and creative play. The brand Nerf has expanded its product line to include various sizes and types of foam balls, each designed for specific activities, but they all share the common characteristic of being fun, safe, and versatile toys that encourage active play and social interaction.",
 	  "image": "https://live.staticflickr.com/7342/12443779364_116342df5b_c.jpg",
 	  "image_source": "Mike Mozart",
-	  "image_source_url": "https://www.flickr.com/photos/jeepersmedia/",
+	  "image_source_url": "https://www.flickr.com/photos/jeepersmedia/"
 	},
 	{
 	  "year": 1971,
@@ -350,7 +351,7 @@
 	  "description": "The Star Wars action figures released in 1978 were a groundbreaking collection of toys that accompanied the release of the original Star Wars film in 1977. Produced by Kenner, these action figures allowed fans to bring the galaxy far, far away into their own homes. The initial 12 figures included iconic characters like Luke Skywalker, Princess Leia, Darth Vader, and Han Solo. These figures were approximately 3.75 inches tall and featured limited articulation. The success of these action figures kickstarted the Star Wars toy franchise, and they remain highly sought-after collectibles today, marking the beginning of an enduring and beloved aspect of Star Wars fandom.",
 	  "image": "https://live.staticflickr.com/65535/51158759288_7ba9781e2a_b.jpg",
 	  "image_source": "Nicholas Hasey",
-	  "image_source_url": "https://www.flickr.com/photos/theyounghistorian/",
+	  "image_source_url": "https://www.flickr.com/photos/theyounghistorian/"
 	},
 	{
 	  "year": 1979,
