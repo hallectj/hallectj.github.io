@@ -1,215 +1,249 @@
 {
-  "dataset": "presidents",
-  "presidents": [
-    {
-      "number": "32",
-      "name": "Franklin D. Roosevelt",
-      "startDate": "1933-03-04",
-      "endDate": "1945-04-12",
-      "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/franklin-d.-roosevelt.jpg",
-      "portraitDesc": "Portrait by Frank O. Salisbury in 1947. Oil on canvas, 50 1/4 x 40 3/8 inches.",
-      "portraitSource": "White House Collection/White House Historical Association"
-	  "party": "Democrat",
-	  "birthCity": "Hyde Park",
-	  "birthStateAbbr": "NY",
-	  "birthdate": "1882-01-30",
-	  "spouses": ["Eleanor Roosevelt"]
-    },
-    {
-      "number": "33",
-      "name": "Harry S Truman",
-      "startDate": "1945-04-12",
-      "endDate": "1953-01-20",
-      "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/harry-s.-truman.jpg",
-      "portraitDesc": "Portrait by Martha Greta Kempton in 1947. Oil on canvas, 50 x 40 1/4 inches.",
-      "portraitSource": "White House Collection/White House Historical Association",
-	  "party": "Democrat",
-	  "birthCity": "Lamar",
-	  "birthStateAbbr": "MO",
-	  "birthdate": "1884-05-08",
-	  "spouses": ["Bess Truman"]
-    },
-    {
-      "number": "34",
-      "name": "Dwight D. Eisenhower",
-      "startDate": "1953-01-20",
-      "endDate": "1961-01-20",
-      "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/dwight-eisenhower.jpg",
-      "portraitDesc": "Portrait by James Anthony Wills in 1967. Oil on panel, 48 x 38 inches. ",
-      "portraitSource": "White House Collection/White House Historical Association",
-	  "party": "Republican",
-	  "birthCity": "Denison",
-	  "birthStateAbbr": "TX",
-	  "birthdate": "1890-10-14",
-	  "spouses": ["Mamie Eisenhower"]
-    },
-    {
-      "number": "35",
-      "name": "John F. Kennedy",
-      "startDate": "1961-01-20",
-      "endDate": "1963-11-22",
-      "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/john_f_kennedy.jpg",
-      "portraitDesc": "Portrait by Aaron Shikler in 1970. Oil on canvas, 50 x 34 inches. ",
-      "portraitSource": "White House Collection/White House Historical Association",
-	  "party": "Democrat",
-	  "birthCity": "Brookline",
-	  "birthStateAbbr": "MA",
-	  "birthdate": "1917-05-29",
-	  "spouses": ["Jacqueline Kennedy Onassis"]
-    },
-    {
-      "number": "36",
-      "name": "Lyndon B. Johnson",
-      "startDate": "1963-11-22",
-      "endDate": "1969-01-20",
-      "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/lyndon_b_johnson.jpg",
-      "portraitDesc": "Portrait by Elizabeth Shoumatoff in 1968. Oil on canvas, 31 5/8 x 26 1/2 inches.",
-      "portraitSource": "White House Collection/White House Historical Association",
-	  "party": "Democrat",
-	  "birthCity": "Stonewall",
-	  "birthStateAbbr": "TX",
-	  "birthdate": "1908-08-27",
-	  "spouses": ["Claudia Alta Johnson"]
-    },
-    {
-      "number": "37",
-      "name": "Richard Nixon",
-      "startDate": "1969-01-20",
-      "endDate": "1974-08-09",
-      "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/richard-nixon.jpg",
-      "portraitDesc": "Portrait by James Anthony Wills in 1984. Oil on panel, 45 3/4 x 34 7/8 inches. ",
-      "portraitSource": "White House Collection/White House Historical Association",
-	  "party": "Republican",
-	  "birthCity": "Yorba Linda",
-	  "birthStateAbbr": "CA",
-	  "birthdate": "1913-01-09",
-	  "spouses": ["Pat Nixon"]
-    },
-    {
-      "number": "38",
-      "name": "Gerald Ford",
-      "startDate": "1974-08-09",
-      "endDate": "1977-01-20",
-      "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/gerald-ford.jpg",
-      "portraitDesc": "Portrait by Everett Raymond Kinstler in 1977. Oil on canvas, 40 x 34 inches. ",
-      "portraitSource": "White House Collection/White House Historical Association",
-	  "party": "Republican",
-	  "birthCity": "Omaha",
-	  "birthStateAbbr": "NE",
-	  "birthdate": "1913-07-14",
-	  "spouses": ["Betty Ford"]
-    },
-    {
-      "number": "39",
-      "name": "Jimmy Carter",
-      "startDate": "1977-01-20",
-      "endDate": "1981-01-20",
-      "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/jimmy_carter.jpg",
-      "portraitDesc": "Portrait by Herbert E. Abrams in 1982. Oil on canvas, 38 1/16 x 32 1/16 inches. ",
-      "portraitSource": "White House Collection/White House Historical Association",
-	  "party": "Democrat",
-	  "birthCity": "Plains",
-	  "birthStateAbbr": "GA",
-	  "birthdate": "1924-10-01",
-	  "spouses": ["Rosalynn Carter"]
-    },
-    {
-      "number": "40",
-      "name": "Ronald Reagan",
-      "startDate": "1981-01-20",
-      "endDate": "1989-01-20",
-      "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/ronald-reagan.jpg",
-      "portraitDesc": "Portrait by Everett Raymond Kinstler in 1991. Oil on canvas, 50 1/8 x 40 1/8 inches. ",
-      "portraitSource": "White House Collection/White House Historical Association",
-	  "party": "Republican",
-	  "birthCity": "Tampico",
-	  "birthStateAbbr": "IL",
-	  "birthdate": "1911-02-06",
-	  "spouses": ["Jane Wyman", "Nancy Reagan"]
-    },
-    {
-      "number": "41",
-      "name": "George H. W. Bush",
-      "startDate": "1989-01-20",
-      "endDate": "1993-01-20",
-      "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/george-h.w.-bush_0.jpg",
-      "portraitDesc": "Portrait by Herbert E. Abrams in 1994. Oil on canvas, 50 1/4 x 40 1/8 inches. ",
-      "portraitSource": "White House Collection/White House Historical Association",
-	  "party": "Republican",
-	  "birthCity": "Milton",
-	  "birthStateAbbr": "MA",
-	  "birthdate": "1924-06-12",
-	  "spouses": ["Barbara Bush"]
-    },
-    {
-      "number": "42",
-      "name": "Bill Clinton",
-      "startDate": "1993-01-20",
-      "endDate": "2001-01-20",
-      "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/william_clinton.jpg",
-      "portraitDesc": "Portrait by Simmie Knox in 2002. Oil on canvas, 56 x 44 1/8 inches. ",
-      "portraitSource": "White House Collection/White House Historical Association",
-	  "party": "Democrat",
-	  "birthCity": "Hope",
-	  "birthStateAbbr": "AR",
-	  "birthdate": "1946-08-19",
-	  "spouses": ["Hillary Clinton"]
-    },
-    {
-      "number": "43",
-      "name": "George W. Bush",
-      "startDate": "2001-01-20",
-      "endDate": "2009-01-20",
-      "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/portrait_georgewbush_324x404.jpg",
-      "portraitDesc": "Portrait by John Howard Sanden in 2011. Oil on canvas, 49 3/4 x 40 1/8 inches. ",
-      "portraitSource": "White House Collection/White House Historical Association",
-	  "party": "Republican",
-	  "birthCity": "New Haven",
-	  "birthStateAbbr": "CT",
-	  "birthdate": "1946-07-06",
-	  "spouses": ["Laura Bush"]
-    },
-    {
-      "number": "44",
-      "name": "Barack Obama",
-      "startDate": "2009-01-20",
-      "endDate": "2017-01-20",
-      "portraitURL": "https://library.whitehousehistory.org/fotoweb/cache/v2/C/O/Main%20Index/Portraits/1135359.tif.mSf85K3aMcfXSZNjYBMA.J_HgppqShG.jpg",
-      "portraitDesc": "Portrait by Robert McCurdy in 2018. Oil on canvas, 53 3/4 x 48 inches.",
-      "portraitSource": "White House Collection/White House Historical Association",
-	  "party": "Democrat",
-	  "birthCity": "Honolulu",
-	  "birthStateAbbr": "HI",
-	  "birthdate": "1961-08-04",
-	  "spouses": ["Michelle Obama"]
-    },
-    {
-      "number": "45",
-      "name": "Donald J. Trump",
-      "startDate": "2017-01-20",
-      "endDate": "2021-01-20",
-      "portraitURL": "https://d1y822qhq55g6.cloudfront.net/default/_superImage/Trump-Fagan.jpg",
-      "portraitDesc": "Portrait by Chas Fagan",
-      "portraitSource": "White House Collection/White House Historical Association",
-	  "party": "Republican",
-	  "birthCity": "New York",
-	  "birthStateAbbr": "NY",
-	  "birthdate": "1946-06-14",
-	  "spouses": ["Ivana Trump", "Marla Maples", "Melania Trump"]
-    },
-    {
-      "number": "46",
-      "name": "Joseph R. Biden Jr.",
-      "startDate": "2021-01-20",
-      "endDate": "present",
-      "portraitURL": "https://d1y822qhq55g6.cloudfront.net/default/_portrait/Pres_Joe_Biden_Official_Photo.jpeg",
-      "portraitDesc": "Official White House Photo by Aaron Schultz",
-      "portraitSource": "White House Collection/White House Historical Association",
-	  "party": "Democrat",
-	  "birthCity": "Scranton",
-	  "birthStateAbbr": "PA",
-	  "birthdate": "1942-11-20",
-	  "spouses": ["Neillia Hunter Biden", "Jill Biden"]
-    }
-  ]
+    "dataset": "presidents",
+    "presidents": [
+        {
+            "number": "32",
+            "name": "Franklin D. Roosevelt",
+            "startDate": "1933-03-04",
+            "endDate": "1945-04-12",
+            "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/franklin-d.-roosevelt.jpg",
+            "portraitDesc": "Portrait by Frank O. Salisbury in 1947. Oil on canvas, 50 1/4 x 40 3/8 inches.",
+            "portraitSource": "White House Collection/White House Historical Association",
+            "party": "Democrat",
+            "birthCity": "Hyde Park",
+            "birthStateAbbr": "NY",
+            "birthdate": "1882-01-30",
+            "spouses": [
+                "Eleanor Roosevelt"
+            ]
+        },
+        {
+            "number": "33",
+            "name": "Harry S Truman",
+            "startDate": "1945-04-12",
+            "endDate": "1953-01-20",
+            "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/harry-s.-truman.jpg",
+            "portraitDesc": "Portrait by Martha Greta Kempton in 1947. Oil on canvas, 50 x 40 1/4 inches.",
+            "portraitSource": "White House Collection/White House Historical Association",
+            "party": "Democrat",
+            "birthCity": "Lamar",
+            "birthStateAbbr": "MO",
+            "birthdate": "1884-05-08",
+            "spouses": [
+                "Bess Truman"
+            ]
+        },
+        {
+            "number": "34",
+            "name": "Dwight D. Eisenhower",
+            "startDate": "1953-01-20",
+            "endDate": "1961-01-20",
+            "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/dwight-eisenhower.jpg",
+            "portraitDesc": "Portrait by James Anthony Wills in 1967. Oil on panel, 48 x 38 inches. ",
+            "portraitSource": "White House Collection/White House Historical Association",
+            "party": "Republican",
+            "birthCity": "Denison",
+            "birthStateAbbr": "TX",
+            "birthdate": "1890-10-14",
+            "spouses": [
+                "Mamie Eisenhower"
+            ]
+        },
+        {
+            "number": "35",
+            "name": "John F. Kennedy",
+            "startDate": "1961-01-20",
+            "endDate": "1963-11-22",
+            "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/john_f_kennedy.jpg",
+            "portraitDesc": "Portrait by Aaron Shikler in 1970. Oil on canvas, 50 x 34 inches. ",
+            "portraitSource": "White House Collection/White House Historical Association",
+            "party": "Democrat",
+            "birthCity": "Brookline",
+            "birthStateAbbr": "MA",
+            "birthdate": "1917-05-29",
+            "spouses": [
+                "Jacqueline Kennedy Onassis"
+            ]
+        },
+        {
+            "number": "36",
+            "name": "Lyndon B. Johnson",
+            "startDate": "1963-11-22",
+            "endDate": "1969-01-20",
+            "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/lyndon_b_johnson.jpg",
+            "portraitDesc": "Portrait by Elizabeth Shoumatoff in 1968. Oil on canvas, 31 5/8 x 26 1/2 inches.",
+            "portraitSource": "White House Collection/White House Historical Association",
+            "party": "Democrat",
+            "birthCity": "Stonewall",
+            "birthStateAbbr": "TX",
+            "birthdate": "1908-08-27",
+            "spouses": [
+                "Claudia Alta Johnson"
+            ]
+        },
+        {
+            "number": "37",
+            "name": "Richard Nixon",
+            "startDate": "1969-01-20",
+            "endDate": "1974-08-09",
+            "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/richard-nixon.jpg",
+            "portraitDesc": "Portrait by James Anthony Wills in 1984. Oil on panel, 45 3/4 x 34 7/8 inches. ",
+            "portraitSource": "White House Collection/White House Historical Association",
+            "party": "Republican",
+            "birthCity": "Yorba Linda",
+            "birthStateAbbr": "CA",
+            "birthdate": "1913-01-09",
+            "spouses": [
+                "Pat Nixon"
+            ]
+        },
+        {
+            "number": "38",
+            "name": "Gerald Ford",
+            "startDate": "1974-08-09",
+            "endDate": "1977-01-20",
+            "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/gerald-ford.jpg",
+            "portraitDesc": "Portrait by Everett Raymond Kinstler in 1977. Oil on canvas, 40 x 34 inches. ",
+            "portraitSource": "White House Collection/White House Historical Association",
+            "party": "Republican",
+            "birthCity": "Omaha",
+            "birthStateAbbr": "NE",
+            "birthdate": "1913-07-14",
+            "spouses": [
+                "Betty Ford"
+            ]
+        },
+        {
+            "number": "39",
+            "name": "Jimmy Carter",
+            "startDate": "1977-01-20",
+            "endDate": "1981-01-20",
+            "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/jimmy_carter.jpg",
+            "portraitDesc": "Portrait by Herbert E. Abrams in 1982. Oil on canvas, 38 1/16 x 32 1/16 inches. ",
+            "portraitSource": "White House Collection/White House Historical Association",
+            "party": "Democrat",
+            "birthCity": "Plains",
+            "birthStateAbbr": "GA",
+            "birthdate": "1924-10-01",
+            "spouses": [
+                "Rosalynn Carter"
+            ]
+        },
+        {
+            "number": "40",
+            "name": "Ronald Reagan",
+            "startDate": "1981-01-20",
+            "endDate": "1989-01-20",
+            "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/ronald-reagan.jpg",
+            "portraitDesc": "Portrait by Everett Raymond Kinstler in 1991. Oil on canvas, 50 1/8 x 40 1/8 inches. ",
+            "portraitSource": "White House Collection/White House Historical Association",
+            "party": "Republican",
+            "birthCity": "Tampico",
+            "birthStateAbbr": "IL",
+            "birthdate": "1911-02-06",
+            "spouses": [
+                "Jane Wyman",
+                "Nancy Reagan"
+            ]
+        },
+        {
+            "number": "41",
+            "name": "George H. W. Bush",
+            "startDate": "1989-01-20",
+            "endDate": "1993-01-20",
+            "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/george-h.w.-bush_0.jpg",
+            "portraitDesc": "Portrait by Herbert E. Abrams in 1994. Oil on canvas, 50 1/4 x 40 1/8 inches. ",
+            "portraitSource": "White House Collection/White House Historical Association",
+            "party": "Republican",
+            "birthCity": "Milton",
+            "birthStateAbbr": "MA",
+            "birthdate": "1924-06-12",
+            "spouses": [
+                "Barbara Bush"
+            ]
+        },
+        {
+            "number": "42",
+            "name": "Bill Clinton",
+            "startDate": "1993-01-20",
+            "endDate": "2001-01-20",
+            "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/william_clinton.jpg",
+            "portraitDesc": "Portrait by Simmie Knox in 2002. Oil on canvas, 56 x 44 1/8 inches. ",
+            "portraitSource": "White House Collection/White House Historical Association",
+            "party": "Democrat",
+            "birthCity": "Hope",
+            "birthStateAbbr": "AR",
+            "birthdate": "1946-08-19",
+            "spouses": [
+                "Hillary Clinton"
+            ]
+        },
+        {
+            "number": "43",
+            "name": "George W. Bush",
+            "startDate": "2001-01-20",
+            "endDate": "2009-01-20",
+            "portraitURL": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/portrait_georgewbush_324x404.jpg",
+            "portraitDesc": "Portrait by John Howard Sanden in 2011. Oil on canvas, 49 3/4 x 40 1/8 inches. ",
+            "portraitSource": "White House Collection/White House Historical Association",
+            "party": "Republican",
+            "birthCity": "New Haven",
+            "birthStateAbbr": "CT",
+            "birthdate": "1946-07-06",
+            "spouses": [
+                "Laura Bush"
+            ]
+        },
+        {
+            "number": "44",
+            "name": "Barack Obama",
+            "startDate": "2009-01-20",
+            "endDate": "2017-01-20",
+            "portraitURL": "https://library.whitehousehistory.org/fotoweb/cache/v2/C/O/Main%20Index/Portraits/1135359.tif.mSf85K3aMcfXSZNjYBMA.J_HgppqShG.jpg",
+            "portraitDesc": "Portrait by Robert McCurdy in 2018. Oil on canvas, 53 3/4 x 48 inches.",
+            "portraitSource": "White House Collection/White House Historical Association",
+            "party": "Democrat",
+            "birthCity": "Honolulu",
+            "birthStateAbbr": "HI",
+            "birthdate": "1961-08-04",
+            "spouses": [
+                "Michelle Obama"
+            ]
+        },
+        {
+            "number": "45",
+            "name": "Donald J. Trump",
+            "startDate": "2017-01-20",
+            "endDate": "2021-01-20",
+            "portraitURL": "https://d1y822qhq55g6.cloudfront.net/default/_superImage/Trump-Fagan.jpg",
+            "portraitDesc": "Portrait by Chas Fagan",
+            "portraitSource": "White House Collection/White House Historical Association",
+            "party": "Republican",
+            "birthCity": "New York",
+            "birthStateAbbr": "NY",
+            "birthdate": "1946-06-14",
+            "spouses": [
+                "Ivana Trump",
+                "Marla Maples",
+                "Melania Trump"
+            ]
+        },
+        {
+            "number": "46",
+            "name": "Joseph R. Biden Jr.",
+            "startDate": "2021-01-20",
+            "endDate": "present",
+            "portraitURL": "https://d1y822qhq55g6.cloudfront.net/default/_portrait/Pres_Joe_Biden_Official_Photo.jpeg",
+            "portraitDesc": "Official White House Photo by Aaron Schultz",
+            "portraitSource": "White House Collection/White House Historical Association",
+            "party": "Democrat",
+            "birthCity": "Scranton",
+            "birthStateAbbr": "PA",
+            "birthdate": "1942-11-20",
+            "spouses": [
+                "Neillia Hunter Biden",
+                "Jill Biden"
+            ]
+        }
+    ]
 }
